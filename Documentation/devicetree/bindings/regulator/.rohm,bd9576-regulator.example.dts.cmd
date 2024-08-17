@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/rohm,bd9576-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/rohm,bd9576-regulator.yaml > Documentation/devicetree/bindings/regulator/rohm,bd9576-regulator.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mailbox/mtk,adsp-mbox.example.dts := dt-extract-example Documentation/devicetree/bindings/mailbox/mtk,adsp-mbox.yaml > Documentation/devicetree/bindings/mailbox/mtk,adsp-mbox.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/dsa/nxp,sja1105.example.dts := dt-extract-example Documentation/devicetree/bindings/net/dsa/nxp,sja1105.yaml > Documentation/devicetree/bindings/net/dsa/nxp,sja1105.example.dts

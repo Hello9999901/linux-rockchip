@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/marvell,ac5-pinctrl.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/marvell,ac5-pinctrl.yaml > Documentation/devicetree/bindings/pinctrl/marvell,ac5-pinctrl.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/aspeed/uart-routing.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/aspeed/uart-routing.yaml > Documentation/devicetree/bindings/soc/aspeed/uart-routing.example.dts

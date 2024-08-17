@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/imx/fsl,imx8mq-vpu-blk-ctrl.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/imx/fsl,imx8mq-vpu-blk-ctrl.yaml > Documentation/devicetree/bindings/soc/imx/fsl,imx8mq-vpu-blk-ctrl.example.dts

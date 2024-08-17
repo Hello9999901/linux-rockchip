@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/qcom,bam-dmux.example.dts := dt-extract-example Documentation/devicetree/bindings/net/qcom,bam-dmux.yaml > Documentation/devicetree/bindings/net/qcom,bam-dmux.example.dts

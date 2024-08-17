@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/wireless/brcm,bcm4329-fmac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/wireless/brcm,bcm4329-fmac.yaml > Documentation/devicetree/bindings/net/wireless/brcm,bcm4329-fmac.example.dts

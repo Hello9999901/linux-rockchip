@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/mscc,vsc7514-switch.example.dts := dt-extract-example Documentation/devicetree/bindings/net/mscc,vsc7514-switch.yaml > Documentation/devicetree/bindings/net/mscc,vsc7514-switch.example.dts

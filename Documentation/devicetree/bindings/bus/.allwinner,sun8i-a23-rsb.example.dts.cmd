@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/bus/allwinner,sun8i-a23-rsb.example.dts := dt-extract-example Documentation/devicetree/bindings/bus/allwinner,sun8i-a23-rsb.yaml > Documentation/devicetree/bindings/bus/allwinner,sun8i-a23-rsb.example.dts

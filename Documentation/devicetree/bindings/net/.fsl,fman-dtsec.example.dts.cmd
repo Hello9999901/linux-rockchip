@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/fsl,fman-dtsec.example.dts := dt-extract-example Documentation/devicetree/bindings/net/fsl,fman-dtsec.yaml > Documentation/devicetree/bindings/net/fsl,fman-dtsec.example.dts

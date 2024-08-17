@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/ufs/renesas,ufs.example.dts := dt-extract-example Documentation/devicetree/bindings/ufs/renesas,ufs.yaml > Documentation/devicetree/bindings/ufs/renesas,ufs.example.dts

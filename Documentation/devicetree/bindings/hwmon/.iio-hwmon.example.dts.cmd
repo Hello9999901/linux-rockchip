@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/iio-hwmon.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/iio-hwmon.yaml > Documentation/devicetree/bindings/hwmon/iio-hwmon.example.dts

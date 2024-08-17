@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/intel,ixp46x-ptp-timer.example.dts := dt-extract-example Documentation/devicetree/bindings/net/intel,ixp46x-ptp-timer.yaml > Documentation/devicetree/bindings/net/intel,ixp46x-ptp-timer.example.dts

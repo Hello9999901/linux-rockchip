@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/fsl,scu-key.example.dts := dt-extract-example Documentation/devicetree/bindings/input/fsl,scu-key.yaml > Documentation/devicetree/bindings/input/fsl,scu-key.example.dts

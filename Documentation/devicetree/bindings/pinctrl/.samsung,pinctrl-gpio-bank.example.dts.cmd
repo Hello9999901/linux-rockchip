@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/samsung,pinctrl-gpio-bank.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/samsung,pinctrl-gpio-bank.yaml > Documentation/devicetree/bindings/pinctrl/samsung,pinctrl-gpio-bank.example.dts

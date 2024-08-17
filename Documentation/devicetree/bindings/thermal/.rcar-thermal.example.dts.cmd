@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/rcar-thermal.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/rcar-thermal.yaml > Documentation/devicetree/bindings/thermal/rcar-thermal.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/bus/baikal,bt1-axi.example.dts := dt-extract-example Documentation/devicetree/bindings/bus/baikal,bt1-axi.yaml > Documentation/devicetree/bindings/bus/baikal,bt1-axi.example.dts

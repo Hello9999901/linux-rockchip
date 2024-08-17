@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/intel,ixp4xx-interrupt.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/intel,ixp4xx-interrupt.yaml > Documentation/devicetree/bindings/interrupt-controller/intel,ixp4xx-interrupt.example.dts

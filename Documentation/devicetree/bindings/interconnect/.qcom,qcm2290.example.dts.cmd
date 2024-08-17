@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interconnect/qcom,qcm2290.example.dts := dt-extract-example Documentation/devicetree/bindings/interconnect/qcom,qcm2290.yaml > Documentation/devicetree/bindings/interconnect/qcom,qcm2290.example.dts

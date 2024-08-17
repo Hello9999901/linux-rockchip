@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/opp/allwinner,sun50i-h6-operating-points.example.dts := dt-extract-example Documentation/devicetree/bindings/opp/allwinner,sun50i-h6-operating-points.yaml > Documentation/devicetree/bindings/opp/allwinner,sun50i-h6-operating-points.example.dts

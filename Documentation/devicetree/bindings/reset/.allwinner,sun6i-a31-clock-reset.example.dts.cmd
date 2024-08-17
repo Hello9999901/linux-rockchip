@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/allwinner,sun6i-a31-clock-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/allwinner,sun6i-a31-clock-reset.yaml > Documentation/devicetree/bindings/reset/allwinner,sun6i-a31-clock-reset.example.dts

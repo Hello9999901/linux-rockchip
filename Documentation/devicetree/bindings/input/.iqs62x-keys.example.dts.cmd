@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/iqs62x-keys.example.dts := dt-extract-example Documentation/devicetree/bindings/input/iqs62x-keys.yaml > Documentation/devicetree/bindings/input/iqs62x-keys.example.dts

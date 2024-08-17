@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/cdns,cdns-pcie-host.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/cdns,cdns-pcie-host.yaml > Documentation/devicetree/bindings/pci/cdns,cdns-pcie-host.example.dts

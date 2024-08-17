@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/allwinner,sun4i-a10-lradc-keys.example.dts := dt-extract-example Documentation/devicetree/bindings/input/allwinner,sun4i-a10-lradc-keys.yaml > Documentation/devicetree/bindings/input/allwinner,sun4i-a10-lradc-keys.example.dts

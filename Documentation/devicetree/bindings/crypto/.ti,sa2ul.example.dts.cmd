@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/ti,sa2ul.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/ti,sa2ul.yaml > Documentation/devicetree/bindings/crypto/ti,sa2ul.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mailbox/mediatek,gce-mailbox.example.dts := dt-extract-example Documentation/devicetree/bindings/mailbox/mediatek,gce-mailbox.yaml > Documentation/devicetree/bindings/mailbox/mediatek,gce-mailbox.example.dts

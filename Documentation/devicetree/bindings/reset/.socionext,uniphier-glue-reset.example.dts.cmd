@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/socionext,uniphier-glue-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/socionext,uniphier-glue-reset.yaml > Documentation/devicetree/bindings/reset/socionext,uniphier-glue-reset.example.dts

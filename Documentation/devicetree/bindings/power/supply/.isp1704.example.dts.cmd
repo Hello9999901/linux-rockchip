@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/isp1704.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/isp1704.yaml > Documentation/devicetree/bindings/power/supply/isp1704.example.dts

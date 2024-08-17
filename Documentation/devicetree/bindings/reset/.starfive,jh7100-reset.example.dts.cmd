@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/starfive,jh7100-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/starfive,jh7100-reset.yaml > Documentation/devicetree/bindings/reset/starfive,jh7100-reset.example.dts

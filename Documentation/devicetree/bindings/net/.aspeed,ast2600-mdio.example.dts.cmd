@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/aspeed,ast2600-mdio.example.dts := dt-extract-example Documentation/devicetree/bindings/net/aspeed,ast2600-mdio.yaml > Documentation/devicetree/bindings/net/aspeed,ast2600-mdio.example.dts

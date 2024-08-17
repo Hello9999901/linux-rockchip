@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/renesas,sdhi.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/renesas,sdhi.yaml > Documentation/devicetree/bindings/mmc/renesas,sdhi.example.dts

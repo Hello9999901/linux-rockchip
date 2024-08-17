@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/renesas,rza1-ports.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/renesas,rza1-ports.yaml > Documentation/devicetree/bindings/pinctrl/renesas,rza1-ports.example.dts

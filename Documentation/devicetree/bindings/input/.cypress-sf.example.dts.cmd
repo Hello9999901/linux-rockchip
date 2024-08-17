@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/cypress-sf.example.dts := dt-extract-example Documentation/devicetree/bindings/input/cypress-sf.yaml > Documentation/devicetree/bindings/input/cypress-sf.example.dts

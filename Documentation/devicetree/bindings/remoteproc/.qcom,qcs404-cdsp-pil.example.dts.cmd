@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/qcom,qcs404-cdsp-pil.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/qcom,qcs404-cdsp-pil.yaml > Documentation/devicetree/bindings/remoteproc/qcom,qcs404-cdsp-pil.example.dts

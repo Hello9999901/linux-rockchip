@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/mscc,miim.example.dts := dt-extract-example Documentation/devicetree/bindings/net/mscc,miim.yaml > Documentation/devicetree/bindings/net/mscc,miim.example.dts

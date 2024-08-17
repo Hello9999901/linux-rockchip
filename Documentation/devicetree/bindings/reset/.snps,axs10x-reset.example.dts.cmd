@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/snps,axs10x-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/snps,axs10x-reset.yaml > Documentation/devicetree/bindings/reset/snps,axs10x-reset.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/renesas,rzg2l-pinctrl.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/renesas,rzg2l-pinctrl.yaml > Documentation/devicetree/bindings/pinctrl/renesas,rzg2l-pinctrl.example.dts

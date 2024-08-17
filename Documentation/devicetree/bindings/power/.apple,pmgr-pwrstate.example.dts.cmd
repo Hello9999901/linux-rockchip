@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/apple,pmgr-pwrstate.example.dts := dt-extract-example Documentation/devicetree/bindings/power/apple,pmgr-pwrstate.yaml > Documentation/devicetree/bindings/power/apple,pmgr-pwrstate.example.dts

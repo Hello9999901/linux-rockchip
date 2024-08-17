@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/ti,tps65219.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/ti,tps65219.yaml > Documentation/devicetree/bindings/regulator/ti,tps65219.example.dts

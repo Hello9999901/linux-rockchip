@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/cirrus,lochnagar.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/cirrus,lochnagar.yaml > Documentation/devicetree/bindings/pinctrl/cirrus,lochnagar.example.dts

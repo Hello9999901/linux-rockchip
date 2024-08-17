@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/cpufreq/cpufreq-qcom-hw.example.dts := dt-extract-example Documentation/devicetree/bindings/cpufreq/cpufreq-qcom-hw.yaml > Documentation/devicetree/bindings/cpufreq/cpufreq-qcom-hw.example.dts

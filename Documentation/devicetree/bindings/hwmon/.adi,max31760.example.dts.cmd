@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/adi,max31760.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/adi,max31760.yaml > Documentation/devicetree/bindings/hwmon/adi,max31760.example.dts

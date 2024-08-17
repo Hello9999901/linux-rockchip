@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/intel,lgm-emmc-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/intel,lgm-emmc-phy.yaml > Documentation/devicetree/bindings/phy/intel,lgm-emmc-phy.example.dts

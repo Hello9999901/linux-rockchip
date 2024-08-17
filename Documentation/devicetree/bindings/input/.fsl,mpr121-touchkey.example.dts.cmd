@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/fsl,mpr121-touchkey.example.dts := dt-extract-example Documentation/devicetree/bindings/input/fsl,mpr121-touchkey.yaml > Documentation/devicetree/bindings/input/fsl,mpr121-touchkey.example.dts

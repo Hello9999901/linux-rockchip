@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/samsung,exynos-hdmi-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/samsung,exynos-hdmi-phy.yaml > Documentation/devicetree/bindings/phy/samsung,exynos-hdmi-phy.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/socionext,uniphier-sd.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/socionext,uniphier-sd.yaml > Documentation/devicetree/bindings/mmc/socionext,uniphier-sd.example.dts

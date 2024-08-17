@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/samsung,exynos4210-mct.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/samsung,exynos4210-mct.yaml > Documentation/devicetree/bindings/timer/samsung,exynos4210-mct.example.dts

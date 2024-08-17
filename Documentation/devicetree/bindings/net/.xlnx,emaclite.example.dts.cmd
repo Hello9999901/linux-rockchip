@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/xlnx,emaclite.example.dts := dt-extract-example Documentation/devicetree/bindings/net/xlnx,emaclite.yaml > Documentation/devicetree/bindings/net/xlnx,emaclite.example.dts

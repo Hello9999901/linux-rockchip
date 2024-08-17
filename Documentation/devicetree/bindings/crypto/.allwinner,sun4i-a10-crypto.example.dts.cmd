@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/allwinner,sun4i-a10-crypto.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/allwinner,sun4i-a10-crypto.yaml > Documentation/devicetree/bindings/crypto/allwinner,sun4i-a10-crypto.example.dts

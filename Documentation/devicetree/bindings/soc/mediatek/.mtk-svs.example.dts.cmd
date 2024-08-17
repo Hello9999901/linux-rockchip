@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/mediatek/mtk-svs.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/mediatek/mtk-svs.yaml > Documentation/devicetree/bindings/soc/mediatek/mtk-svs.example.dts

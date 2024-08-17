@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interconnect/qcom,msm8974.example.dts := dt-extract-example Documentation/devicetree/bindings/interconnect/qcom,msm8974.yaml > Documentation/devicetree/bindings/interconnect/qcom,msm8974.example.dts

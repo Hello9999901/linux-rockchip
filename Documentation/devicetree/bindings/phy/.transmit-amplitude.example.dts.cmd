@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/transmit-amplitude.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/transmit-amplitude.yaml > Documentation/devicetree/bindings/phy/transmit-amplitude.example.dts

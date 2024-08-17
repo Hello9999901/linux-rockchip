@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/nxp,dwmac-imx.example.dts := dt-extract-example Documentation/devicetree/bindings/net/nxp,dwmac-imx.yaml > Documentation/devicetree/bindings/net/nxp,dwmac-imx.example.dts

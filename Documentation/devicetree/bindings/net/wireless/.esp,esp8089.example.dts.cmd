@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/wireless/esp,esp8089.example.dts := dt-extract-example Documentation/devicetree/bindings/net/wireless/esp,esp8089.yaml > Documentation/devicetree/bindings/net/wireless/esp,esp8089.example.dts

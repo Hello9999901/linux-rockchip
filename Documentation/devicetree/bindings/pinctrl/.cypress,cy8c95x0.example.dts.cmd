@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/cypress,cy8c95x0.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/cypress,cy8c95x0.yaml > Documentation/devicetree/bindings/pinctrl/cypress,cy8c95x0.example.dts

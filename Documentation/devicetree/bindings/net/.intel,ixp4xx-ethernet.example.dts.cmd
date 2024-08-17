@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/intel,ixp4xx-ethernet.example.dts := dt-extract-example Documentation/devicetree/bindings/net/intel,ixp4xx-ethernet.yaml > Documentation/devicetree/bindings/net/intel,ixp4xx-ethernet.example.dts

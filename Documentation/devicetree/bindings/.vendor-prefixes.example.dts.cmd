@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/vendor-prefixes.example.dts := dt-extract-example Documentation/devicetree/bindings/vendor-prefixes.yaml > Documentation/devicetree/bindings/vendor-prefixes.example.dts

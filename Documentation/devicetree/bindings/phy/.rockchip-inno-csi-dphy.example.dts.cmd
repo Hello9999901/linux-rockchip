@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/rockchip-inno-csi-dphy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/rockchip-inno-csi-dphy.yaml > Documentation/devicetree/bindings/phy/rockchip-inno-csi-dphy.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/micrel,ks8851.example.dts := dt-extract-example Documentation/devicetree/bindings/net/micrel,ks8851.yaml > Documentation/devicetree/bindings/net/micrel,ks8851.example.dts

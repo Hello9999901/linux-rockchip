@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/allwinner,sun50i-h6-usb3-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/allwinner,sun50i-h6-usb3-phy.yaml > Documentation/devicetree/bindings/phy/allwinner,sun50i-h6-usb3-phy.example.dts

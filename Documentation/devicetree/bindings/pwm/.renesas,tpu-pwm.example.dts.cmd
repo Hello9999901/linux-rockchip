@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/renesas,tpu-pwm.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/renesas,tpu-pwm.yaml > Documentation/devicetree/bindings/pwm/renesas,tpu-pwm.example.dts

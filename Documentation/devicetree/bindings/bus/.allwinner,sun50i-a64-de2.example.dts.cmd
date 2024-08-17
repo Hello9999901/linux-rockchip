@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/bus/allwinner,sun50i-a64-de2.example.dts := dt-extract-example Documentation/devicetree/bindings/bus/allwinner,sun50i-a64-de2.yaml > Documentation/devicetree/bindings/bus/allwinner,sun50i-a64-de2.example.dts

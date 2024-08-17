@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/ufs/ti,j721e-ufs.example.dts := dt-extract-example Documentation/devicetree/bindings/ufs/ti,j721e-ufs.yaml > Documentation/devicetree/bindings/ufs/ti,j721e-ufs.example.dts

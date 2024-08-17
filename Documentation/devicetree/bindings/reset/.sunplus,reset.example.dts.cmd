@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/sunplus,reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/sunplus,reset.yaml > Documentation/devicetree/bindings/reset/sunplus,reset.example.dts

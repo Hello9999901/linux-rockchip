@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/intel,ixp4xx-pci.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/intel,ixp4xx-pci.yaml > Documentation/devicetree/bindings/pci/intel,ixp4xx-pci.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/opencores,i2c-ocores.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/opencores,i2c-ocores.yaml > Documentation/devicetree/bindings/i2c/opencores,i2c-ocores.example.dts

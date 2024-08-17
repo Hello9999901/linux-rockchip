@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/microchip,mcp3021.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/microchip,mcp3021.yaml > Documentation/devicetree/bindings/hwmon/microchip,mcp3021.example.dts

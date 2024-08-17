@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/pixcir,pixcir_ts.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/pixcir,pixcir_ts.yaml > Documentation/devicetree/bindings/input/touchscreen/pixcir,pixcir_ts.example.dts

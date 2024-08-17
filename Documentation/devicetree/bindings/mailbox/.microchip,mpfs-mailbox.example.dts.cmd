@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mailbox/microchip,mpfs-mailbox.example.dts := dt-extract-example Documentation/devicetree/bindings/mailbox/microchip,mpfs-mailbox.yaml > Documentation/devicetree/bindings/mailbox/microchip,mpfs-mailbox.example.dts

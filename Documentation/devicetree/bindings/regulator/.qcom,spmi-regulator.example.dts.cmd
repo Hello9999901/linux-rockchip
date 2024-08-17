@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/qcom,spmi-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/qcom,spmi-regulator.yaml > Documentation/devicetree/bindings/regulator/qcom,spmi-regulator.example.dts

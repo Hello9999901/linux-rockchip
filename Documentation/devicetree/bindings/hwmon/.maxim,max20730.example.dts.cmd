@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/maxim,max20730.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/maxim,max20730.yaml > Documentation/devicetree/bindings/hwmon/maxim,max20730.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/mrvl,intc.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/mrvl,intc.yaml > Documentation/devicetree/bindings/interrupt-controller/mrvl,intc.example.dts

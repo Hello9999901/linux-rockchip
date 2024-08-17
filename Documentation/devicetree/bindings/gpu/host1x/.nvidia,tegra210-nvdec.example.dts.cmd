@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/gpu/host1x/nvidia,tegra210-nvdec.example.dts := dt-extract-example Documentation/devicetree/bindings/gpu/host1x/nvidia,tegra210-nvdec.yaml > Documentation/devicetree/bindings/gpu/host1x/nvidia,tegra210-nvdec.example.dts

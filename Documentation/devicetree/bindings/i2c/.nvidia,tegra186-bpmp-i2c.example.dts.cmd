@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/nvidia,tegra186-bpmp-i2c.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/nvidia,tegra186-bpmp-i2c.yaml > Documentation/devicetree/bindings/i2c/nvidia,tegra186-bpmp-i2c.example.dts

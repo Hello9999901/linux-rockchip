@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/qcom,ipq8064-mdio.example.dts := dt-extract-example Documentation/devicetree/bindings/net/qcom,ipq8064-mdio.yaml > Documentation/devicetree/bindings/net/qcom,ipq8064-mdio.example.dts

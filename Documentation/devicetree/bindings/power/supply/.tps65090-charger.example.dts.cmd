@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/tps65090-charger.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/tps65090-charger.yaml > Documentation/devicetree/bindings/power/supply/tps65090-charger.example.dts

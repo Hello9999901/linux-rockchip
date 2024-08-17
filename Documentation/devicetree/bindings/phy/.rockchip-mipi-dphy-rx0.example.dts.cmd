@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/rockchip-mipi-dphy-rx0.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/rockchip-mipi-dphy-rx0.yaml > Documentation/devicetree/bindings/phy/rockchip-mipi-dphy-rx0.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/reset/syscon-poweroff.example.dts := dt-extract-example Documentation/devicetree/bindings/power/reset/syscon-poweroff.yaml > Documentation/devicetree/bindings/power/reset/syscon-poweroff.example.dts

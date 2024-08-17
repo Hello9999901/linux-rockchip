@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interconnect/qcom,bcm-voter.example.dts := dt-extract-example Documentation/devicetree/bindings/interconnect/qcom,bcm-voter.yaml > Documentation/devicetree/bindings/interconnect/qcom,bcm-voter.example.dts

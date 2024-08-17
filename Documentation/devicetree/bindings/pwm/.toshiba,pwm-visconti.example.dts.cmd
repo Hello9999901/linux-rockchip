@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/toshiba,pwm-visconti.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/toshiba,pwm-visconti.yaml > Documentation/devicetree/bindings/pwm/toshiba,pwm-visconti.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/bq2415x.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/bq2415x.yaml > Documentation/devicetree/bindings/power/supply/bq2415x.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/wireless/ti,wlcore.example.dts := dt-extract-example Documentation/devicetree/bindings/net/wireless/ti,wlcore.yaml > Documentation/devicetree/bindings/net/wireless/ti,wlcore.example.dts

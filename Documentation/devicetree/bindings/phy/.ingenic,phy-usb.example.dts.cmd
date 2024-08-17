@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/ingenic,phy-usb.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/ingenic,phy-usb.yaml > Documentation/devicetree/bindings/phy/ingenic,phy-usb.example.dts

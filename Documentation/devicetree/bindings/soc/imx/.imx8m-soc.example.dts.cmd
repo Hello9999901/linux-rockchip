@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/imx/imx8m-soc.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/imx/imx8m-soc.yaml > Documentation/devicetree/bindings/soc/imx/imx8m-soc.example.dts

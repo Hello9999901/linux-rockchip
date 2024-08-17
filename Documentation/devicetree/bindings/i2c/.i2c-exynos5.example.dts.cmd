@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/i2c-exynos5.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/i2c-exynos5.yaml > Documentation/devicetree/bindings/i2c/i2c-exynos5.example.dts

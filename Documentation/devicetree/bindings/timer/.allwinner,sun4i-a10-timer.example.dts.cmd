@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/allwinner,sun4i-a10-timer.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/allwinner,sun4i-a10-timer.yaml > Documentation/devicetree/bindings/timer/allwinner,sun4i-a10-timer.example.dts

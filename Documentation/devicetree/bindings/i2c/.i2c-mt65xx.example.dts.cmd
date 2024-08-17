@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/i2c-mt65xx.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/i2c-mt65xx.yaml > Documentation/devicetree/bindings/i2c/i2c-mt65xx.example.dts

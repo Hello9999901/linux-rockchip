@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/kontron,sl28cpld-pwm.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/kontron,sl28cpld-pwm.yaml > Documentation/devicetree/bindings/pwm/kontron,sl28cpld-pwm.example.dts

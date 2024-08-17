@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/qca,ar71xx.example.dts := dt-extract-example Documentation/devicetree/bindings/net/qca,ar71xx.yaml > Documentation/devicetree/bindings/net/qca,ar71xx.example.dts

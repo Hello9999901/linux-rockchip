@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/mediatek/mediatek,wdma.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/mediatek/mediatek,wdma.yaml > Documentation/devicetree/bindings/soc/mediatek/mediatek,wdma.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/aspeed,sdhci.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/aspeed,sdhci.yaml > Documentation/devicetree/bindings/mmc/aspeed,sdhci.example.dts

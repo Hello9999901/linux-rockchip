@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/pine64,pinephone-keyboard.example.dts := dt-extract-example Documentation/devicetree/bindings/input/pine64,pinephone-keyboard.yaml > Documentation/devicetree/bindings/input/pine64,pinephone-keyboard.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/microchip,sparx5-sgpio.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/microchip,sparx5-sgpio.yaml > Documentation/devicetree/bindings/pinctrl/microchip,sparx5-sgpio.example.dts

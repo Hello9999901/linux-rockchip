@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/thermal-sensor.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/thermal-sensor.yaml > Documentation/devicetree/bindings/thermal/thermal-sensor.example.dts

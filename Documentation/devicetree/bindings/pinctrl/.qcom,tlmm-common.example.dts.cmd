@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/qcom,tlmm-common.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/qcom,tlmm-common.yaml > Documentation/devicetree/bindings/pinctrl/qcom,tlmm-common.example.dts

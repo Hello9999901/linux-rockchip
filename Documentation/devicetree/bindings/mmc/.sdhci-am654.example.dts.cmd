@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/sdhci-am654.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/sdhci-am654.yaml > Documentation/devicetree/bindings/mmc/sdhci-am654.example.dts

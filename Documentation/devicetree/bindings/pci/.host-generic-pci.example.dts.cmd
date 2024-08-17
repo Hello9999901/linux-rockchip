@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/host-generic-pci.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/host-generic-pci.yaml > Documentation/devicetree/bindings/pci/host-generic-pci.example.dts

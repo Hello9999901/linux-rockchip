@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/renesas,rmobile-iic.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/renesas,rmobile-iic.yaml > Documentation/devicetree/bindings/i2c/renesas,rmobile-iic.example.dts

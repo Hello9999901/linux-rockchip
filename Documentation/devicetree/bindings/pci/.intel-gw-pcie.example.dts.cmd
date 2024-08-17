@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/intel-gw-pcie.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/intel-gw-pcie.yaml > Documentation/devicetree/bindings/pci/intel-gw-pcie.example.dts

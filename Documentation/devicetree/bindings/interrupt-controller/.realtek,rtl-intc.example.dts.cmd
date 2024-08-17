@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/realtek,rtl-intc.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/realtek,rtl-intc.yaml > Documentation/devicetree/bindings/interrupt-controller/realtek,rtl-intc.example.dts

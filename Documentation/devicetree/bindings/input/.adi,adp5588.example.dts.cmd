@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/adi,adp5588.example.dts := dt-extract-example Documentation/devicetree/bindings/input/adi,adp5588.yaml > Documentation/devicetree/bindings/input/adi,adp5588.example.dts

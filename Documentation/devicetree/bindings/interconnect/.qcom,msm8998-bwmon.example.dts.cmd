@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interconnect/qcom,msm8998-bwmon.example.dts := dt-extract-example Documentation/devicetree/bindings/interconnect/qcom,msm8998-bwmon.yaml > Documentation/devicetree/bindings/interconnect/qcom,msm8998-bwmon.example.dts

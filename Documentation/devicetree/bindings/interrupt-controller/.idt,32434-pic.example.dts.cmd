@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/idt,32434-pic.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/idt,32434-pic.yaml > Documentation/devicetree/bindings/interrupt-controller/idt,32434-pic.example.dts

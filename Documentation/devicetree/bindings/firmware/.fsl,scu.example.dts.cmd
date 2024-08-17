@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/firmware/fsl,scu.example.dts := dt-extract-example Documentation/devicetree/bindings/firmware/fsl,scu.yaml > Documentation/devicetree/bindings/firmware/fsl,scu.example.dts

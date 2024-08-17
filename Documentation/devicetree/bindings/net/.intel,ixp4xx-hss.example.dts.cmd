@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/intel,ixp4xx-hss.example.dts := dt-extract-example Documentation/devicetree/bindings/net/intel,ixp4xx-hss.yaml > Documentation/devicetree/bindings/net/intel,ixp4xx-hss.example.dts

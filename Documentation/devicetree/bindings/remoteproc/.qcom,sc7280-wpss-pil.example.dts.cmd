@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/qcom,sc7280-wpss-pil.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/qcom,sc7280-wpss-pil.yaml > Documentation/devicetree/bindings/remoteproc/qcom,sc7280-wpss-pil.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/bus/brcm,gisb-arb.example.dts := dt-extract-example Documentation/devicetree/bindings/bus/brcm,gisb-arb.yaml > Documentation/devicetree/bindings/bus/brcm,gisb-arb.example.dts

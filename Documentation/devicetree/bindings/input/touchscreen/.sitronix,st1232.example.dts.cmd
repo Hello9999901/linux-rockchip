@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/sitronix,st1232.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/sitronix,st1232.yaml > Documentation/devicetree/bindings/input/touchscreen/sitronix,st1232.example.dts

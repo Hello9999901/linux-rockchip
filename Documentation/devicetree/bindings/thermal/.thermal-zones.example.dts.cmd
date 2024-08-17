@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/thermal-zones.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/thermal-zones.yaml > Documentation/devicetree/bindings/thermal/thermal-zones.example.dts

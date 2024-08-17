@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/marvell,orion-sdio.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/marvell,orion-sdio.yaml > Documentation/devicetree/bindings/mmc/marvell,orion-sdio.example.dts

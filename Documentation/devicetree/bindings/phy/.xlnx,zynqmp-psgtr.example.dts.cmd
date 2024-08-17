@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/xlnx,zynqmp-psgtr.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/xlnx,zynqmp-psgtr.yaml > Documentation/devicetree/bindings/phy/xlnx,zynqmp-psgtr.example.dts

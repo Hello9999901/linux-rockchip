@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mux/mux-controller.example.dts := dt-extract-example Documentation/devicetree/bindings/mux/mux-controller.yaml > Documentation/devicetree/bindings/mux/mux-controller.example.dts

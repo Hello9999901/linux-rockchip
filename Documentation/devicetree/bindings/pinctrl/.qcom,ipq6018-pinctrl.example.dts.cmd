@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/qcom,ipq6018-pinctrl.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/qcom,ipq6018-pinctrl.yaml > Documentation/devicetree/bindings/pinctrl/qcom,ipq6018-pinctrl.example.dts

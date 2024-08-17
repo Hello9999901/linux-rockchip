@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/toshiba,visconti-pcie.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/toshiba,visconti-pcie.yaml > Documentation/devicetree/bindings/pci/toshiba,visconti-pcie.example.dts

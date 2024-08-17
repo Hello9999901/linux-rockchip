@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/st,stm32-vrefbuf.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/st,stm32-vrefbuf.yaml > Documentation/devicetree/bindings/regulator/st,stm32-vrefbuf.example.dts

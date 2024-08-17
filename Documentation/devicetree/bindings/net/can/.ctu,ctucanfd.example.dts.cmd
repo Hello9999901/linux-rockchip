@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/can/ctu,ctucanfd.example.dts := dt-extract-example Documentation/devicetree/bindings/net/can/ctu,ctucanfd.yaml > Documentation/devicetree/bindings/net/can/ctu,ctucanfd.example.dts

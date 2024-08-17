@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/dsa/hirschmann,hellcreek.example.dts := dt-extract-example Documentation/devicetree/bindings/net/dsa/hirschmann,hellcreek.yaml > Documentation/devicetree/bindings/net/dsa/hirschmann,hellcreek.example.dts

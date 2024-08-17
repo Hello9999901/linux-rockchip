@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/samsung,pinctrl-pins-cfg.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/samsung,pinctrl-pins-cfg.yaml > Documentation/devicetree/bindings/pinctrl/samsung,pinctrl-pins-cfg.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/max77650-onkey.example.dts := dt-extract-example Documentation/devicetree/bindings/input/max77650-onkey.yaml > Documentation/devicetree/bindings/input/max77650-onkey.example.dts

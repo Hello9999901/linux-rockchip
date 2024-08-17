@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/nvidia,tegra30-tsensor.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/nvidia,tegra30-tsensor.yaml > Documentation/devicetree/bindings/thermal/nvidia,tegra30-tsensor.example.dts

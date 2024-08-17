@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reserved-memory/phram.example.dts := dt-extract-example Documentation/devicetree/bindings/reserved-memory/phram.yaml > Documentation/devicetree/bindings/reserved-memory/phram.example.dts

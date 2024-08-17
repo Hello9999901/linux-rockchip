@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/serio/allwinner,sun4i-a10-ps2.example.dts := dt-extract-example Documentation/devicetree/bindings/serio/allwinner,sun4i-a10-ps2.yaml > Documentation/devicetree/bindings/serio/allwinner,sun4i-a10-ps2.example.dts

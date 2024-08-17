@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/pwm-tiehrpwm.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/pwm-tiehrpwm.yaml > Documentation/devicetree/bindings/pwm/pwm-tiehrpwm.example.dts

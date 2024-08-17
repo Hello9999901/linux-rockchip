@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/intel,combo-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/intel,combo-phy.yaml > Documentation/devicetree/bindings/phy/intel,combo-phy.example.dts

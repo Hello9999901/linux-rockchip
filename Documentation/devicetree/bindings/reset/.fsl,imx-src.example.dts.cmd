@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/fsl,imx-src.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/fsl,imx-src.yaml > Documentation/devicetree/bindings/reset/fsl,imx-src.example.dts

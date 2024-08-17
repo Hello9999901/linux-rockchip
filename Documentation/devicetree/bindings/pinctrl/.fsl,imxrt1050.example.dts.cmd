@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/fsl,imxrt1050.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/fsl,imxrt1050.yaml > Documentation/devicetree/bindings/pinctrl/fsl,imxrt1050.example.dts

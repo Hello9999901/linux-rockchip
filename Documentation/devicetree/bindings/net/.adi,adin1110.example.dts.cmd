@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/adi,adin1110.example.dts := dt-extract-example Documentation/devicetree/bindings/net/adi,adin1110.yaml > Documentation/devicetree/bindings/net/adi,adin1110.example.dts

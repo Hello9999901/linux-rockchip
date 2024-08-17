@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/dlg,da9150-fuel-gauge.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/dlg,da9150-fuel-gauge.yaml > Documentation/devicetree/bindings/power/supply/dlg,da9150-fuel-gauge.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/microchip,dw-sparx5-sdhci.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/microchip,dw-sparx5-sdhci.yaml > Documentation/devicetree/bindings/mmc/microchip,dw-sparx5-sdhci.example.dts

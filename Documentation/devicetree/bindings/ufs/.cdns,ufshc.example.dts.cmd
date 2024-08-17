@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/ufs/cdns,ufshc.example.dts := dt-extract-example Documentation/devicetree/bindings/ufs/cdns,ufshc.yaml > Documentation/devicetree/bindings/ufs/cdns,ufshc.example.dts

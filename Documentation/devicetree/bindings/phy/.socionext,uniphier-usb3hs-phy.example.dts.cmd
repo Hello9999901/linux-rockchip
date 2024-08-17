@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/socionext,uniphier-usb3hs-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/socionext,uniphier-usb3hs-phy.yaml > Documentation/devicetree/bindings/phy/socionext,uniphier-usb3hs-phy.example.dts

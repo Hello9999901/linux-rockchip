@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/bus/arm,integrator-ap-lm.example.dts := dt-extract-example Documentation/devicetree/bindings/bus/arm,integrator-ap-lm.yaml > Documentation/devicetree/bindings/bus/arm,integrator-ap-lm.example.dts

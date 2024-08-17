@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/cpu/idle-states.example.dts := dt-extract-example Documentation/devicetree/bindings/cpu/idle-states.yaml > Documentation/devicetree/bindings/cpu/idle-states.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/nxp,pf8x00-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/nxp,pf8x00-regulator.yaml > Documentation/devicetree/bindings/regulator/nxp,pf8x00-regulator.example.dts

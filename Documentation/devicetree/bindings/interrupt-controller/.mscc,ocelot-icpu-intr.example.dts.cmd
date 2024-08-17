@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/mscc,ocelot-icpu-intr.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/mscc,ocelot-icpu-intr.yaml > Documentation/devicetree/bindings/interrupt-controller/mscc,ocelot-icpu-intr.example.dts

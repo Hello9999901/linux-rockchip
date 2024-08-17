@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/powerpc/sleep.example.dts := dt-extract-example Documentation/devicetree/bindings/powerpc/sleep.yaml > Documentation/devicetree/bindings/powerpc/sleep.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/actions,owl-sirq.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/actions,owl-sirq.yaml > Documentation/devicetree/bindings/interrupt-controller/actions,owl-sirq.example.dts

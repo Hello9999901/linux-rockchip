@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/sensirion,shtc1.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/sensirion,shtc1.yaml > Documentation/devicetree/bindings/hwmon/sensirion,shtc1.example.dts

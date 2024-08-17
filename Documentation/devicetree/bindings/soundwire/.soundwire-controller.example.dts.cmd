@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soundwire/soundwire-controller.example.dts := dt-extract-example Documentation/devicetree/bindings/soundwire/soundwire-controller.yaml > Documentation/devicetree/bindings/soundwire/soundwire-controller.example.dts

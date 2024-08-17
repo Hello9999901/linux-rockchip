@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interconnect/samsung,exynos-bus.example.dts := dt-extract-example Documentation/devicetree/bindings/interconnect/samsung,exynos-bus.yaml > Documentation/devicetree/bindings/interconnect/samsung,exynos-bus.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/amlogic,meson-axg-audio-arb.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/amlogic,meson-axg-audio-arb.yaml > Documentation/devicetree/bindings/reset/amlogic,meson-axg-audio-arb.example.dts

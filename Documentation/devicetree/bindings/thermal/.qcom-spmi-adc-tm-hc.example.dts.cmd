@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/qcom-spmi-adc-tm-hc.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/qcom-spmi-adc-tm-hc.yaml > Documentation/devicetree/bindings/thermal/qcom-spmi-adc-tm-hc.example.dts

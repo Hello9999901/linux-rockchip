@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/ibm,occ-hwmon.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/ibm,occ-hwmon.yaml > Documentation/devicetree/bindings/hwmon/ibm,occ-hwmon.example.dts

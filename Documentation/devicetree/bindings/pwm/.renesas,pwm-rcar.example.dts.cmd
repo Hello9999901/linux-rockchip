@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/renesas,pwm-rcar.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/renesas,pwm-rcar.yaml > Documentation/devicetree/bindings/pwm/renesas,pwm-rcar.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/imx/fsl,imx8mn-disp-blk-ctrl.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/imx/fsl,imx8mn-disp-blk-ctrl.yaml > Documentation/devicetree/bindings/soc/imx/fsl,imx8mn-disp-blk-ctrl.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/brcm,sdhci-brcmstb.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/brcm,sdhci-brcmstb.yaml > Documentation/devicetree/bindings/mmc/brcm,sdhci-brcmstb.example.dts

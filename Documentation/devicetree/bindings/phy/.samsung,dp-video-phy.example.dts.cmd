@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/samsung,dp-video-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/samsung,dp-video-phy.yaml > Documentation/devicetree/bindings/phy/samsung,dp-video-phy.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/nfc/st,st95hf.example.dts := dt-extract-example Documentation/devicetree/bindings/net/nfc/st,st95hf.yaml > Documentation/devicetree/bindings/net/nfc/st,st95hf.example.dts

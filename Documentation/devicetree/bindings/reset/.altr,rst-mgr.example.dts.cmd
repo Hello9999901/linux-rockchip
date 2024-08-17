@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/altr,rst-mgr.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/altr,rst-mgr.yaml > Documentation/devicetree/bindings/reset/altr,rst-mgr.example.dts

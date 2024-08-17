@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/ufs/ufs-common.example.dts := dt-extract-example Documentation/devicetree/bindings/ufs/ufs-common.yaml > Documentation/devicetree/bindings/ufs/ufs-common.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/ti,phy-j721e-wiz.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/ti,phy-j721e-wiz.yaml > Documentation/devicetree/bindings/phy/ti,phy-j721e-wiz.example.dts

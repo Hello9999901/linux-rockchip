@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/x-powers,axp20x-battery-power-supply.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/x-powers,axp20x-battery-power-supply.yaml > Documentation/devicetree/bindings/power/supply/x-powers,axp20x-battery-power-supply.example.dts

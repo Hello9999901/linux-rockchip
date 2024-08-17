@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/microchip,lan95xx.example.dts := dt-extract-example Documentation/devicetree/bindings/net/microchip,lan95xx.yaml > Documentation/devicetree/bindings/net/microchip,lan95xx.example.dts

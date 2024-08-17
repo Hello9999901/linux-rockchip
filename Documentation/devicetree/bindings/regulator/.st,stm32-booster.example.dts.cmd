@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/st,stm32-booster.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/st,stm32-booster.yaml > Documentation/devicetree/bindings/regulator/st,stm32-booster.example.dts

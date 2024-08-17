@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/brcm,ns-thermal.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/brcm,ns-thermal.yaml > Documentation/devicetree/bindings/thermal/brcm,ns-thermal.example.dts

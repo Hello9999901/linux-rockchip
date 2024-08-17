@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/asix,ax88796c.example.dts := dt-extract-example Documentation/devicetree/bindings/net/asix,ax88796c.yaml > Documentation/devicetree/bindings/net/asix,ax88796c.example.dts

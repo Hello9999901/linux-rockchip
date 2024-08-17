@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/bus/mti,mips-cdmm.example.dts := dt-extract-example Documentation/devicetree/bindings/bus/mti,mips-cdmm.yaml > Documentation/devicetree/bindings/bus/mti,mips-cdmm.example.dts

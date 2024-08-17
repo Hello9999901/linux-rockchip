@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/mediatek/devapc.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/mediatek/devapc.yaml > Documentation/devicetree/bindings/soc/mediatek/devapc.example.dts

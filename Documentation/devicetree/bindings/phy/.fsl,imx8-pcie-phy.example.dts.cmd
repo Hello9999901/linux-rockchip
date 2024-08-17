@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/fsl,imx8-pcie-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/fsl,imx8-pcie-phy.yaml > Documentation/devicetree/bindings/phy/fsl,imx8-pcie-phy.example.dts

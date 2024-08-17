@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/qcom,pil-info.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/qcom,pil-info.yaml > Documentation/devicetree/bindings/remoteproc/qcom,pil-info.example.dts

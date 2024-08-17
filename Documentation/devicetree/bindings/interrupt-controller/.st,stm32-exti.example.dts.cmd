@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/st,stm32-exti.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/st,stm32-exti.yaml > Documentation/devicetree/bindings/interrupt-controller/st,stm32-exti.example.dts

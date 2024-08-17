@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/intel,keembay-pwm.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/intel,keembay-pwm.yaml > Documentation/devicetree/bindings/pwm/intel,keembay-pwm.example.dts

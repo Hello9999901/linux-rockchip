@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/intel,lgm-usb-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/intel,lgm-usb-phy.yaml > Documentation/devicetree/bindings/phy/intel,lgm-usb-phy.example.dts

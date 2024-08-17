@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/gpio-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/gpio-regulator.yaml > Documentation/devicetree/bindings/regulator/gpio-regulator.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/samsung,s3c2410-i2c.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/samsung,s3c2410-i2c.yaml > Documentation/devicetree/bindings/i2c/samsung,s3c2410-i2c.example.dts

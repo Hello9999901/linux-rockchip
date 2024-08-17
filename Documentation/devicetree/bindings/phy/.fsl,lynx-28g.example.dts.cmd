@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/fsl,lynx-28g.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/fsl,lynx-28g.yaml > Documentation/devicetree/bindings/phy/fsl,lynx-28g.example.dts

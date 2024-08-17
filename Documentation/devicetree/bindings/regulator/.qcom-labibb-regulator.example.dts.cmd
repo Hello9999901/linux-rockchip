@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/qcom-labibb-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/qcom-labibb-regulator.yaml > Documentation/devicetree/bindings/regulator/qcom-labibb-regulator.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/bcm/brcm,bcm2835-vchiq.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/bcm/brcm,bcm2835-vchiq.yaml > Documentation/devicetree/bindings/soc/bcm/brcm,bcm2835-vchiq.example.dts

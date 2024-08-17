@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/bitmain,bm1880-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/bitmain,bm1880-reset.yaml > Documentation/devicetree/bindings/reset/bitmain,bm1880-reset.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/lantiq,etop-xway.example.dts := dt-extract-example Documentation/devicetree/bindings/net/lantiq,etop-xway.yaml > Documentation/devicetree/bindings/net/lantiq,etop-xway.example.dts

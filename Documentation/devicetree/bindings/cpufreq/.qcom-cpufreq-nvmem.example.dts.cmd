@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/cpufreq/qcom-cpufreq-nvmem.example.dts := dt-extract-example Documentation/devicetree/bindings/cpufreq/qcom-cpufreq-nvmem.yaml > Documentation/devicetree/bindings/cpufreq/qcom-cpufreq-nvmem.example.dts

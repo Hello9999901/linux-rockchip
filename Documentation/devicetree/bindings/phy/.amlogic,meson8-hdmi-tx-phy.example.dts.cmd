@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/amlogic,meson8-hdmi-tx-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/amlogic,meson8-hdmi-tx-phy.yaml > Documentation/devicetree/bindings/phy/amlogic,meson8-hdmi-tx-phy.example.dts

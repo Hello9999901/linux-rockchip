@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/qcom,glink-edge.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/qcom,glink-edge.yaml > Documentation/devicetree/bindings/remoteproc/qcom,glink-edge.example.dts

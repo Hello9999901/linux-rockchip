@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/spmi/qcom,spmi-pmic-arb.example.dts := dt-extract-example Documentation/devicetree/bindings/spmi/qcom,spmi-pmic-arb.yaml > Documentation/devicetree/bindings/spmi/qcom,spmi-pmic-arb.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mailbox/qcom-ipcc.example.dts := dt-extract-example Documentation/devicetree/bindings/mailbox/qcom-ipcc.yaml > Documentation/devicetree/bindings/mailbox/qcom-ipcc.example.dts

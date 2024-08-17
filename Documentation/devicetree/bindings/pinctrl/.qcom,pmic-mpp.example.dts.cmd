@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/qcom,pmic-mpp.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/qcom,pmic-mpp.yaml > Documentation/devicetree/bindings/pinctrl/qcom,pmic-mpp.example.dts

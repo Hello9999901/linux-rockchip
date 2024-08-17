@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/marvell,dove-sdhci.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/marvell,dove-sdhci.yaml > Documentation/devicetree/bindings/mmc/marvell,dove-sdhci.example.dts

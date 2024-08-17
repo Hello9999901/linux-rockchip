@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/jedec,jc42.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/jedec,jc42.yaml > Documentation/devicetree/bindings/hwmon/jedec,jc42.example.dts

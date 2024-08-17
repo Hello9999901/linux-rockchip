@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/bcm-ns-usb2-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/bcm-ns-usb2-phy.yaml > Documentation/devicetree/bindings/phy/bcm-ns-usb2-phy.example.dts

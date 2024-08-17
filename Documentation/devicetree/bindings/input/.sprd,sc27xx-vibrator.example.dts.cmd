@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/sprd,sc27xx-vibrator.example.dts := dt-extract-example Documentation/devicetree/bindings/input/sprd,sc27xx-vibrator.yaml > Documentation/devicetree/bindings/input/sprd,sc27xx-vibrator.example.dts

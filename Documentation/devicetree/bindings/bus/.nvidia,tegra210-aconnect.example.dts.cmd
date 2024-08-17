@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/bus/nvidia,tegra210-aconnect.example.dts := dt-extract-example Documentation/devicetree/bindings/bus/nvidia,tegra210-aconnect.yaml > Documentation/devicetree/bindings/bus/nvidia,tegra210-aconnect.example.dts

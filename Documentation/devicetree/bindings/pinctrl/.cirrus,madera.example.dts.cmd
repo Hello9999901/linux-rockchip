@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/cirrus,madera.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/cirrus,madera.yaml > Documentation/devicetree/bindings/pinctrl/cirrus,madera.example.dts

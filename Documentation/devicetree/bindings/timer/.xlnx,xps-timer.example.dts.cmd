@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/xlnx,xps-timer.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/xlnx,xps-timer.yaml > Documentation/devicetree/bindings/timer/xlnx,xps-timer.example.dts

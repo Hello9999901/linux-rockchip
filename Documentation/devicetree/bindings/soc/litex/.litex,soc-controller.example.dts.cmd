@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/litex/litex,soc-controller.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/litex/litex,soc-controller.yaml > Documentation/devicetree/bindings/soc/litex/litex,soc-controller.example.dts

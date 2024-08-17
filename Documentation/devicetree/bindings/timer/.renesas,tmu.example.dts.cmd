@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/renesas,tmu.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/renesas,tmu.yaml > Documentation/devicetree/bindings/timer/renesas,tmu.example.dts

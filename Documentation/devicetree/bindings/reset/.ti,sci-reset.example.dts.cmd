@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/ti,sci-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/ti,sci-reset.yaml > Documentation/devicetree/bindings/reset/ti,sci-reset.example.dts

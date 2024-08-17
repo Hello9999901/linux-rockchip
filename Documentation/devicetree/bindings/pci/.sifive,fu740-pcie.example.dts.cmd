@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/sifive,fu740-pcie.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/sifive,fu740-pcie.yaml > Documentation/devicetree/bindings/pci/sifive,fu740-pcie.example.dts

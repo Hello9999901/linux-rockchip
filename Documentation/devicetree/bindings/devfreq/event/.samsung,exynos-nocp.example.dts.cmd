@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/devfreq/event/samsung,exynos-nocp.example.dts := dt-extract-example Documentation/devicetree/bindings/devfreq/event/samsung,exynos-nocp.yaml > Documentation/devicetree/bindings/devfreq/event/samsung,exynos-nocp.example.dts

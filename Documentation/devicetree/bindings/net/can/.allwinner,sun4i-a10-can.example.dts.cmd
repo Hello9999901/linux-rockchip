@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/can/allwinner,sun4i-a10-can.example.dts := dt-extract-example Documentation/devicetree/bindings/net/can/allwinner,sun4i-a10-can.yaml > Documentation/devicetree/bindings/net/can/allwinner,sun4i-a10-can.example.dts

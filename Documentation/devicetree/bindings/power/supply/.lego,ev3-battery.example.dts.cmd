@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/lego,ev3-battery.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/lego,ev3-battery.yaml > Documentation/devicetree/bindings/power/supply/lego,ev3-battery.example.dts

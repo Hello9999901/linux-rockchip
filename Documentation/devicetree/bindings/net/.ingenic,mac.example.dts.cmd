@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/ingenic,mac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/ingenic,mac.yaml > Documentation/devicetree/bindings/net/ingenic,mac.example.dts

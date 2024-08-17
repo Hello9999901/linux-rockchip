@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/nvidia,tegra234-mgbe.example.dts := dt-extract-example Documentation/devicetree/bindings/net/nvidia,tegra234-mgbe.yaml > Documentation/devicetree/bindings/net/nvidia,tegra234-mgbe.example.dts

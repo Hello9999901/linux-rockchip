@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/misc/olpc,xo1.75-ec.example.dts := dt-extract-example Documentation/devicetree/bindings/misc/olpc,xo1.75-ec.yaml > Documentation/devicetree/bindings/misc/olpc,xo1.75-ec.example.dts

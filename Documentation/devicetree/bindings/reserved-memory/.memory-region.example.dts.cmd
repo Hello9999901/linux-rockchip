@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reserved-memory/memory-region.example.dts := dt-extract-example Documentation/devicetree/bindings/reserved-memory/memory-region.yaml > Documentation/devicetree/bindings/reserved-memory/memory-region.example.dts

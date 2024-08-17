@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/nvidia,tegra20-sdhci.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/nvidia,tegra20-sdhci.yaml > Documentation/devicetree/bindings/mmc/nvidia,tegra20-sdhci.example.dts

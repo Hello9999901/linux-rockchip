@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/rcar-pci-ep.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/rcar-pci-ep.yaml > Documentation/devicetree/bindings/pci/rcar-pci-ep.example.dts

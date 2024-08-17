@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/fsl,intmux.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/fsl,intmux.yaml > Documentation/devicetree/bindings/interrupt-controller/fsl,intmux.example.dts

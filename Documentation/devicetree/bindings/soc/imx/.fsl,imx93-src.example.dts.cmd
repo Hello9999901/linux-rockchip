@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/imx/fsl,imx93-src.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/imx/fsl,imx93-src.yaml > Documentation/devicetree/bindings/soc/imx/fsl,imx93-src.example.dts

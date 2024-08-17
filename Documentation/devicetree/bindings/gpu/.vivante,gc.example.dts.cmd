@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/gpu/vivante,gc.example.dts := dt-extract-example Documentation/devicetree/bindings/gpu/vivante,gc.yaml > Documentation/devicetree/bindings/gpu/vivante,gc.example.dts

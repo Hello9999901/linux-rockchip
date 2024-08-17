@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/microchip,rst.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/microchip,rst.yaml > Documentation/devicetree/bindings/reset/microchip,rst.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/adi,axi-fan-control.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/adi,axi-fan-control.yaml > Documentation/devicetree/bindings/hwmon/adi,axi-fan-control.example.dts

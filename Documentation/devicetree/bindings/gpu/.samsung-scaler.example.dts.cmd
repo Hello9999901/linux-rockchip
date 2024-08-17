@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/gpu/samsung-scaler.example.dts := dt-extract-example Documentation/devicetree/bindings/gpu/samsung-scaler.yaml > Documentation/devicetree/bindings/gpu/samsung-scaler.example.dts

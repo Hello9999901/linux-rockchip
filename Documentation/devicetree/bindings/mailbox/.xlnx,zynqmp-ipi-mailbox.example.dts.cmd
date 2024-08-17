@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mailbox/xlnx,zynqmp-ipi-mailbox.example.dts := dt-extract-example Documentation/devicetree/bindings/mailbox/xlnx,zynqmp-ipi-mailbox.yaml > Documentation/devicetree/bindings/mailbox/xlnx,zynqmp-ipi-mailbox.example.dts

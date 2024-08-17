@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/mediatek,mt6332-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/mediatek,mt6332-regulator.yaml > Documentation/devicetree/bindings/regulator/mediatek,mt6332-regulator.example.dts

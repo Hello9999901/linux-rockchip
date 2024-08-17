@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/snps,dw-pcie.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/snps,dw-pcie.yaml > Documentation/devicetree/bindings/pci/snps,dw-pcie.example.dts

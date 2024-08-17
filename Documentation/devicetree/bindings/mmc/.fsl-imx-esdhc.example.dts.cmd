@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/fsl-imx-esdhc.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/fsl-imx-esdhc.yaml > Documentation/devicetree/bindings/mmc/fsl-imx-esdhc.example.dts

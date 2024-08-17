@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/renesas,apmu.example.dts := dt-extract-example Documentation/devicetree/bindings/power/renesas,apmu.yaml > Documentation/devicetree/bindings/power/renesas,apmu.example.dts

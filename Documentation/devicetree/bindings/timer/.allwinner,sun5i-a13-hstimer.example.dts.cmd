@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/allwinner,sun5i-a13-hstimer.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/allwinner,sun5i-a13-hstimer.yaml > Documentation/devicetree/bindings/timer/allwinner,sun5i-a13-hstimer.example.dts

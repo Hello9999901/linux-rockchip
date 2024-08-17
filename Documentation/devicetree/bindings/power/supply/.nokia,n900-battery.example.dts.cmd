@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/nokia,n900-battery.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/nokia,n900-battery.yaml > Documentation/devicetree/bindings/power/supply/nokia,n900-battery.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/pmbus/ti,ucd90320.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/pmbus/ti,ucd90320.yaml > Documentation/devicetree/bindings/hwmon/pmbus/ti,ucd90320.example.dts

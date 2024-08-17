@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/brcm,ns-pinmux.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/brcm,ns-pinmux.yaml > Documentation/devicetree/bindings/pinctrl/brcm,ns-pinmux.example.dts

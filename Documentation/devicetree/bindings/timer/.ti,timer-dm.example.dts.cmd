@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/ti,timer-dm.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/ti,timer-dm.yaml > Documentation/devicetree/bindings/timer/ti,timer-dm.example.dts

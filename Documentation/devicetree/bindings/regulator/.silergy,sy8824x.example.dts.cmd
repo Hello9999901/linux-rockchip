@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/silergy,sy8824x.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/silergy,sy8824x.yaml > Documentation/devicetree/bindings/regulator/silergy,sy8824x.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/atmel,at91sam9260-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/atmel,at91sam9260-reset.yaml > Documentation/devicetree/bindings/reset/atmel,at91sam9260-reset.example.dts

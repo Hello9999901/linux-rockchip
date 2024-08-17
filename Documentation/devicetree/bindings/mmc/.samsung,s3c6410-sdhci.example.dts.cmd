@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/samsung,s3c6410-sdhci.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/samsung,s3c6410-sdhci.yaml > Documentation/devicetree/bindings/mmc/samsung,s3c6410-sdhci.example.dts

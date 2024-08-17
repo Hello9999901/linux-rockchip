@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/allwinner,sun7i-a20-sc-nmi.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/allwinner,sun7i-a20-sc-nmi.yaml > Documentation/devicetree/bindings/interrupt-controller/allwinner,sun7i-a20-sc-nmi.example.dts

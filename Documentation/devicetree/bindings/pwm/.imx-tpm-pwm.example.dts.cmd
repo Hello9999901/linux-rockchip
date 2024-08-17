@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/imx-tpm-pwm.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/imx-tpm-pwm.yaml > Documentation/devicetree/bindings/pwm/imx-tpm-pwm.example.dts

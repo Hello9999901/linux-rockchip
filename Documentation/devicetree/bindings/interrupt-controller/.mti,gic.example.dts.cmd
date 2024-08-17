@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/mti,gic.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/mti,gic.yaml > Documentation/devicetree/bindings/interrupt-controller/mti,gic.example.dts

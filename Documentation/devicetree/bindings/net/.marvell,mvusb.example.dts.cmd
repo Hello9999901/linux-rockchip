@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/marvell,mvusb.example.dts := dt-extract-example Documentation/devicetree/bindings/net/marvell,mvusb.yaml > Documentation/devicetree/bindings/net/marvell,mvusb.example.dts

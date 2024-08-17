@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/mediatek,power-controller.example.dts := dt-extract-example Documentation/devicetree/bindings/power/mediatek,power-controller.yaml > Documentation/devicetree/bindings/power/mediatek,power-controller.example.dts

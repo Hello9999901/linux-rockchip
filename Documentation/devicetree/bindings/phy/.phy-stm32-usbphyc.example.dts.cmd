@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/phy-stm32-usbphyc.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/phy-stm32-usbphyc.yaml > Documentation/devicetree/bindings/phy/phy-stm32-usbphyc.example.dts

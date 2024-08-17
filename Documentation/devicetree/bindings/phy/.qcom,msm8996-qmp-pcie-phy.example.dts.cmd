@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/qcom,msm8996-qmp-pcie-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/qcom,msm8996-qmp-pcie-phy.yaml > Documentation/devicetree/bindings/phy/qcom,msm8996-qmp-pcie-phy.example.dts

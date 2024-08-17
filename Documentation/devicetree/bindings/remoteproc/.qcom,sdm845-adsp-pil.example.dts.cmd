@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/qcom,sdm845-adsp-pil.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/qcom,sdm845-adsp-pil.yaml > Documentation/devicetree/bindings/remoteproc/qcom,sdm845-adsp-pil.example.dts

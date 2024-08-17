@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/i2c-virtio.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/i2c-virtio.yaml > Documentation/devicetree/bindings/i2c/i2c-virtio.example.dts

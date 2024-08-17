@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/fsl,scu-pinctrl.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/fsl,scu-pinctrl.yaml > Documentation/devicetree/bindings/pinctrl/fsl,scu-pinctrl.example.dts

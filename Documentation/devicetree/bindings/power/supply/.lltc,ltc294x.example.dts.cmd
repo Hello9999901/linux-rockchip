@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/lltc,ltc294x.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/lltc,ltc294x.yaml > Documentation/devicetree/bindings/power/supply/lltc,ltc294x.example.dts

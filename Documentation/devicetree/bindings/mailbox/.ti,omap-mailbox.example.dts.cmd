@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mailbox/ti,omap-mailbox.example.dts := dt-extract-example Documentation/devicetree/bindings/mailbox/ti,omap-mailbox.yaml > Documentation/devicetree/bindings/mailbox/ti,omap-mailbox.example.dts

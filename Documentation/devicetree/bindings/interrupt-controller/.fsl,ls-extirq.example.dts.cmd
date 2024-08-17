@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/fsl,ls-extirq.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/fsl,ls-extirq.yaml > Documentation/devicetree/bindings/interrupt-controller/fsl,ls-extirq.example.dts

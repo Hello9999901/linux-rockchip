@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/reset/syscon-reboot-mode.example.dts := dt-extract-example Documentation/devicetree/bindings/power/reset/syscon-reboot-mode.yaml > Documentation/devicetree/bindings/power/reset/syscon-reboot-mode.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/can/microchip,mcp251xfd.example.dts := dt-extract-example Documentation/devicetree/bindings/net/can/microchip,mcp251xfd.yaml > Documentation/devicetree/bindings/net/can/microchip,mcp251xfd.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/amlogic,meson-axg-pcie.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/amlogic,meson-axg-pcie.yaml > Documentation/devicetree/bindings/phy/amlogic,meson-axg-pcie.example.dts

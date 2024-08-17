@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwinfo/ti,k3-socinfo.example.dts := dt-extract-example Documentation/devicetree/bindings/hwinfo/ti,k3-socinfo.yaml > Documentation/devicetree/bindings/hwinfo/ti,k3-socinfo.example.dts

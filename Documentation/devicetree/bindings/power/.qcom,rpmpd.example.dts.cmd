@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/qcom,rpmpd.example.dts := dt-extract-example Documentation/devicetree/bindings/power/qcom,rpmpd.yaml > Documentation/devicetree/bindings/power/qcom,rpmpd.example.dts

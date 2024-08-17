@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/ntc-thermistor.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/ntc-thermistor.yaml > Documentation/devicetree/bindings/hwmon/ntc-thermistor.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/canaan,k210-fpioa.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/canaan,k210-fpioa.yaml > Documentation/devicetree/bindings/pinctrl/canaan,k210-fpioa.example.dts

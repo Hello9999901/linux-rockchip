@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/sbs,sbs-battery.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/sbs,sbs-battery.yaml > Documentation/devicetree/bindings/power/supply/sbs,sbs-battery.example.dts

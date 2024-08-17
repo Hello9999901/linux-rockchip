@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/st,stih407-picophyreset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/st,stih407-picophyreset.yaml > Documentation/devicetree/bindings/reset/st,stih407-picophyreset.example.dts

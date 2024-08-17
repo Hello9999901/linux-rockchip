@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/brcm,amac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/brcm,amac.yaml > Documentation/devicetree/bindings/net/brcm,amac.example.dts

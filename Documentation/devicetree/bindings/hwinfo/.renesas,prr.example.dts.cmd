@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwinfo/renesas,prr.example.dts := dt-extract-example Documentation/devicetree/bindings/hwinfo/renesas,prr.yaml > Documentation/devicetree/bindings/hwinfo/renesas,prr.example.dts

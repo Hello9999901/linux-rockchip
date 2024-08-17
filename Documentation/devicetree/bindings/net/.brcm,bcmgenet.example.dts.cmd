@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/brcm,bcmgenet.example.dts := dt-extract-example Documentation/devicetree/bindings/net/brcm,bcmgenet.yaml > Documentation/devicetree/bindings/net/brcm,bcmgenet.example.dts

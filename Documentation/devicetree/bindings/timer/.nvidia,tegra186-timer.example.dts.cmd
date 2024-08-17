@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/nvidia,tegra186-timer.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/nvidia,tegra186-timer.yaml > Documentation/devicetree/bindings/timer/nvidia,tegra186-timer.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/wireless/silabs,wfx.example.dts := dt-extract-example Documentation/devicetree/bindings/net/wireless/silabs,wfx.yaml > Documentation/devicetree/bindings/net/wireless/silabs,wfx.example.dts

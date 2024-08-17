@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/ti,tmp108.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/ti,tmp108.yaml > Documentation/devicetree/bindings/hwmon/ti,tmp108.example.dts

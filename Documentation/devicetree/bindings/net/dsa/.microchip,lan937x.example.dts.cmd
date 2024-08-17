@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/dsa/microchip,lan937x.example.dts := dt-extract-example Documentation/devicetree/bindings/net/dsa/microchip,lan937x.yaml > Documentation/devicetree/bindings/net/dsa/microchip,lan937x.example.dts

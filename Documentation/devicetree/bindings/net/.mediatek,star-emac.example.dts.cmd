@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/mediatek,star-emac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/mediatek,star-emac.yaml > Documentation/devicetree/bindings/net/mediatek,star-emac.example.dts

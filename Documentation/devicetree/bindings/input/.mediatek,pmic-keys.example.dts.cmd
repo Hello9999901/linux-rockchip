@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/mediatek,pmic-keys.example.dts := dt-extract-example Documentation/devicetree/bindings/input/mediatek,pmic-keys.yaml > Documentation/devicetree/bindings/input/mediatek,pmic-keys.example.dts

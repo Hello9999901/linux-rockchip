@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/st,nomadik-mtu.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/st,nomadik-mtu.yaml > Documentation/devicetree/bindings/timer/st,nomadik-mtu.example.dts

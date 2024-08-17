@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reserved-memory/shared-dma-pool.example.dts := dt-extract-example Documentation/devicetree/bindings/reserved-memory/shared-dma-pool.yaml > Documentation/devicetree/bindings/reserved-memory/shared-dma-pool.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reserved-memory/google,open-dice.example.dts := dt-extract-example Documentation/devicetree/bindings/reserved-memory/google,open-dice.yaml > Documentation/devicetree/bindings/reserved-memory/google,open-dice.example.dts

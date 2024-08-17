@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/renesas,ether.example.dts := dt-extract-example Documentation/devicetree/bindings/net/renesas,ether.yaml > Documentation/devicetree/bindings/net/renesas,ether.example.dts

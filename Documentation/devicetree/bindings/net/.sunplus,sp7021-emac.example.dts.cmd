@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/sunplus,sp7021-emac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/sunplus,sp7021-emac.yaml > Documentation/devicetree/bindings/net/sunplus,sp7021-emac.example.dts

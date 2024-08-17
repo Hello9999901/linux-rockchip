@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/fuse/nvidia,tegra20-fuse.example.dts := dt-extract-example Documentation/devicetree/bindings/fuse/nvidia,tegra20-fuse.yaml > Documentation/devicetree/bindings/fuse/nvidia,tegra20-fuse.example.dts

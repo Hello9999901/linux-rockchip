@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/renesas,pfc.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/renesas,pfc.yaml > Documentation/devicetree/bindings/pinctrl/renesas,pfc.example.dts

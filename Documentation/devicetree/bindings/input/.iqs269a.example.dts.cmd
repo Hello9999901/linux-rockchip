@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/iqs269a.example.dts := dt-extract-example Documentation/devicetree/bindings/input/iqs269a.yaml > Documentation/devicetree/bindings/input/iqs269a.example.dts

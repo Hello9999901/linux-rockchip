@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/microchip,sparx5-temp.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/microchip,sparx5-temp.yaml > Documentation/devicetree/bindings/hwmon/microchip,sparx5-temp.example.dts

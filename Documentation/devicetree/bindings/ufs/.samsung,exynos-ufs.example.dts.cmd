@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/ufs/samsung,exynos-ufs.example.dts := dt-extract-example Documentation/devicetree/bindings/ufs/samsung,exynos-ufs.yaml > Documentation/devicetree/bindings/ufs/samsung,exynos-ufs.example.dts

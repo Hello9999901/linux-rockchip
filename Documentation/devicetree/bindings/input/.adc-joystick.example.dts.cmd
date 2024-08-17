@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/adc-joystick.example.dts := dt-extract-example Documentation/devicetree/bindings/input/adc-joystick.yaml > Documentation/devicetree/bindings/input/adc-joystick.example.dts

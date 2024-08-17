@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/pwm-sifive.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/pwm-sifive.yaml > Documentation/devicetree/bindings/pwm/pwm-sifive.example.dts

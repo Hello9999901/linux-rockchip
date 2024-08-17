@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/fsl,imx-gpc.example.dts := dt-extract-example Documentation/devicetree/bindings/power/fsl,imx-gpc.yaml > Documentation/devicetree/bindings/power/fsl,imx-gpc.example.dts

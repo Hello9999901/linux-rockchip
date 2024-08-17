@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/mdio-mux-mmioreg.example.dts := dt-extract-example Documentation/devicetree/bindings/net/mdio-mux-mmioreg.yaml > Documentation/devicetree/bindings/net/mdio-mux-mmioreg.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/samsung,pinctrl-wakeup-interrupt.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/samsung,pinctrl-wakeup-interrupt.yaml > Documentation/devicetree/bindings/pinctrl/samsung,pinctrl-wakeup-interrupt.example.dts

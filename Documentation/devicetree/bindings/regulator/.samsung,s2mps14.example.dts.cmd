@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/samsung,s2mps14.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/samsung,s2mps14.yaml > Documentation/devicetree/bindings/regulator/samsung,s2mps14.example.dts

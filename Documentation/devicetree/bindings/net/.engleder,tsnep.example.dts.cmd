@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/engleder,tsnep.example.dts := dt-extract-example Documentation/devicetree/bindings/net/engleder,tsnep.yaml > Documentation/devicetree/bindings/net/engleder,tsnep.example.dts

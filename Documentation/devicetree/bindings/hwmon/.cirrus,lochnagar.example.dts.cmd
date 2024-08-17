@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/cirrus,lochnagar.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/cirrus,lochnagar.yaml > Documentation/devicetree/bindings/hwmon/cirrus,lochnagar.example.dts

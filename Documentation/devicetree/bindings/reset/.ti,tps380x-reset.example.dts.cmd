@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/ti,tps380x-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/ti,tps380x-reset.yaml > Documentation/devicetree/bindings/reset/ti,tps380x-reset.example.dts

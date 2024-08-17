@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/domain-idle-state.example.dts := dt-extract-example Documentation/devicetree/bindings/power/domain-idle-state.yaml > Documentation/devicetree/bindings/power/domain-idle-state.example.dts

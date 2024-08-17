@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/firmware/arm,scpi.example.dts := dt-extract-example Documentation/devicetree/bindings/firmware/arm,scpi.yaml > Documentation/devicetree/bindings/firmware/arm,scpi.example.dts

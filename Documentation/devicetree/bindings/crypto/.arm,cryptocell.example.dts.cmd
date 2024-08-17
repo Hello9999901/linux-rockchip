@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/arm,cryptocell.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/arm,cryptocell.yaml > Documentation/devicetree/bindings/crypto/arm,cryptocell.example.dts

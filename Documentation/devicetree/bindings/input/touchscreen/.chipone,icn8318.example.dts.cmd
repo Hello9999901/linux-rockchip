@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/chipone,icn8318.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/chipone,icn8318.yaml > Documentation/devicetree/bindings/input/touchscreen/chipone,icn8318.example.dts

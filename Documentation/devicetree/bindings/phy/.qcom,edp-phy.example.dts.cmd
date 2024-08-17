@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/qcom,edp-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/qcom,edp-phy.yaml > Documentation/devicetree/bindings/phy/qcom,edp-phy.example.dts

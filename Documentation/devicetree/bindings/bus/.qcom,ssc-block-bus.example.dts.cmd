@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/bus/qcom,ssc-block-bus.example.dts := dt-extract-example Documentation/devicetree/bindings/bus/qcom,ssc-block-bus.yaml > Documentation/devicetree/bindings/bus/qcom,ssc-block-bus.example.dts

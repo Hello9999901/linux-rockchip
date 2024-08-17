@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/can/can-transceiver.example.dts := dt-extract-example Documentation/devicetree/bindings/net/can/can-transceiver.yaml > Documentation/devicetree/bindings/net/can/can-transceiver.example.dts

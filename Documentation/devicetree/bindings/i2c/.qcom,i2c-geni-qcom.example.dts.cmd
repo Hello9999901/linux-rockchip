@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/qcom,i2c-geni-qcom.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/qcom,i2c-geni-qcom.yaml > Documentation/devicetree/bindings/i2c/qcom,i2c-geni-qcom.example.dts

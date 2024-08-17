@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/idt,3243x-emac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/idt,3243x-emac.yaml > Documentation/devicetree/bindings/net/idt,3243x-emac.example.dts

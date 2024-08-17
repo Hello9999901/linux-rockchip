@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/adc-keys.example.dts := dt-extract-example Documentation/devicetree/bindings/input/adc-keys.yaml > Documentation/devicetree/bindings/input/adc-keys.example.dts

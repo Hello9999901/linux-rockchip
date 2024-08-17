@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/samsung/exynos-pmu.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/samsung/exynos-pmu.yaml > Documentation/devicetree/bindings/soc/samsung/exynos-pmu.example.dts

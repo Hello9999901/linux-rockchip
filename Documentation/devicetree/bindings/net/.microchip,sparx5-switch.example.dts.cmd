@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/microchip,sparx5-switch.example.dts := dt-extract-example Documentation/devicetree/bindings/net/microchip,sparx5-switch.yaml > Documentation/devicetree/bindings/net/microchip,sparx5-switch.example.dts

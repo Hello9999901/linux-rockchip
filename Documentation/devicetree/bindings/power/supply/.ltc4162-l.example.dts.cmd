@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/ltc4162-l.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/ltc4162-l.yaml > Documentation/devicetree/bindings/power/supply/ltc4162-l.example.dts

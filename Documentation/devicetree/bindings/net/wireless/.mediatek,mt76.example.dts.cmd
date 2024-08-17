@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/wireless/mediatek,mt76.example.dts := dt-extract-example Documentation/devicetree/bindings/net/wireless/mediatek,mt76.yaml > Documentation/devicetree/bindings/net/wireless/mediatek,mt76.example.dts

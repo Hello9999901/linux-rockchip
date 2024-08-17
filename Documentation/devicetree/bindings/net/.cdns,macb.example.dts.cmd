@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/cdns,macb.example.dts := dt-extract-example Documentation/devicetree/bindings/net/cdns,macb.yaml > Documentation/devicetree/bindings/net/cdns,macb.example.dts

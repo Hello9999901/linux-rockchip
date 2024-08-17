@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/amlogic/amlogic,canvas.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/amlogic/amlogic,canvas.yaml > Documentation/devicetree/bindings/soc/amlogic/amlogic,canvas.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/allwinner,sun7i-a20-gmac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/allwinner,sun7i-a20-gmac.yaml > Documentation/devicetree/bindings/net/allwinner,sun7i-a20-gmac.example.dts

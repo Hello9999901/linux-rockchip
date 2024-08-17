@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/nuvoton,npcm7xx-timer.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/nuvoton,npcm7xx-timer.yaml > Documentation/devicetree/bindings/timer/nuvoton,npcm7xx-timer.example.dts

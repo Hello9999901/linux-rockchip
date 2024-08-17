@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/st,stih407-powerdown.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/st,stih407-powerdown.yaml > Documentation/devicetree/bindings/reset/st,stih407-powerdown.example.dts

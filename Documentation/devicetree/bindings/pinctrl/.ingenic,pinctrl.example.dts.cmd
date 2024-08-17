@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/ingenic,pinctrl.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/ingenic,pinctrl.yaml > Documentation/devicetree/bindings/pinctrl/ingenic,pinctrl.example.dts

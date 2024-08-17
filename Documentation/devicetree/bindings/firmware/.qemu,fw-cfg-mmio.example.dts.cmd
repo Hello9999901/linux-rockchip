@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/firmware/qemu,fw-cfg-mmio.example.dts := dt-extract-example Documentation/devicetree/bindings/firmware/qemu,fw-cfg-mmio.yaml > Documentation/devicetree/bindings/firmware/qemu,fw-cfg-mmio.example.dts

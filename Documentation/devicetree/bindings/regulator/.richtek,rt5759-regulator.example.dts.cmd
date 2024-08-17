@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/richtek,rt5759-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/richtek,rt5759-regulator.yaml > Documentation/devicetree/bindings/regulator/richtek,rt5759-regulator.example.dts

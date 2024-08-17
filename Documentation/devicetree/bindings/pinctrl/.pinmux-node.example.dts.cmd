@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/pinmux-node.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/pinmux-node.yaml > Documentation/devicetree/bindings/pinctrl/pinmux-node.example.dts

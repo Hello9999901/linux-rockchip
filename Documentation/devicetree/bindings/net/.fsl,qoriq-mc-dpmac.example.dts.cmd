@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/fsl,qoriq-mc-dpmac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/fsl,qoriq-mc-dpmac.yaml > Documentation/devicetree/bindings/net/fsl,qoriq-mc-dpmac.example.dts

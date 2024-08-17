@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/dlg,da9121.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/dlg,da9121.yaml > Documentation/devicetree/bindings/regulator/dlg,da9121.example.dts

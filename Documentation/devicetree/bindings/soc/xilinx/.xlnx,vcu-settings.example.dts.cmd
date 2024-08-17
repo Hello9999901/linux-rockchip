@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/xilinx/xlnx,vcu-settings.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/xilinx/xlnx,vcu-settings.yaml > Documentation/devicetree/bindings/soc/xilinx/xlnx,vcu-settings.example.dts

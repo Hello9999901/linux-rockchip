@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/samsung,exynos-pcie.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/samsung,exynos-pcie.yaml > Documentation/devicetree/bindings/pci/samsung,exynos-pcie.example.dts

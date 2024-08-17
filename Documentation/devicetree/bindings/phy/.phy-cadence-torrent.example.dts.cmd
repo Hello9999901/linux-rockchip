@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/phy-cadence-torrent.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/phy-cadence-torrent.yaml > Documentation/devicetree/bindings/phy/phy-cadence-torrent.example.dts

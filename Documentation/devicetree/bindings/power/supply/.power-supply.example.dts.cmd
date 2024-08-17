@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/power-supply.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/power-supply.yaml > Documentation/devicetree/bindings/power/supply/power-supply.example.dts

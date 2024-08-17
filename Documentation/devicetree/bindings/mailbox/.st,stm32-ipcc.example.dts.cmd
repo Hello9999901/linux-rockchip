@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mailbox/st,stm32-ipcc.example.dts := dt-extract-example Documentation/devicetree/bindings/mailbox/st,stm32-ipcc.yaml > Documentation/devicetree/bindings/mailbox/st,stm32-ipcc.example.dts

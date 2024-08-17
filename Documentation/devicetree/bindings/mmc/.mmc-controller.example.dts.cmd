@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/mmc-controller.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/mmc-controller.yaml > Documentation/devicetree/bindings/mmc/mmc-controller.example.dts

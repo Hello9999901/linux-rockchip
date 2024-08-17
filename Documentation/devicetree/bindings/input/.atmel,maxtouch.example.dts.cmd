@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/atmel,maxtouch.example.dts := dt-extract-example Documentation/devicetree/bindings/input/atmel,maxtouch.yaml > Documentation/devicetree/bindings/input/atmel,maxtouch.example.dts

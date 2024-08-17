@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/arasan,sdhci.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/arasan,sdhci.yaml > Documentation/devicetree/bindings/mmc/arasan,sdhci.example.dts

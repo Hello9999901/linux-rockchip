@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/brcm,bcm63xx-power.example.dts := dt-extract-example Documentation/devicetree/bindings/power/brcm,bcm63xx-power.yaml > Documentation/devicetree/bindings/power/brcm,bcm63xx-power.example.dts

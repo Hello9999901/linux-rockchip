@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/mps,mpq7920.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/mps,mpq7920.yaml > Documentation/devicetree/bindings/regulator/mps,mpq7920.example.dts

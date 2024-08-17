@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/mmc-spi-slot.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/mmc-spi-slot.yaml > Documentation/devicetree/bindings/mmc/mmc-spi-slot.example.dts

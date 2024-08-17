@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/ingenic,sysost.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/ingenic,sysost.yaml > Documentation/devicetree/bindings/timer/ingenic,sysost.example.dts

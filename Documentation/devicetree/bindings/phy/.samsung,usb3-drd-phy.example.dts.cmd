@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/samsung,usb3-drd-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/samsung,usb3-drd-phy.yaml > Documentation/devicetree/bindings/phy/samsung,usb3-drd-phy.example.dts

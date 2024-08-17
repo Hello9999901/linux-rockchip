@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/xilinx-versal-cpm.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/xilinx-versal-cpm.yaml > Documentation/devicetree/bindings/pci/xilinx-versal-cpm.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/qualcomm-bluetooth.example.dts := dt-extract-example Documentation/devicetree/bindings/net/qualcomm-bluetooth.yaml > Documentation/devicetree/bindings/net/qualcomm-bluetooth.example.dts

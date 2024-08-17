@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/ti,omap4-i2c.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/ti,omap4-i2c.yaml > Documentation/devicetree/bindings/i2c/ti,omap4-i2c.example.dts

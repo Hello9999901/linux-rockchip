@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/brcm,bcm7038-pwm.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/brcm,bcm7038-pwm.yaml > Documentation/devicetree/bindings/pwm/brcm,bcm7038-pwm.example.dts

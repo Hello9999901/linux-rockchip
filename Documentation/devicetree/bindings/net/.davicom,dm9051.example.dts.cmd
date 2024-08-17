@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/davicom,dm9051.example.dts := dt-extract-example Documentation/devicetree/bindings/net/davicom,dm9051.yaml > Documentation/devicetree/bindings/net/davicom,dm9051.example.dts

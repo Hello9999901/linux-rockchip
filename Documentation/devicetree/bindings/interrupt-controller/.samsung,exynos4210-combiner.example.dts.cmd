@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/samsung,exynos4210-combiner.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/samsung,exynos4210-combiner.yaml > Documentation/devicetree/bindings/interrupt-controller/samsung,exynos4210-combiner.example.dts

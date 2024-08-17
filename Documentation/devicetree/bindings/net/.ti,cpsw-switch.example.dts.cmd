@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/ti,cpsw-switch.example.dts := dt-extract-example Documentation/devicetree/bindings/net/ti,cpsw-switch.yaml > Documentation/devicetree/bindings/net/ti,cpsw-switch.example.dts

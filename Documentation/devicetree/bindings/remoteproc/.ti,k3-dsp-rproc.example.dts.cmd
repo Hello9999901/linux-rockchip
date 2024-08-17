@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/ti,k3-dsp-rproc.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/ti,k3-dsp-rproc.yaml > Documentation/devicetree/bindings/remoteproc/ti,k3-dsp-rproc.example.dts

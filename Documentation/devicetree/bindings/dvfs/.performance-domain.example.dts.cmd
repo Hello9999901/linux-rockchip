@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/dvfs/performance-domain.example.dts := dt-extract-example Documentation/devicetree/bindings/dvfs/performance-domain.yaml > Documentation/devicetree/bindings/dvfs/performance-domain.example.dts

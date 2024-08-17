@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/mti,cpu-interrupt-controller.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/mti,cpu-interrupt-controller.yaml > Documentation/devicetree/bindings/interrupt-controller/mti,cpu-interrupt-controller.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/mediatek/mediatek,mutex.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/mediatek/mediatek,mutex.yaml > Documentation/devicetree/bindings/soc/mediatek/mediatek,mutex.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/azoteq,iqs5xx.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/azoteq,iqs5xx.yaml > Documentation/devicetree/bindings/input/touchscreen/azoteq,iqs5xx.example.dts

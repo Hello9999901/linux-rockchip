@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/maxim,max8952.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/maxim,max8952.yaml > Documentation/devicetree/bindings/regulator/maxim,max8952.example.dts

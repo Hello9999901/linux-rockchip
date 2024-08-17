@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/maxim,max17040.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/maxim,max17040.yaml > Documentation/devicetree/bindings/power/supply/maxim,max17040.example.dts

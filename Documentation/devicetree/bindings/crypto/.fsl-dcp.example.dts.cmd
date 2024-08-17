@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/fsl-dcp.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/fsl-dcp.yaml > Documentation/devicetree/bindings/crypto/fsl-dcp.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/goodix,gt7375p.example.dts := dt-extract-example Documentation/devicetree/bindings/input/goodix,gt7375p.yaml > Documentation/devicetree/bindings/input/goodix,gt7375p.example.dts

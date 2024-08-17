@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mailbox/qcom,apcs-kpss-global.example.dts := dt-extract-example Documentation/devicetree/bindings/mailbox/qcom,apcs-kpss-global.yaml > Documentation/devicetree/bindings/mailbox/qcom,apcs-kpss-global.example.dts

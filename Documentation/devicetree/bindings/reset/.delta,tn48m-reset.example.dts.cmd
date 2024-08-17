@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/delta,tn48m-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/delta,tn48m-reset.yaml > Documentation/devicetree/bindings/reset/delta,tn48m-reset.example.dts

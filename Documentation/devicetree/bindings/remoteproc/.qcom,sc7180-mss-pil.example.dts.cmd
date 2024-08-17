@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/qcom,sc7180-mss-pil.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/qcom,sc7180-mss-pil.yaml > Documentation/devicetree/bindings/remoteproc/qcom,sc7180-mss-pil.example.dts

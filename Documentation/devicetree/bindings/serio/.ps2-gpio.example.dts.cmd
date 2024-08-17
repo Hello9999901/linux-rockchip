@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/serio/ps2-gpio.example.dts := dt-extract-example Documentation/devicetree/bindings/serio/ps2-gpio.yaml > Documentation/devicetree/bindings/serio/ps2-gpio.example.dts

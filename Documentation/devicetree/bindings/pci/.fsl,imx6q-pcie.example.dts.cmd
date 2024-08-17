@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/fsl,imx6q-pcie.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/fsl,imx6q-pcie.yaml > Documentation/devicetree/bindings/pci/fsl,imx6q-pcie.example.dts

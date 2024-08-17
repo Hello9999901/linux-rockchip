@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/ibm,op-panel.example.dts := dt-extract-example Documentation/devicetree/bindings/input/ibm,op-panel.yaml > Documentation/devicetree/bindings/input/ibm,op-panel.example.dts

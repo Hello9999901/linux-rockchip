@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/mmc-pwrseq-emmc.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/mmc-pwrseq-emmc.yaml > Documentation/devicetree/bindings/mmc/mmc-pwrseq-emmc.example.dts

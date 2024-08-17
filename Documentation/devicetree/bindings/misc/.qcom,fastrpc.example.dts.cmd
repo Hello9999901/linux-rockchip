@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/misc/qcom,fastrpc.example.dts := dt-extract-example Documentation/devicetree/bindings/misc/qcom,fastrpc.yaml > Documentation/devicetree/bindings/misc/qcom,fastrpc.example.dts

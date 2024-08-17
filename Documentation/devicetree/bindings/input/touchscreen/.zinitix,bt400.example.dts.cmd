@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/zinitix,bt400.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/zinitix,bt400.yaml > Documentation/devicetree/bindings/input/touchscreen/zinitix,bt400.example.dts

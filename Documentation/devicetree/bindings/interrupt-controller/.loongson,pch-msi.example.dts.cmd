@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/loongson,pch-msi.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/loongson,pch-msi.yaml > Documentation/devicetree/bindings/interrupt-controller/loongson,pch-msi.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/mdio-gpio.example.dts := dt-extract-example Documentation/devicetree/bindings/net/mdio-gpio.yaml > Documentation/devicetree/bindings/net/mdio-gpio.example.dts

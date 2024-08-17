@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/stm32-dwmac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/stm32-dwmac.yaml > Documentation/devicetree/bindings/net/stm32-dwmac.example.dts

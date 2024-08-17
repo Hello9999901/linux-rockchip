@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reserved-memory/nvidia,tegra210-emc-table.example.dts := dt-extract-example Documentation/devicetree/bindings/reserved-memory/nvidia,tegra210-emc-table.yaml > Documentation/devicetree/bindings/reserved-memory/nvidia,tegra210-emc-table.example.dts

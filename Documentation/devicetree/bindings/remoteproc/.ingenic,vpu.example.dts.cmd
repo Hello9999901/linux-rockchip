@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/ingenic,vpu.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/ingenic,vpu.yaml > Documentation/devicetree/bindings/remoteproc/ingenic,vpu.example.dts

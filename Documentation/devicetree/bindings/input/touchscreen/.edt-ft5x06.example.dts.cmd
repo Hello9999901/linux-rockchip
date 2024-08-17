@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/edt-ft5x06.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/edt-ft5x06.yaml > Documentation/devicetree/bindings/input/touchscreen/edt-ft5x06.example.dts

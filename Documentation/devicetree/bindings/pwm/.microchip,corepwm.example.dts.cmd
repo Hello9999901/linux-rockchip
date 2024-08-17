@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/microchip,corepwm.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/microchip,corepwm.yaml > Documentation/devicetree/bindings/pwm/microchip,corepwm.example.dts

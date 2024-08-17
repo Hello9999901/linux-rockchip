@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/imx-keypad.example.dts := dt-extract-example Documentation/devicetree/bindings/input/imx-keypad.yaml > Documentation/devicetree/bindings/input/imx-keypad.example.dts

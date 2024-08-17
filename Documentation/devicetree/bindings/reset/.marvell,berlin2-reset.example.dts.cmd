@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/marvell,berlin2-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/marvell,berlin2-reset.yaml > Documentation/devicetree/bindings/reset/marvell,berlin2-reset.example.dts

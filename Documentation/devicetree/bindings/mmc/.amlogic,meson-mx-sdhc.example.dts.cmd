@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/amlogic,meson-mx-sdhc.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/amlogic,meson-mx-sdhc.yaml > Documentation/devicetree/bindings/mmc/amlogic,meson-mx-sdhc.example.dts

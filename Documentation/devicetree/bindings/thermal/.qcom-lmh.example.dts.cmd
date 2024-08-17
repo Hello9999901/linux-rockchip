@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/qcom-lmh.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/qcom-lmh.yaml > Documentation/devicetree/bindings/thermal/qcom-lmh.example.dts

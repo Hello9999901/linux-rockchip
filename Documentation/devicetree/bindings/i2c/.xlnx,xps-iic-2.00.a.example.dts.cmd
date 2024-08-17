@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/xlnx,xps-iic-2.00.a.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/xlnx,xps-iic-2.00.a.yaml > Documentation/devicetree/bindings/i2c/xlnx,xps-iic-2.00.a.example.dts

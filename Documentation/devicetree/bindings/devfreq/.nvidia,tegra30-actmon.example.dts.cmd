@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/devfreq/nvidia,tegra30-actmon.example.dts := dt-extract-example Documentation/devicetree/bindings/devfreq/nvidia,tegra30-actmon.yaml > Documentation/devicetree/bindings/devfreq/nvidia,tegra30-actmon.example.dts

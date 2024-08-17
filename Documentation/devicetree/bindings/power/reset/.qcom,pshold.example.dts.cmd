@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/reset/qcom,pshold.example.dts := dt-extract-example Documentation/devicetree/bindings/power/reset/qcom,pshold.yaml > Documentation/devicetree/bindings/power/reset/qcom,pshold.example.dts

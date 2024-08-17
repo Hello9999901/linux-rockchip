@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/sdhci-pxa.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/sdhci-pxa.yaml > Documentation/devicetree/bindings/mmc/sdhci-pxa.example.dts

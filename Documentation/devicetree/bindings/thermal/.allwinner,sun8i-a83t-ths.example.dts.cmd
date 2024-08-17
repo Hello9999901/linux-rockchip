@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/allwinner,sun8i-a83t-ths.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/allwinner,sun8i-a83t-ths.yaml > Documentation/devicetree/bindings/thermal/allwinner,sun8i-a83t-ths.example.dts

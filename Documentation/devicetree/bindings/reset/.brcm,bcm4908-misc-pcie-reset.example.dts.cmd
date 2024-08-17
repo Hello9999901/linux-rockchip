@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/brcm,bcm4908-misc-pcie-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/brcm,bcm4908-misc-pcie-reset.yaml > Documentation/devicetree/bindings/reset/brcm,bcm4908-misc-pcie-reset.example.dts

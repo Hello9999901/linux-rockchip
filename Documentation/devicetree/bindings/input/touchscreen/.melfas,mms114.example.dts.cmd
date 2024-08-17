@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/melfas,mms114.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/melfas,mms114.yaml > Documentation/devicetree/bindings/input/touchscreen/melfas,mms114.example.dts

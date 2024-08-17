@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/reset/qcom,pon.example.dts := dt-extract-example Documentation/devicetree/bindings/power/reset/qcom,pon.yaml > Documentation/devicetree/bindings/power/reset/qcom,pon.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/rockchip,px30-dsi-dphy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/rockchip,px30-dsi-dphy.yaml > Documentation/devicetree/bindings/phy/rockchip,px30-dsi-dphy.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/azoteq,iqs7222.example.dts := dt-extract-example Documentation/devicetree/bindings/input/azoteq,iqs7222.yaml > Documentation/devicetree/bindings/input/azoteq,iqs7222.example.dts

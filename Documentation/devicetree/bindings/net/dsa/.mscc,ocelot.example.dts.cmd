@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/dsa/mscc,ocelot.example.dts := dt-extract-example Documentation/devicetree/bindings/net/dsa/mscc,ocelot.yaml > Documentation/devicetree/bindings/net/dsa/mscc,ocelot.example.dts

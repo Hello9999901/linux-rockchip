@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/kontron,sl28cpld-hwmon.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/kontron,sl28cpld-hwmon.yaml > Documentation/devicetree/bindings/hwmon/kontron,sl28cpld-hwmon.example.dts

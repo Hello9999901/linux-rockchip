@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/xlnx,zynqmp-aes.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/xlnx,zynqmp-aes.yaml > Documentation/devicetree/bindings/crypto/xlnx,zynqmp-aes.example.dts

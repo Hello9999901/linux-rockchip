@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/matrix-keymap.example.dts := dt-extract-example Documentation/devicetree/bindings/input/matrix-keymap.yaml > Documentation/devicetree/bindings/input/matrix-keymap.example.dts

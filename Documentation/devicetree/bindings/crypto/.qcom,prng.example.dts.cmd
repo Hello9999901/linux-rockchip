@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/qcom,prng.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/qcom,prng.yaml > Documentation/devicetree/bindings/crypto/qcom,prng.example.dts

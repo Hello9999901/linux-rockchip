@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/marvell-bluetooth.example.dts := dt-extract-example Documentation/devicetree/bindings/net/marvell-bluetooth.yaml > Documentation/devicetree/bindings/net/marvell-bluetooth.example.dts

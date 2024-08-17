@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mailbox/amlogic,meson-gxbb-mhu.example.dts := dt-extract-example Documentation/devicetree/bindings/mailbox/amlogic,meson-gxbb-mhu.yaml > Documentation/devicetree/bindings/mailbox/amlogic,meson-gxbb-mhu.example.dts

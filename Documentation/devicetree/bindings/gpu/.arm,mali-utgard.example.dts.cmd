@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/gpu/arm,mali-utgard.example.dts := dt-extract-example Documentation/devicetree/bindings/gpu/arm,mali-utgard.yaml > Documentation/devicetree/bindings/gpu/arm,mali-utgard.example.dts

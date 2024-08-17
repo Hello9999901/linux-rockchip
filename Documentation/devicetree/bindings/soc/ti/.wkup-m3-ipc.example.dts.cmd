@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/ti/wkup-m3-ipc.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/ti/wkup-m3-ipc.yaml > Documentation/devicetree/bindings/soc/ti/wkup-m3-ipc.example.dts

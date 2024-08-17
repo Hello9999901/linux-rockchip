@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/microchip,sparx5-serdes.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/microchip,sparx5-serdes.yaml > Documentation/devicetree/bindings/phy/microchip,sparx5-serdes.example.dts

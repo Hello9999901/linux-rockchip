@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/anatop-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/anatop-regulator.yaml > Documentation/devicetree/bindings/regulator/anatop-regulator.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/serio/arm,pl050.example.dts := dt-extract-example Documentation/devicetree/bindings/serio/arm,pl050.yaml > Documentation/devicetree/bindings/serio/arm,pl050.example.dts

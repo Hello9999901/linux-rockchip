@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/siliconmitus,sm5703-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/siliconmitus,sm5703-regulator.yaml > Documentation/devicetree/bindings/regulator/siliconmitus,sm5703-regulator.example.dts

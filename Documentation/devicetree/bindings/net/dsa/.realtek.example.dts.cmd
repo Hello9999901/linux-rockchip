@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/dsa/realtek.example.dts := dt-extract-example Documentation/devicetree/bindings/net/dsa/realtek.yaml > Documentation/devicetree/bindings/net/dsa/realtek.example.dts

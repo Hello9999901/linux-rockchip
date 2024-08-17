@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/nfc/samsung,s3fwrn5.example.dts := dt-extract-example Documentation/devicetree/bindings/net/nfc/samsung,s3fwrn5.yaml > Documentation/devicetree/bindings/net/nfc/samsung,s3fwrn5.example.dts

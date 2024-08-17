@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/sbs,sbs-manager.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/sbs,sbs-manager.yaml > Documentation/devicetree/bindings/power/supply/sbs,sbs-manager.example.dts

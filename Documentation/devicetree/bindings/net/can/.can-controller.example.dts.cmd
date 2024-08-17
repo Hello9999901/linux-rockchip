@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/can/can-controller.example.dts := dt-extract-example Documentation/devicetree/bindings/net/can/can-controller.yaml > Documentation/devicetree/bindings/net/can/can-controller.example.dts

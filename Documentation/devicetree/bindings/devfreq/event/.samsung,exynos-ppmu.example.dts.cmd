@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/devfreq/event/samsung,exynos-ppmu.example.dts := dt-extract-example Documentation/devicetree/bindings/devfreq/event/samsung,exynos-ppmu.yaml > Documentation/devicetree/bindings/devfreq/event/samsung,exynos-ppmu.example.dts

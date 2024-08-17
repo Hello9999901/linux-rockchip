@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/hisilicon,kirin-pcie.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/hisilicon,kirin-pcie.yaml > Documentation/devicetree/bindings/pci/hisilicon,kirin-pcie.example.dts

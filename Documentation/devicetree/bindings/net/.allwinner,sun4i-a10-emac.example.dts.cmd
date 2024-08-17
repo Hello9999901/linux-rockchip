@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/allwinner,sun4i-a10-emac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/allwinner,sun4i-a10-emac.yaml > Documentation/devicetree/bindings/net/allwinner,sun4i-a10-emac.example.dts

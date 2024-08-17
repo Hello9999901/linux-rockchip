@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/misc/intel,ixp4xx-ahb-queue-manager.example.dts := dt-extract-example Documentation/devicetree/bindings/misc/intel,ixp4xx-ahb-queue-manager.yaml > Documentation/devicetree/bindings/misc/intel,ixp4xx-ahb-queue-manager.example.dts

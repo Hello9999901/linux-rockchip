@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/allwinner,sun4i-a10-mmc.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/allwinner,sun4i-a10-mmc.yaml > Documentation/devicetree/bindings/mmc/allwinner,sun4i-a10-mmc.example.dts

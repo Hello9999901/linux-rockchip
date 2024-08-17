@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/rcar-pci-host.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/rcar-pci-host.yaml > Documentation/devicetree/bindings/pci/rcar-pci-host.example.dts

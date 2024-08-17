@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/gpio-charger.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/gpio-charger.yaml > Documentation/devicetree/bindings/power/supply/gpio-charger.example.dts

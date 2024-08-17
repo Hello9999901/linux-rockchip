@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/richtek,rt9455.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/richtek,rt9455.yaml > Documentation/devicetree/bindings/power/supply/richtek,rt9455.example.dts

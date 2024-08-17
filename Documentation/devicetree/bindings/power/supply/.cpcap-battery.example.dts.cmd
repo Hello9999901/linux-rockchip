@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/cpcap-battery.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/cpcap-battery.yaml > Documentation/devicetree/bindings/power/supply/cpcap-battery.example.dts

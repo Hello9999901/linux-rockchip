@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/qcom,usb-hs-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/qcom,usb-hs-phy.yaml > Documentation/devicetree/bindings/phy/qcom,usb-hs-phy.example.dts

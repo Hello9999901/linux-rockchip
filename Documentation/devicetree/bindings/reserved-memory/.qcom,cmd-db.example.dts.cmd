@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reserved-memory/qcom,cmd-db.example.dts := dt-extract-example Documentation/devicetree/bindings/reserved-memory/qcom,cmd-db.yaml > Documentation/devicetree/bindings/reserved-memory/qcom,cmd-db.example.dts

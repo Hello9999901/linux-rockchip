@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/mtk,scp.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/mtk,scp.yaml > Documentation/devicetree/bindings/remoteproc/mtk,scp.example.dts

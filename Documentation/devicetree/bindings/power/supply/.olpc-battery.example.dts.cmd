@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/olpc-battery.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/olpc-battery.yaml > Documentation/devicetree/bindings/power/supply/olpc-battery.example.dts

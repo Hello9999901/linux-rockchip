@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/microchip,eic.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/microchip,eic.yaml > Documentation/devicetree/bindings/interrupt-controller/microchip,eic.example.dts

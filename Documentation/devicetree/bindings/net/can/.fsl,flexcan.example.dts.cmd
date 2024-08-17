@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/can/fsl,flexcan.example.dts := dt-extract-example Documentation/devicetree/bindings/net/can/fsl,flexcan.yaml > Documentation/devicetree/bindings/net/can/fsl,flexcan.example.dts

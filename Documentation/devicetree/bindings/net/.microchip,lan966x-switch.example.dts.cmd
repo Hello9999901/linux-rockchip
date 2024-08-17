@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/microchip,lan966x-switch.example.dts := dt-extract-example Documentation/devicetree/bindings/net/microchip,lan966x-switch.yaml > Documentation/devicetree/bindings/net/microchip,lan966x-switch.example.dts

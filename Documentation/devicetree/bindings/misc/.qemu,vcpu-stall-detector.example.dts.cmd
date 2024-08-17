@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/misc/qemu,vcpu-stall-detector.example.dts := dt-extract-example Documentation/devicetree/bindings/misc/qemu,vcpu-stall-detector.yaml > Documentation/devicetree/bindings/misc/qemu,vcpu-stall-detector.example.dts

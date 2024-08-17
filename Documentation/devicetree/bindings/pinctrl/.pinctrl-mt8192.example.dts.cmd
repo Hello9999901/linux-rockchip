@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/pinctrl-mt8192.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/pinctrl-mt8192.yaml > Documentation/devicetree/bindings/pinctrl/pinctrl-mt8192.example.dts

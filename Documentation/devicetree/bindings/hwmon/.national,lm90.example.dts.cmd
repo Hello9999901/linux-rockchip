@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/national,lm90.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/national,lm90.yaml > Documentation/devicetree/bindings/hwmon/national,lm90.example.dts

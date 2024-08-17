@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/firmware/intel,ixp4xx-network-processing-engine.example.dts := dt-extract-example Documentation/devicetree/bindings/firmware/intel,ixp4xx-network-processing-engine.yaml > Documentation/devicetree/bindings/firmware/intel,ixp4xx-network-processing-engine.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/calxeda-xgmac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/calxeda-xgmac.yaml > Documentation/devicetree/bindings/net/calxeda-xgmac.example.dts

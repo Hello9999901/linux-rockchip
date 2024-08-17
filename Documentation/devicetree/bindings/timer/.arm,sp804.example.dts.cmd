@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/arm,sp804.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/arm,sp804.yaml > Documentation/devicetree/bindings/timer/arm,sp804.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/socionext,uniphier-ave4.example.dts := dt-extract-example Documentation/devicetree/bindings/net/socionext,uniphier-ave4.yaml > Documentation/devicetree/bindings/net/socionext,uniphier-ave4.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/ralink,rt3883-pinctrl.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/ralink,rt3883-pinctrl.yaml > Documentation/devicetree/bindings/pinctrl/ralink,rt3883-pinctrl.example.dts

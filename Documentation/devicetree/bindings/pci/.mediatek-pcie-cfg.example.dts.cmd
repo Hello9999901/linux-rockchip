@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/mediatek-pcie-cfg.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/mediatek-pcie-cfg.yaml > Documentation/devicetree/bindings/pci/mediatek-pcie-cfg.example.dts

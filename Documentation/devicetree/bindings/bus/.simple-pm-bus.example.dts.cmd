@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/bus/simple-pm-bus.example.dts := dt-extract-example Documentation/devicetree/bindings/bus/simple-pm-bus.yaml > Documentation/devicetree/bindings/bus/simple-pm-bus.example.dts

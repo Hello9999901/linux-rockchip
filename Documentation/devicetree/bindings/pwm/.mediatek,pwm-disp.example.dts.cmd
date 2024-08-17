@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/mediatek,pwm-disp.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/mediatek,pwm-disp.yaml > Documentation/devicetree/bindings/pwm/mediatek,pwm-disp.example.dts

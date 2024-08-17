@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/renesas,rst.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/renesas,rst.yaml > Documentation/devicetree/bindings/reset/renesas,rst.example.dts

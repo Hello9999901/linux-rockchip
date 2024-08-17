@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/gpu/samsung-rotator.example.dts := dt-extract-example Documentation/devicetree/bindings/gpu/samsung-rotator.yaml > Documentation/devicetree/bindings/gpu/samsung-rotator.example.dts

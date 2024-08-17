@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/ti,omap-remoteproc.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/ti,omap-remoteproc.yaml > Documentation/devicetree/bindings/remoteproc/ti,omap-remoteproc.example.dts

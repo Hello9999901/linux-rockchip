@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/intel,pinctrl-thunderbay.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/intel,pinctrl-thunderbay.yaml > Documentation/devicetree/bindings/pinctrl/intel,pinctrl-thunderbay.example.dts

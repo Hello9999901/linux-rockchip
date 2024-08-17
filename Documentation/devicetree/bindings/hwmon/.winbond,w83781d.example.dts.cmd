@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/winbond,w83781d.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/winbond,w83781d.yaml > Documentation/devicetree/bindings/hwmon/winbond,w83781d.example.dts

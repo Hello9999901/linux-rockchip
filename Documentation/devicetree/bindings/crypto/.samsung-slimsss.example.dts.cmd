@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/samsung-slimsss.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/samsung-slimsss.yaml > Documentation/devicetree/bindings/crypto/samsung-slimsss.example.dts

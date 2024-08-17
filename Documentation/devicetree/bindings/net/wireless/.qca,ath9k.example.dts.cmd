@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/wireless/qca,ath9k.example.dts := dt-extract-example Documentation/devicetree/bindings/net/wireless/qca,ath9k.yaml > Documentation/devicetree/bindings/net/wireless/qca,ath9k.example.dts

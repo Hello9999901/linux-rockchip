@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/amlogic,gxl-crypto.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/amlogic,gxl-crypto.yaml > Documentation/devicetree/bindings/crypto/amlogic,gxl-crypto.example.dts

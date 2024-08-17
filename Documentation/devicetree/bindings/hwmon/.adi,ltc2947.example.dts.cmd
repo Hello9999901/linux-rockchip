@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/adi,ltc2947.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/adi,ltc2947.yaml > Documentation/devicetree/bindings/hwmon/adi,ltc2947.example.dts

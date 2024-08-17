@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/imagis,ist3038c.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/imagis,ist3038c.yaml > Documentation/devicetree/bindings/input/touchscreen/imagis,ist3038c.example.dts

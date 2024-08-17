@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/dsa/brcm,sf2.example.dts := dt-extract-example Documentation/devicetree/bindings/net/dsa/brcm,sf2.yaml > Documentation/devicetree/bindings/net/dsa/brcm,sf2.example.dts

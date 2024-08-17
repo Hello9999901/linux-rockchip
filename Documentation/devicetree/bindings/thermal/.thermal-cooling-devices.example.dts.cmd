@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/thermal-cooling-devices.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/thermal-cooling-devices.yaml > Documentation/devicetree/bindings/thermal/thermal-cooling-devices.example.dts

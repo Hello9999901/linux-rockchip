@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/rockchip-io-domain.example.dts := dt-extract-example Documentation/devicetree/bindings/power/rockchip-io-domain.yaml > Documentation/devicetree/bindings/power/rockchip-io-domain.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/qcom,pcie.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/qcom,pcie.yaml > Documentation/devicetree/bindings/pci/qcom,pcie.example.dts

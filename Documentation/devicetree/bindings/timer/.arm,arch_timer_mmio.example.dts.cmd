@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/arm,arch_timer_mmio.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/arm,arch_timer_mmio.yaml > Documentation/devicetree/bindings/timer/arm,arch_timer_mmio.example.dts

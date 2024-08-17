@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/vertexcom-mse102x.example.dts := dt-extract-example Documentation/devicetree/bindings/net/vertexcom-mse102x.yaml > Documentation/devicetree/bindings/net/vertexcom-mse102x.example.dts

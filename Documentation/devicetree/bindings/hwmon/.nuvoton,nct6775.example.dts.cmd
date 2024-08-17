@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/nuvoton,nct6775.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/nuvoton,nct6775.yaml > Documentation/devicetree/bindings/hwmon/nuvoton,nct6775.example.dts

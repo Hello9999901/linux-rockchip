@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/qcom,pdc-global.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/qcom,pdc-global.yaml > Documentation/devicetree/bindings/reset/qcom,pdc-global.example.dts

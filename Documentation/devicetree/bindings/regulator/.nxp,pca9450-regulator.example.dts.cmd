@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/nxp,pca9450-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/nxp,pca9450-regulator.yaml > Documentation/devicetree/bindings/regulator/nxp,pca9450-regulator.example.dts

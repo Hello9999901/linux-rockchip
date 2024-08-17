@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/pwm-rockchip.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/pwm-rockchip.yaml > Documentation/devicetree/bindings/pwm/pwm-rockchip.example.dts

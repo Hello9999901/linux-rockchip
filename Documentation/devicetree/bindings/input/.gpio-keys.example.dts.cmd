@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/gpio-keys.example.dts := dt-extract-example Documentation/devicetree/bindings/input/gpio-keys.yaml > Documentation/devicetree/bindings/input/gpio-keys.example.dts

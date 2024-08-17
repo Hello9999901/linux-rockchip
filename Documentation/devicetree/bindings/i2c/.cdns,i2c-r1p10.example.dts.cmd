@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/cdns,i2c-r1p10.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/cdns,i2c-r1p10.yaml > Documentation/devicetree/bindings/i2c/cdns,i2c-r1p10.example.dts

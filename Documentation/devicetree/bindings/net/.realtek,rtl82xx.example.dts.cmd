@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/realtek,rtl82xx.example.dts := dt-extract-example Documentation/devicetree/bindings/net/realtek,rtl82xx.yaml > Documentation/devicetree/bindings/net/realtek,rtl82xx.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/dsa/dsa-port.example.dts := dt-extract-example Documentation/devicetree/bindings/net/dsa/dsa-port.yaml > Documentation/devicetree/bindings/net/dsa/dsa-port.example.dts

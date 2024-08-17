@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/lantiq,xrx200-net.example.dts := dt-extract-example Documentation/devicetree/bindings/net/lantiq,xrx200-net.yaml > Documentation/devicetree/bindings/net/lantiq,xrx200-net.example.dts

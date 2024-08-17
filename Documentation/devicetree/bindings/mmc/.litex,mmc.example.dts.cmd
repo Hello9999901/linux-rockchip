@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/litex,mmc.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/litex,mmc.yaml > Documentation/devicetree/bindings/mmc/litex,mmc.example.dts

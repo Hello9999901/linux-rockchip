@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/broadcom-bluetooth.example.dts := dt-extract-example Documentation/devicetree/bindings/net/broadcom-bluetooth.yaml > Documentation/devicetree/bindings/net/broadcom-bluetooth.example.dts

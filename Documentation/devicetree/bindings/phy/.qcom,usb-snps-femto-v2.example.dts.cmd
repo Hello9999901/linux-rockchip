@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/qcom,usb-snps-femto-v2.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/qcom,usb-snps-femto-v2.yaml > Documentation/devicetree/bindings/phy/qcom,usb-snps-femto-v2.example.dts

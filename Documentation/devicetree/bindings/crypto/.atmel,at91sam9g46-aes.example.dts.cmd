@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/atmel,at91sam9g46-aes.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/atmel,at91sam9g46-aes.yaml > Documentation/devicetree/bindings/crypto/atmel,at91sam9g46-aes.example.dts

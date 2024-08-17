@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/i2c-mux-gpmux.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/i2c-mux-gpmux.yaml > Documentation/devicetree/bindings/i2c/i2c-mux-gpmux.example.dts

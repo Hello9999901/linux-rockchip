@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/pwm-tiecap.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/pwm-tiecap.yaml > Documentation/devicetree/bindings/pwm/pwm-tiecap.example.dts

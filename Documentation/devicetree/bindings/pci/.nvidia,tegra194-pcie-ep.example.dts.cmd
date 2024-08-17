@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/nvidia,tegra194-pcie-ep.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/nvidia,tegra194-pcie-ep.yaml > Documentation/devicetree/bindings/pci/nvidia,tegra194-pcie-ep.example.dts

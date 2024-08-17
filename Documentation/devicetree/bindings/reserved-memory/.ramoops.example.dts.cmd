@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reserved-memory/ramoops.example.dts := dt-extract-example Documentation/devicetree/bindings/reserved-memory/ramoops.yaml > Documentation/devicetree/bindings/reserved-memory/ramoops.example.dts

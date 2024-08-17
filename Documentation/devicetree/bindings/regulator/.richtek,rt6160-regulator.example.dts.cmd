@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/richtek,rt6160-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/richtek,rt6160-regulator.yaml > Documentation/devicetree/bindings/regulator/richtek,rt6160-regulator.example.dts

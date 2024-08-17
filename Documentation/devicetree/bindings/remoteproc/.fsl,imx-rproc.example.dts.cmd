@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/fsl,imx-rproc.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/fsl,imx-rproc.yaml > Documentation/devicetree/bindings/remoteproc/fsl,imx-rproc.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/cypress,cy8ctma140.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/cypress,cy8ctma140.yaml > Documentation/devicetree/bindings/input/touchscreen/cypress,cy8ctma140.example.dts

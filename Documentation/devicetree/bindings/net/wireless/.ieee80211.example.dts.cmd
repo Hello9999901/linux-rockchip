@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/wireless/ieee80211.example.dts := dt-extract-example Documentation/devicetree/bindings/net/wireless/ieee80211.yaml > Documentation/devicetree/bindings/net/wireless/ieee80211.example.dts

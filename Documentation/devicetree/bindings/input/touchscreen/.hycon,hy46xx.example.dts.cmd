@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/hycon,hy46xx.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/hycon,hy46xx.yaml > Documentation/devicetree/bindings/input/touchscreen/hycon,hy46xx.example.dts

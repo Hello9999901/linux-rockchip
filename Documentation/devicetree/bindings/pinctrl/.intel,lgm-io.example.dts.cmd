@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/intel,lgm-io.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/intel,lgm-io.yaml > Documentation/devicetree/bindings/pinctrl/intel,lgm-io.example.dts

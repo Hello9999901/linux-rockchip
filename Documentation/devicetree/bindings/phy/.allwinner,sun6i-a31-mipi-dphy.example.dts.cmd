@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/allwinner,sun6i-a31-mipi-dphy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/allwinner,sun6i-a31-mipi-dphy.yaml > Documentation/devicetree/bindings/phy/allwinner,sun6i-a31-mipi-dphy.example.dts

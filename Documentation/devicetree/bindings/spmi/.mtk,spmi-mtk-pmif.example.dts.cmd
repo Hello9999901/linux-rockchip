@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/spmi/mtk,spmi-mtk-pmif.example.dts := dt-extract-example Documentation/devicetree/bindings/spmi/mtk,spmi-mtk-pmif.yaml > Documentation/devicetree/bindings/spmi/mtk,spmi-mtk-pmif.example.dts

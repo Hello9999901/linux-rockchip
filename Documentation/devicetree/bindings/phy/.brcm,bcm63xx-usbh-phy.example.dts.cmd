@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/brcm,bcm63xx-usbh-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/brcm,bcm63xx-usbh-phy.yaml > Documentation/devicetree/bindings/phy/brcm,bcm63xx-usbh-phy.example.dts

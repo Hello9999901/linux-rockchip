@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/fsl-imx-sahara.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/fsl-imx-sahara.yaml > Documentation/devicetree/bindings/crypto/fsl-imx-sahara.example.dts

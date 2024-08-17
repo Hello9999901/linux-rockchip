@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/reset/gpio-poweroff.example.dts := dt-extract-example Documentation/devicetree/bindings/power/reset/gpio-poweroff.yaml > Documentation/devicetree/bindings/power/reset/gpio-poweroff.example.dts

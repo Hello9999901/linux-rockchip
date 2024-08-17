@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/marvell,xenon-sdhci.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/marvell,xenon-sdhci.yaml > Documentation/devicetree/bindings/mmc/marvell,xenon-sdhci.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/dsa/microchip,ksz.example.dts := dt-extract-example Documentation/devicetree/bindings/net/dsa/microchip,ksz.yaml > Documentation/devicetree/bindings/net/dsa/microchip,ksz.example.dts

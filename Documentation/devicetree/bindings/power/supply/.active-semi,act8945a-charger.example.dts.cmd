@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/active-semi,act8945a-charger.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/active-semi,act8945a-charger.yaml > Documentation/devicetree/bindings/power/supply/active-semi,act8945a-charger.example.dts

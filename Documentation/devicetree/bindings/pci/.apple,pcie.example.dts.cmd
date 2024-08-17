@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/apple,pcie.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/apple,pcie.yaml > Documentation/devicetree/bindings/pci/apple,pcie.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/reset/xlnx,zynqmp-power.example.dts := dt-extract-example Documentation/devicetree/bindings/power/reset/xlnx,zynqmp-power.yaml > Documentation/devicetree/bindings/power/reset/xlnx,zynqmp-power.example.dts

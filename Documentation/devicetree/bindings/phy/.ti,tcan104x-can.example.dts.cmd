@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/ti,tcan104x-can.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/ti,tcan104x-can.yaml > Documentation/devicetree/bindings/phy/ti,tcan104x-can.example.dts

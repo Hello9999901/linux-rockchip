@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/snps,dw-apb-timer.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/snps,dw-apb-timer.yaml > Documentation/devicetree/bindings/timer/snps,dw-apb-timer.example.dts

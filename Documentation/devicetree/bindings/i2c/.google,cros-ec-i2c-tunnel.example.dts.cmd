@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/google,cros-ec-i2c-tunnel.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/google,cros-ec-i2c-tunnel.yaml > Documentation/devicetree/bindings/i2c/google,cros-ec-i2c-tunnel.example.dts

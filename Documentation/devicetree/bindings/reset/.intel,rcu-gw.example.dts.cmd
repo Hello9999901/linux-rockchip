@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/intel,rcu-gw.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/intel,rcu-gw.yaml > Documentation/devicetree/bindings/reset/intel,rcu-gw.example.dts

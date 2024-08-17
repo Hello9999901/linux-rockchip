@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/cdns,ttc.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/cdns,ttc.yaml > Documentation/devicetree/bindings/timer/cdns,ttc.example.dts

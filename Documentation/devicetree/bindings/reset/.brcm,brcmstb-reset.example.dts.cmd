@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/brcm,brcmstb-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/brcm,brcmstb-reset.yaml > Documentation/devicetree/bindings/reset/brcm,brcmstb-reset.example.dts

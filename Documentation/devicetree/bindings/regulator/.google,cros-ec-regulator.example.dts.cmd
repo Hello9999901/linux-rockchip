@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/google,cros-ec-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/google,cros-ec-regulator.yaml > Documentation/devicetree/bindings/regulator/google,cros-ec-regulator.example.dts

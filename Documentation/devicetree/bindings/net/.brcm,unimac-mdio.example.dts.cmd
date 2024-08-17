@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/brcm,unimac-mdio.example.dts := dt-extract-example Documentation/devicetree/bindings/net/brcm,unimac-mdio.yaml > Documentation/devicetree/bindings/net/brcm,unimac-mdio.example.dts

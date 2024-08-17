@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/amd,sbtsi.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/amd,sbtsi.yaml > Documentation/devicetree/bindings/hwmon/amd,sbtsi.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/nfc/ti,trf7970a.example.dts := dt-extract-example Documentation/devicetree/bindings/net/nfc/ti,trf7970a.yaml > Documentation/devicetree/bindings/net/nfc/ti,trf7970a.example.dts

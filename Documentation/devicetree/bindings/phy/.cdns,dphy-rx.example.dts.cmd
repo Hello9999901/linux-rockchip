@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/cdns,dphy-rx.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/cdns,dphy-rx.yaml > Documentation/devicetree/bindings/phy/cdns,dphy-rx.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/sifive,plic-1.0.0.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/sifive,plic-1.0.0.yaml > Documentation/devicetree/bindings/interrupt-controller/sifive,plic-1.0.0.example.dts

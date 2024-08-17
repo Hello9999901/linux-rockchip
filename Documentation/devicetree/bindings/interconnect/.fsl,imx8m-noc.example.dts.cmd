@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interconnect/fsl,imx8m-noc.example.dts := dt-extract-example Documentation/devicetree/bindings/interconnect/fsl,imx8m-noc.yaml > Documentation/devicetree/bindings/interconnect/fsl,imx8m-noc.example.dts

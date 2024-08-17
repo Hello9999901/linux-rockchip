@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/vqmmc-ipq4019-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/vqmmc-ipq4019-regulator.yaml > Documentation/devicetree/bindings/regulator/vqmmc-ipq4019-regulator.example.dts

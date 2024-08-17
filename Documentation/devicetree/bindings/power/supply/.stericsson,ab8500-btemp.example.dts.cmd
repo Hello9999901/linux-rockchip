@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/stericsson,ab8500-btemp.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/stericsson,ab8500-btemp.yaml > Documentation/devicetree/bindings/power/supply/stericsson,ab8500-btemp.example.dts

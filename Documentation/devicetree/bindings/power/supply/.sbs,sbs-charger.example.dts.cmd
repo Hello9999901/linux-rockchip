@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/sbs,sbs-charger.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/sbs,sbs-charger.yaml > Documentation/devicetree/bindings/power/supply/sbs,sbs-charger.example.dts

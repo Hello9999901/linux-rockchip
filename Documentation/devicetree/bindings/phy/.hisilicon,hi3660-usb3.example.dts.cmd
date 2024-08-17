@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/hisilicon,hi3660-usb3.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/hisilicon,hi3660-usb3.yaml > Documentation/devicetree/bindings/phy/hisilicon,hi3660-usb3.example.dts

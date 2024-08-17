@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/ti,phy-gmii-sel.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/ti,phy-gmii-sel.yaml > Documentation/devicetree/bindings/phy/ti,phy-gmii-sel.example.dts

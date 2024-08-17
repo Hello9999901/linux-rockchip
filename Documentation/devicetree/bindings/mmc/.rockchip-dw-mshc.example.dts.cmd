@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/rockchip-dw-mshc.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/rockchip-dw-mshc.yaml > Documentation/devicetree/bindings/mmc/rockchip-dw-mshc.example.dts

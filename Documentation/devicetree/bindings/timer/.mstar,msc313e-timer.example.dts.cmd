@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/mstar,msc313e-timer.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/mstar,msc313e-timer.yaml > Documentation/devicetree/bindings/timer/mstar,msc313e-timer.example.dts

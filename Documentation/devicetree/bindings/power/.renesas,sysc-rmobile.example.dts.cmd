@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/renesas,sysc-rmobile.example.dts := dt-extract-example Documentation/devicetree/bindings/power/renesas,sysc-rmobile.yaml > Documentation/devicetree/bindings/power/renesas,sysc-rmobile.example.dts

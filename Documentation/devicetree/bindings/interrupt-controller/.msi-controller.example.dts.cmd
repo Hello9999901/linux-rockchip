@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/msi-controller.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/msi-controller.yaml > Documentation/devicetree/bindings/interrupt-controller/msi-controller.example.dts

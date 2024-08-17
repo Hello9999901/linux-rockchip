@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/ti,k3-am654-cpsw-nuss.example.dts := dt-extract-example Documentation/devicetree/bindings/net/ti,k3-am654-cpsw-nuss.yaml > Documentation/devicetree/bindings/net/ti,k3-am654-cpsw-nuss.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/nvme/apple,nvme-ans.example.dts := dt-extract-example Documentation/devicetree/bindings/nvme/apple,nvme-ans.yaml > Documentation/devicetree/bindings/nvme/apple,nvme-ans.example.dts

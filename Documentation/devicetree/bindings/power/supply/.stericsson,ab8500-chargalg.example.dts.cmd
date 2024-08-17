@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/stericsson,ab8500-chargalg.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/stericsson,ab8500-chargalg.yaml > Documentation/devicetree/bindings/power/supply/stericsson,ab8500-chargalg.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/hisilicon,hi3660-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/hisilicon,hi3660-reset.yaml > Documentation/devicetree/bindings/reset/hisilicon,hi3660-reset.example.dts

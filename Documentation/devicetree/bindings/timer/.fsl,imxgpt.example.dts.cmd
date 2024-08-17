@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/fsl,imxgpt.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/fsl,imxgpt.yaml > Documentation/devicetree/bindings/timer/fsl,imxgpt.example.dts

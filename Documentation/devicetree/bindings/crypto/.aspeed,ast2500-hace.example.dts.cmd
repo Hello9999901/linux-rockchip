@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/aspeed,ast2500-hace.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/aspeed,ast2500-hace.yaml > Documentation/devicetree/bindings/crypto/aspeed,ast2500-hace.example.dts

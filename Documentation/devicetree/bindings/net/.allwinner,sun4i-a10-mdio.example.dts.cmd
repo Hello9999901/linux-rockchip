@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/allwinner,sun4i-a10-mdio.example.dts := dt-extract-example Documentation/devicetree/bindings/net/allwinner,sun4i-a10-mdio.yaml > Documentation/devicetree/bindings/net/allwinner,sun4i-a10-mdio.example.dts

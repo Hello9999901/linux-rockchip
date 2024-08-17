@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/samsung,exynos-thermal.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/samsung,exynos-thermal.yaml > Documentation/devicetree/bindings/thermal/samsung,exynos-thermal.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/raspberrypi,7inch-touchscreen-panel-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/raspberrypi,7inch-touchscreen-panel-regulator.yaml > Documentation/devicetree/bindings/regulator/raspberrypi,7inch-touchscreen-panel-regulator.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/st,stm32-hash.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/st,stm32-hash.yaml > Documentation/devicetree/bindings/crypto/st,stm32-hash.example.dts

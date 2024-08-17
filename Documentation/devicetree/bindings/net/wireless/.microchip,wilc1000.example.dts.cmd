@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/wireless/microchip,wilc1000.example.dts := dt-extract-example Documentation/devicetree/bindings/net/wireless/microchip,wilc1000.yaml > Documentation/devicetree/bindings/net/wireless/microchip,wilc1000.example.dts

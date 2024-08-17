@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwinfo/samsung,exynos-chipid.example.dts := dt-extract-example Documentation/devicetree/bindings/hwinfo/samsung,exynos-chipid.yaml > Documentation/devicetree/bindings/hwinfo/samsung,exynos-chipid.example.dts

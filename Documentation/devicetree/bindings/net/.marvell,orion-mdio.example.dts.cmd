@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/marvell,orion-mdio.example.dts := dt-extract-example Documentation/devicetree/bindings/net/marvell,orion-mdio.yaml > Documentation/devicetree/bindings/net/marvell,orion-mdio.example.dts

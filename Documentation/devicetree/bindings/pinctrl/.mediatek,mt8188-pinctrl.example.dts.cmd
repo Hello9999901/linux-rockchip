@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/mediatek,mt8188-pinctrl.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/mediatek,mt8188-pinctrl.yaml > Documentation/devicetree/bindings/pinctrl/mediatek,mt8188-pinctrl.example.dts

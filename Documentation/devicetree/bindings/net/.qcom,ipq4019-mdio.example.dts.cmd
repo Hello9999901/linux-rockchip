@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/qcom,ipq4019-mdio.example.dts := dt-extract-example Documentation/devicetree/bindings/net/qcom,ipq4019-mdio.yaml > Documentation/devicetree/bindings/net/qcom,ipq4019-mdio.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/ti,davinci-mdio.example.dts := dt-extract-example Documentation/devicetree/bindings/net/ti,davinci-mdio.yaml > Documentation/devicetree/bindings/net/ti,davinci-mdio.example.dts

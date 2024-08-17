@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/cortina,sl3516-crypto.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/cortina,sl3516-crypto.yaml > Documentation/devicetree/bindings/crypto/cortina,sl3516-crypto.example.dts

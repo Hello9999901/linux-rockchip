@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/i2c-mux-pca954x.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/i2c-mux-pca954x.yaml > Documentation/devicetree/bindings/i2c/i2c-mux-pca954x.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/mediatek,tphy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/mediatek,tphy.yaml > Documentation/devicetree/bindings/phy/mediatek,tphy.example.dts

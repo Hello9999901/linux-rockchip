@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/fsl/fsl,layerscape-scfg.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/fsl/fsl,layerscape-scfg.yaml > Documentation/devicetree/bindings/soc/fsl/fsl,layerscape-scfg.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/brcm,sata-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/brcm,sata-phy.yaml > Documentation/devicetree/bindings/phy/brcm,sata-phy.example.dts

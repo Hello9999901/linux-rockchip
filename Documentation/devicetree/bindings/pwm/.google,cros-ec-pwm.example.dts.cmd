@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/google,cros-ec-pwm.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/google,cros-ec-pwm.yaml > Documentation/devicetree/bindings/pwm/google,cros-ec-pwm.example.dts

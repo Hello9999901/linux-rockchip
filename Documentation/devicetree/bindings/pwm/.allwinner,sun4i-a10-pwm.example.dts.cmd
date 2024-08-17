@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/allwinner,sun4i-a10-pwm.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/allwinner,sun4i-a10-pwm.yaml > Documentation/devicetree/bindings/pwm/allwinner,sun4i-a10-pwm.example.dts

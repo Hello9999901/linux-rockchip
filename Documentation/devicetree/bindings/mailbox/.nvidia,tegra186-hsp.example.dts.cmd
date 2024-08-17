@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mailbox/nvidia,tegra186-hsp.example.dts := dt-extract-example Documentation/devicetree/bindings/mailbox/nvidia,tegra186-hsp.yaml > Documentation/devicetree/bindings/mailbox/nvidia,tegra186-hsp.example.dts

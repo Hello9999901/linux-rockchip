@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/renesas,irqc.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/renesas,irqc.yaml > Documentation/devicetree/bindings/interrupt-controller/renesas,irqc.example.dts

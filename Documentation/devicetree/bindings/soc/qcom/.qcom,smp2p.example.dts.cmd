@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/qcom/qcom,smp2p.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/qcom/qcom,smp2p.yaml > Documentation/devicetree/bindings/soc/qcom/qcom,smp2p.example.dts

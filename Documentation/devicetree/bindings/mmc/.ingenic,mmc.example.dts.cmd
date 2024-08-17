@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/ingenic,mmc.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/ingenic,mmc.yaml > Documentation/devicetree/bindings/mmc/ingenic,mmc.example.dts

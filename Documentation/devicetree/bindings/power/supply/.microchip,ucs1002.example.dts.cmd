@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/microchip,ucs1002.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/microchip,ucs1002.yaml > Documentation/devicetree/bindings/power/supply/microchip,ucs1002.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/canaan,k210-rst.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/canaan,k210-rst.yaml > Documentation/devicetree/bindings/reset/canaan,k210-rst.example.dts

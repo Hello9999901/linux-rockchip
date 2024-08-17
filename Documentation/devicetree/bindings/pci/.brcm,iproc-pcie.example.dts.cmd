@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/brcm,iproc-pcie.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/brcm,iproc-pcie.yaml > Documentation/devicetree/bindings/pci/brcm,iproc-pcie.example.dts

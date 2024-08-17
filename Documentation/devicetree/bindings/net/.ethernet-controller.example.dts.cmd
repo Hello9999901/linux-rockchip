@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/ethernet-controller.example.dts := dt-extract-example Documentation/devicetree/bindings/net/ethernet-controller.yaml > Documentation/devicetree/bindings/net/ethernet-controller.example.dts

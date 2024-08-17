@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/rockchip,rk-timer.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/rockchip,rk-timer.yaml > Documentation/devicetree/bindings/timer/rockchip,rk-timer.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/loongson,htpic.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/loongson,htpic.yaml > Documentation/devicetree/bindings/interrupt-controller/loongson,htpic.example.dts

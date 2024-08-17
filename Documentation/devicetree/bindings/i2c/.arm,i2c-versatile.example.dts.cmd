@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/arm,i2c-versatile.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/arm,i2c-versatile.yaml > Documentation/devicetree/bindings/i2c/arm,i2c-versatile.example.dts

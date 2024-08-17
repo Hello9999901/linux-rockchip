@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/misc/nvidia,tegra20-apbmisc.example.dts := dt-extract-example Documentation/devicetree/bindings/misc/nvidia,tegra20-apbmisc.yaml > Documentation/devicetree/bindings/misc/nvidia,tegra20-apbmisc.example.dts

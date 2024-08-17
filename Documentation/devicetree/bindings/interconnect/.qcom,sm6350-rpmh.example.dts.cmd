@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interconnect/qcom,sm6350-rpmh.example.dts := dt-extract-example Documentation/devicetree/bindings/interconnect/qcom,sm6350-rpmh.yaml > Documentation/devicetree/bindings/interconnect/qcom,sm6350-rpmh.example.dts

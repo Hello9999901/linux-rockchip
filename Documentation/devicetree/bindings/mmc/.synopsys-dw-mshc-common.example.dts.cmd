@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/synopsys-dw-mshc-common.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/synopsys-dw-mshc-common.yaml > Documentation/devicetree/bindings/mmc/synopsys-dw-mshc-common.example.dts

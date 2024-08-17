@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/max77650-charger.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/max77650-charger.yaml > Documentation/devicetree/bindings/power/supply/max77650-charger.example.dts

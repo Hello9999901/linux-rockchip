@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/virtio/virtio-device.example.dts := dt-extract-example Documentation/devicetree/bindings/virtio/virtio-device.yaml > Documentation/devicetree/bindings/virtio/virtio-device.example.dts

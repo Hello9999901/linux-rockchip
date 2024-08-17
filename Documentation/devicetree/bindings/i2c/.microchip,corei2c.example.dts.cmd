@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/microchip,corei2c.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/microchip,corei2c.yaml > Documentation/devicetree/bindings/i2c/microchip,corei2c.example.dts

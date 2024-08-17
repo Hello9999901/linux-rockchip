@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/dsa/arrow,xrs700x.example.dts := dt-extract-example Documentation/devicetree/bindings/net/dsa/arrow,xrs700x.yaml > Documentation/devicetree/bindings/net/dsa/arrow,xrs700x.example.dts

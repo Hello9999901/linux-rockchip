@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/ti/ti,pruss.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/ti/ti,pruss.yaml > Documentation/devicetree/bindings/soc/ti/ti,pruss.example.dts

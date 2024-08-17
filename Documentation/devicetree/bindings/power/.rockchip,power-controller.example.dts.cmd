@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/rockchip,power-controller.example.dts := dt-extract-example Documentation/devicetree/bindings/power/rockchip,power-controller.yaml > Documentation/devicetree/bindings/power/rockchip,power-controller.example.dts

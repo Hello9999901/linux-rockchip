@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/amlogic,meson-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/amlogic,meson-reset.yaml > Documentation/devicetree/bindings/reset/amlogic,meson-reset.example.dts

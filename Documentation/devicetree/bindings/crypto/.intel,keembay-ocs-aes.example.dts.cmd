@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/intel,keembay-ocs-aes.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/intel,keembay-ocs-aes.yaml > Documentation/devicetree/bindings/crypto/intel,keembay-ocs-aes.example.dts

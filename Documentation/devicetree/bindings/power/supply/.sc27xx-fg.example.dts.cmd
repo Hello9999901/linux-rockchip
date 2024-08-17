@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/sc27xx-fg.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/sc27xx-fg.yaml > Documentation/devicetree/bindings/power/supply/sc27xx-fg.example.dts

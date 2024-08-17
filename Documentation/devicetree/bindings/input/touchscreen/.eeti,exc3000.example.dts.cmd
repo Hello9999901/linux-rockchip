@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/eeti,exc3000.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/eeti,exc3000.yaml > Documentation/devicetree/bindings/input/touchscreen/eeti,exc3000.example.dts

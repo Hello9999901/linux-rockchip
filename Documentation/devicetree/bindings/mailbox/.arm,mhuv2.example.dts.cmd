@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mailbox/arm,mhuv2.example.dts := dt-extract-example Documentation/devicetree/bindings/mailbox/arm,mhuv2.yaml > Documentation/devicetree/bindings/mailbox/arm,mhuv2.example.dts

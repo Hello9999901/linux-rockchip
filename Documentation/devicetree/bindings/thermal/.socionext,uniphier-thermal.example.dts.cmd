@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/socionext,uniphier-thermal.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/socionext,uniphier-thermal.yaml > Documentation/devicetree/bindings/thermal/socionext,uniphier-thermal.example.dts

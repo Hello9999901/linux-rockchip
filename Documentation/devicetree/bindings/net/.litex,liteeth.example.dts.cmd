@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/litex,liteeth.example.dts := dt-extract-example Documentation/devicetree/bindings/net/litex,liteeth.yaml > Documentation/devicetree/bindings/net/litex,liteeth.example.dts

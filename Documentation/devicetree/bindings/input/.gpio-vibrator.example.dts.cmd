@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/gpio-vibrator.example.dts := dt-extract-example Documentation/devicetree/bindings/input/gpio-vibrator.yaml > Documentation/devicetree/bindings/input/gpio-vibrator.example.dts

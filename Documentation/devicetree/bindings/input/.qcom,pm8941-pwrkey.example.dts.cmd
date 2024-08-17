@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/qcom,pm8941-pwrkey.example.dts := dt-extract-example Documentation/devicetree/bindings/input/qcom,pm8941-pwrkey.yaml > Documentation/devicetree/bindings/input/qcom,pm8941-pwrkey.example.dts

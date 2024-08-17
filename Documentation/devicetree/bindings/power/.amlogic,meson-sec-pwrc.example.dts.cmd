@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/amlogic,meson-sec-pwrc.example.dts := dt-extract-example Documentation/devicetree/bindings/power/amlogic,meson-sec-pwrc.yaml > Documentation/devicetree/bindings/power/amlogic,meson-sec-pwrc.example.dts

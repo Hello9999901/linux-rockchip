@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mmc/arm,pl18x.example.dts := dt-extract-example Documentation/devicetree/bindings/mmc/arm,pl18x.yaml > Documentation/devicetree/bindings/mmc/arm,pl18x.example.dts

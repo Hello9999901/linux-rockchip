@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/ti,am65-pci-ep.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/ti,am65-pci-ep.yaml > Documentation/devicetree/bindings/pci/ti,am65-pci-ep.example.dts

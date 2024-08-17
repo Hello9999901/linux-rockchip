@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/microchip/microchip,mpfs-sys-controller.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/microchip/microchip,mpfs-sys-controller.yaml > Documentation/devicetree/bindings/soc/microchip/microchip,mpfs-sys-controller.example.dts

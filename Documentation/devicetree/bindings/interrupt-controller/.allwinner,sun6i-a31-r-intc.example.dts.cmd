@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/allwinner,sun6i-a31-r-intc.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/allwinner,sun6i-a31-r-intc.yaml > Documentation/devicetree/bindings/interrupt-controller/allwinner,sun6i-a31-r-intc.example.dts

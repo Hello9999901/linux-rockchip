@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mailbox/allwinner,sun6i-a31-msgbox.example.dts := dt-extract-example Documentation/devicetree/bindings/mailbox/allwinner,sun6i-a31-msgbox.yaml > Documentation/devicetree/bindings/mailbox/allwinner,sun6i-a31-msgbox.example.dts

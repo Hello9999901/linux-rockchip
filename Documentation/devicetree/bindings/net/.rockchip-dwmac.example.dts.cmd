@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/rockchip-dwmac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/rockchip-dwmac.yaml > Documentation/devicetree/bindings/net/rockchip-dwmac.example.dts

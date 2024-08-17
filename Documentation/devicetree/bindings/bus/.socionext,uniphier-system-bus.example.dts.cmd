@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/bus/socionext,uniphier-system-bus.example.dts := dt-extract-example Documentation/devicetree/bindings/bus/socionext,uniphier-system-bus.yaml > Documentation/devicetree/bindings/bus/socionext,uniphier-system-bus.example.dts

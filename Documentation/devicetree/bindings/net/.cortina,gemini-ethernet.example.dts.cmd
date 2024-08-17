@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/cortina,gemini-ethernet.example.dts := dt-extract-example Documentation/devicetree/bindings/net/cortina,gemini-ethernet.yaml > Documentation/devicetree/bindings/net/cortina,gemini-ethernet.example.dts

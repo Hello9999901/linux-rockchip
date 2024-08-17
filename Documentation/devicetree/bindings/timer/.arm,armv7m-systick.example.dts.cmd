@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/arm,armv7m-systick.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/arm,armv7m-systick.yaml > Documentation/devicetree/bindings/timer/arm,armv7m-systick.example.dts

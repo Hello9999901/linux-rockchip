@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/nfc/nxp,pn544.example.dts := dt-extract-example Documentation/devicetree/bindings/net/nfc/nxp,pn544.yaml > Documentation/devicetree/bindings/net/nfc/nxp,pn544.example.dts

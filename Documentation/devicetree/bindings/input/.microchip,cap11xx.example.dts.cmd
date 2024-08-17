@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/microchip,cap11xx.example.dts := dt-extract-example Documentation/devicetree/bindings/input/microchip,cap11xx.yaml > Documentation/devicetree/bindings/input/microchip,cap11xx.example.dts

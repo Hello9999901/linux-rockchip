@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/ingenic,intc.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/ingenic,intc.yaml > Documentation/devicetree/bindings/interrupt-controller/ingenic,intc.example.dts

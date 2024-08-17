@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/ti,dp83867.example.dts := dt-extract-example Documentation/devicetree/bindings/net/ti,dp83867.yaml > Documentation/devicetree/bindings/net/ti,dp83867.example.dts

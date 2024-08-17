@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/fsl,mu-msi.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/fsl,mu-msi.yaml > Documentation/devicetree/bindings/interrupt-controller/fsl,mu-msi.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/imx8mm-thermal.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/imx8mm-thermal.yaml > Documentation/devicetree/bindings/thermal/imx8mm-thermal.example.dts

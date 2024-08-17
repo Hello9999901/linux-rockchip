@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/rockchip,emac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/rockchip,emac.yaml > Documentation/devicetree/bindings/net/rockchip,emac.example.dts

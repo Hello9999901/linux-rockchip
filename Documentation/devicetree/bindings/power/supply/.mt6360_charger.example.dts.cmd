@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/mt6360_charger.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/mt6360_charger.yaml > Documentation/devicetree/bindings/power/supply/mt6360_charger.example.dts

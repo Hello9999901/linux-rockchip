@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/intel,ixp4xx-crypto.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/intel,ixp4xx-crypto.yaml > Documentation/devicetree/bindings/crypto/intel,ixp4xx-crypto.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/mdio-mux-multiplexer.example.dts := dt-extract-example Documentation/devicetree/bindings/net/mdio-mux-multiplexer.yaml > Documentation/devicetree/bindings/net/mdio-mux-multiplexer.example.dts

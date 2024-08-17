@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/hid-over-i2c.example.dts := dt-extract-example Documentation/devicetree/bindings/input/hid-over-i2c.yaml > Documentation/devicetree/bindings/input/hid-over-i2c.example.dts

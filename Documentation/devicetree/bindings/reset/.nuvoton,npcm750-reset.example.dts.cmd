@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/nuvoton,npcm750-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/nuvoton,npcm750-reset.yaml > Documentation/devicetree/bindings/reset/nuvoton,npcm750-reset.example.dts

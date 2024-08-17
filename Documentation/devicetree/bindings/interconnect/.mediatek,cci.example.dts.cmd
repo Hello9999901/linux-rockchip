@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interconnect/mediatek,cci.example.dts := dt-extract-example Documentation/devicetree/bindings/interconnect/mediatek,cci.yaml > Documentation/devicetree/bindings/interconnect/mediatek,cci.example.dts

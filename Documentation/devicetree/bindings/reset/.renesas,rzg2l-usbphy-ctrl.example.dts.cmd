@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/renesas,rzg2l-usbphy-ctrl.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/renesas,rzg2l-usbphy-ctrl.yaml > Documentation/devicetree/bindings/reset/renesas,rzg2l-usbphy-ctrl.example.dts

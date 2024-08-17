@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/firmware/xilinx/xlnx,zynqmp-firmware.example.dts := dt-extract-example Documentation/devicetree/bindings/firmware/xilinx/xlnx,zynqmp-firmware.yaml > Documentation/devicetree/bindings/firmware/xilinx/xlnx,zynqmp-firmware.example.dts

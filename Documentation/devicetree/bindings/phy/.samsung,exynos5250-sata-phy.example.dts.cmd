@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/samsung,exynos5250-sata-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/samsung,exynos5250-sata-phy.yaml > Documentation/devicetree/bindings/phy/samsung,exynos5250-sata-phy.example.dts

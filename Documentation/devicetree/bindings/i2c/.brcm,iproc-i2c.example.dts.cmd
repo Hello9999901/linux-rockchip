@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/brcm,iproc-i2c.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/brcm,iproc-i2c.yaml > Documentation/devicetree/bindings/i2c/brcm,iproc-i2c.example.dts

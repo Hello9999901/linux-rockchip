@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/renesas,rcar-rproc.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/renesas,rcar-rproc.yaml > Documentation/devicetree/bindings/remoteproc/renesas,rcar-rproc.example.dts

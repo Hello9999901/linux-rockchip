@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/ethernet-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/net/ethernet-phy.yaml > Documentation/devicetree/bindings/net/ethernet-phy.example.dts

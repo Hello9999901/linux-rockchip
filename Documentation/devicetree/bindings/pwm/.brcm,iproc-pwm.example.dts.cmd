@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/brcm,iproc-pwm.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/brcm,iproc-pwm.yaml > Documentation/devicetree/bindings/pwm/brcm,iproc-pwm.example.dts

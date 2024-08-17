@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/crypto/fsl-imx-scc.example.dts := dt-extract-example Documentation/devicetree/bindings/crypto/fsl-imx-scc.yaml > Documentation/devicetree/bindings/crypto/fsl-imx-scc.example.dts

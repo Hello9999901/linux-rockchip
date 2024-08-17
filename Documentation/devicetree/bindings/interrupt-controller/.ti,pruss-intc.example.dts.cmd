@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/ti,pruss-intc.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/ti,pruss-intc.yaml > Documentation/devicetree/bindings/interrupt-controller/ti,pruss-intc.example.dts

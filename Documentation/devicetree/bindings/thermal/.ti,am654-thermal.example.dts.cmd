@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/ti,am654-thermal.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/ti,am654-thermal.yaml > Documentation/devicetree/bindings/thermal/ti,am654-thermal.example.dts

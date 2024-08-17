@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/qcom,pm8xxx-vib.example.dts := dt-extract-example Documentation/devicetree/bindings/input/qcom,pm8xxx-vib.yaml > Documentation/devicetree/bindings/input/qcom,pm8xxx-vib.example.dts

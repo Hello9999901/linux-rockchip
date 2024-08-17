@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/brcm,bcm7038-l1-intc.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/brcm,bcm7038-l1-intc.yaml > Documentation/devicetree/bindings/interrupt-controller/brcm,bcm7038-l1-intc.example.dts

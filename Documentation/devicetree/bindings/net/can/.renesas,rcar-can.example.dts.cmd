@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/can/renesas,rcar-can.example.dts := dt-extract-example Documentation/devicetree/bindings/net/can/renesas,rcar-can.yaml > Documentation/devicetree/bindings/net/can/renesas,rcar-can.example.dts

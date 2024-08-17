@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/gpu/samsung-g2d.example.dts := dt-extract-example Documentation/devicetree/bindings/gpu/samsung-g2d.yaml > Documentation/devicetree/bindings/gpu/samsung-g2d.example.dts

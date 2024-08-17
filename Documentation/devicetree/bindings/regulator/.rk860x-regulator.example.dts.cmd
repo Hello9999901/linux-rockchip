@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/rk860x-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/rk860x-regulator.yaml > Documentation/devicetree/bindings/regulator/rk860x-regulator.example.dts

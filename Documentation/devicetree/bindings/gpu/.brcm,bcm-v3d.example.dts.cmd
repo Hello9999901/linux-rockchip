@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/gpu/brcm,bcm-v3d.example.dts := dt-extract-example Documentation/devicetree/bindings/gpu/brcm,bcm-v3d.yaml > Documentation/devicetree/bindings/gpu/brcm,bcm-v3d.example.dts

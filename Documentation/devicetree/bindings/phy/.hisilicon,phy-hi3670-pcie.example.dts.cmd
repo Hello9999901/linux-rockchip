@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/hisilicon,phy-hi3670-pcie.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/hisilicon,phy-hi3670-pcie.yaml > Documentation/devicetree/bindings/phy/hisilicon,phy-hi3670-pcie.example.dts

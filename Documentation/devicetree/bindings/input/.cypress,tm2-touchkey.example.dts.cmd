@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/cypress,tm2-touchkey.example.dts := dt-extract-example Documentation/devicetree/bindings/input/cypress,tm2-touchkey.yaml > Documentation/devicetree/bindings/input/cypress,tm2-touchkey.example.dts

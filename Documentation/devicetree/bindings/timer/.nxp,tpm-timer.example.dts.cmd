@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/nxp,tpm-timer.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/nxp,tpm-timer.yaml > Documentation/devicetree/bindings/timer/nxp,tpm-timer.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/dsa/mediatek,mt7530.example.dts := dt-extract-example Documentation/devicetree/bindings/net/dsa/mediatek,mt7530.yaml > Documentation/devicetree/bindings/net/dsa/mediatek,mt7530.example.dts

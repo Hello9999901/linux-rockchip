@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/qcom/qcom,geni-se.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/qcom/qcom,geni-se.yaml > Documentation/devicetree/bindings/soc/qcom/qcom,geni-se.example.dts

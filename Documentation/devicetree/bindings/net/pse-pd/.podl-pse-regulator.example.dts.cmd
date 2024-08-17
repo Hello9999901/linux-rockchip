@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/pse-pd/podl-pse-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/net/pse-pd/podl-pse-regulator.yaml > Documentation/devicetree/bindings/net/pse-pd/podl-pse-regulator.example.dts

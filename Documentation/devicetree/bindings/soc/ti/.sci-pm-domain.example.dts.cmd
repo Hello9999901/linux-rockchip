@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/ti/sci-pm-domain.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/ti/sci-pm-domain.yaml > Documentation/devicetree/bindings/soc/ti/sci-pm-domain.example.dts

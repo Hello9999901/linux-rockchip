@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/renesas/renesas,rzg2l-sysc.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/renesas/renesas,rzg2l-sysc.yaml > Documentation/devicetree/bindings/soc/renesas/renesas,rzg2l-sysc.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/amlogic,meson-mx-ao-arc.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/amlogic,meson-mx-ao-arc.yaml > Documentation/devicetree/bindings/remoteproc/amlogic,meson-mx-ao-arc.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/amlogic,g12a-usb3-pcie-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/amlogic,g12a-usb3-pcie-phy.yaml > Documentation/devicetree/bindings/phy/amlogic,g12a-usb3-pcie-phy.example.dts

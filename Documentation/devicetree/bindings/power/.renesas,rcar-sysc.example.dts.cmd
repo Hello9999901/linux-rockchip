@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/renesas,rcar-sysc.example.dts := dt-extract-example Documentation/devicetree/bindings/power/renesas,rcar-sysc.yaml > Documentation/devicetree/bindings/power/renesas,rcar-sysc.example.dts

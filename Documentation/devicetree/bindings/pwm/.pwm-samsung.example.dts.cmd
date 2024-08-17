@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/pwm-samsung.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/pwm-samsung.yaml > Documentation/devicetree/bindings/pwm/pwm-samsung.example.dts

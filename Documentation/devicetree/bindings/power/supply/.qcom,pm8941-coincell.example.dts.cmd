@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/qcom,pm8941-coincell.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/qcom,pm8941-coincell.yaml > Documentation/devicetree/bindings/power/supply/qcom,pm8941-coincell.example.dts

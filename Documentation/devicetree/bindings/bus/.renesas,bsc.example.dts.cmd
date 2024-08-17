@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/bus/renesas,bsc.example.dts := dt-extract-example Documentation/devicetree/bindings/bus/renesas,bsc.yaml > Documentation/devicetree/bindings/bus/renesas,bsc.example.dts

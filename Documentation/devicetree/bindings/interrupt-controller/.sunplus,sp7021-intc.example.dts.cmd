@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/sunplus,sp7021-intc.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/sunplus,sp7021-intc.yaml > Documentation/devicetree/bindings/interrupt-controller/sunplus,sp7021-intc.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/fsl,irqsteer.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/fsl,irqsteer.yaml > Documentation/devicetree/bindings/interrupt-controller/fsl,irqsteer.example.dts

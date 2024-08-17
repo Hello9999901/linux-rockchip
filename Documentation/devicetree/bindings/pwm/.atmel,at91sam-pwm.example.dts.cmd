@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pwm/atmel,at91sam-pwm.example.dts := dt-extract-example Documentation/devicetree/bindings/pwm/atmel,at91sam-pwm.yaml > Documentation/devicetree/bindings/pwm/atmel,at91sam-pwm.example.dts

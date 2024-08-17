@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/opp/opp-v2-qcom-level.example.dts := dt-extract-example Documentation/devicetree/bindings/opp/opp-v2-qcom-level.yaml > Documentation/devicetree/bindings/opp/opp-v2-qcom-level.example.dts

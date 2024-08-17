@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/qcom,hdmi-phy-qmp.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/qcom,hdmi-phy-qmp.yaml > Documentation/devicetree/bindings/phy/qcom,hdmi-phy-qmp.example.dts

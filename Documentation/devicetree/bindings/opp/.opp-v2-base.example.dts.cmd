@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/opp/opp-v2-base.example.dts := dt-extract-example Documentation/devicetree/bindings/opp/opp-v2-base.yaml > Documentation/devicetree/bindings/opp/opp-v2-base.example.dts

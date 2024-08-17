@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pci/versatile.example.dts := dt-extract-example Documentation/devicetree/bindings/pci/versatile.yaml > Documentation/devicetree/bindings/pci/versatile.example.dts

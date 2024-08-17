@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/intel,pinctrl-keembay.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/intel,pinctrl-keembay.yaml > Documentation/devicetree/bindings/pinctrl/intel,pinctrl-keembay.example.dts

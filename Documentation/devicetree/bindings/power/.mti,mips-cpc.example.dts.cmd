@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/mti,mips-cpc.example.dts := dt-extract-example Documentation/devicetree/bindings/power/mti,mips-cpc.yaml > Documentation/devicetree/bindings/power/mti,mips-cpc.example.dts

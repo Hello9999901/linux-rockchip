@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/qcom,sm6350-pinctrl.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/qcom,sm6350-pinctrl.yaml > Documentation/devicetree/bindings/pinctrl/qcom,sm6350-pinctrl.example.dts

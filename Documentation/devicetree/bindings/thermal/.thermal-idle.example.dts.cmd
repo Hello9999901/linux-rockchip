@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/thermal-idle.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/thermal-idle.yaml > Documentation/devicetree/bindings/thermal/thermal-idle.example.dts

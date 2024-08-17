@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/intel/intel,hps-copy-engine.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/intel/intel,hps-copy-engine.yaml > Documentation/devicetree/bindings/soc/intel/intel,hps-copy-engine.example.dts

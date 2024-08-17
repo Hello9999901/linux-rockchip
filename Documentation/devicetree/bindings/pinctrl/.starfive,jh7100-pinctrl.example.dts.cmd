@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/starfive,jh7100-pinctrl.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/starfive,jh7100-pinctrl.yaml > Documentation/devicetree/bindings/pinctrl/starfive,jh7100-pinctrl.example.dts

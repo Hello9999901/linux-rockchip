@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/i2c/allwinner,sun6i-a31-p2wi.example.dts := dt-extract-example Documentation/devicetree/bindings/i2c/allwinner,sun6i-a31-p2wi.yaml > Documentation/devicetree/bindings/i2c/allwinner,sun6i-a31-p2wi.example.dts

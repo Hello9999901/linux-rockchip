@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/dsa/renesas,rzn1-a5psw.example.dts := dt-extract-example Documentation/devicetree/bindings/net/dsa/renesas,rzn1-a5psw.yaml > Documentation/devicetree/bindings/net/dsa/renesas,rzn1-a5psw.example.dts

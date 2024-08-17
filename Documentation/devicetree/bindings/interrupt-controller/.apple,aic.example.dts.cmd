@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/apple,aic.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/apple,aic.yaml > Documentation/devicetree/bindings/interrupt-controller/apple,aic.example.dts

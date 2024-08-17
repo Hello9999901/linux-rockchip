@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/charger-manager.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/charger-manager.yaml > Documentation/devicetree/bindings/power/supply/charger-manager.example.dts

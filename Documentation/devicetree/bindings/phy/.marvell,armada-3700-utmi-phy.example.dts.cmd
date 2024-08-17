@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/marvell,armada-3700-utmi-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/marvell,armada-3700-utmi-phy.yaml > Documentation/devicetree/bindings/phy/marvell,armada-3700-utmi-phy.example.dts

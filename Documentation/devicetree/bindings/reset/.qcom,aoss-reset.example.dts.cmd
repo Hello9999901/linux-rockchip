@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/qcom,aoss-reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/qcom,aoss-reset.yaml > Documentation/devicetree/bindings/reset/qcom,aoss-reset.example.dts

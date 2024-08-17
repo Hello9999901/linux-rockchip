@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/goodix.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/goodix.yaml > Documentation/devicetree/bindings/input/touchscreen/goodix.example.dts

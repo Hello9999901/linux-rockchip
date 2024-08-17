@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/mctp-i2c-controller.example.dts := dt-extract-example Documentation/devicetree/bindings/net/mctp-i2c-controller.yaml > Documentation/devicetree/bindings/net/mctp-i2c-controller.example.dts

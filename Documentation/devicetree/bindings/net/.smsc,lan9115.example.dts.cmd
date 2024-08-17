@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/smsc,lan9115.example.dts := dt-extract-example Documentation/devicetree/bindings/net/smsc,lan9115.yaml > Documentation/devicetree/bindings/net/smsc,lan9115.example.dts

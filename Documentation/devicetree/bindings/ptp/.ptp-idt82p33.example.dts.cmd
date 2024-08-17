@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/ptp/ptp-idt82p33.example.dts := dt-extract-example Documentation/devicetree/bindings/ptp/ptp-idt82p33.yaml > Documentation/devicetree/bindings/ptp/ptp-idt82p33.example.dts

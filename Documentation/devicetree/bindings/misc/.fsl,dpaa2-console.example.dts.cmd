@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/misc/fsl,dpaa2-console.example.dts := dt-extract-example Documentation/devicetree/bindings/misc/fsl,dpaa2-console.yaml > Documentation/devicetree/bindings/misc/fsl,dpaa2-console.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/lltc,lt3651-charger.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/lltc,lt3651-charger.yaml > Documentation/devicetree/bindings/power/supply/lltc,lt3651-charger.example.dts

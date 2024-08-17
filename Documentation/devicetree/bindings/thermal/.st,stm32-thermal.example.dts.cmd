@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/st,stm32-thermal.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/st,stm32-thermal.yaml > Documentation/devicetree/bindings/thermal/st,stm32-thermal.example.dts

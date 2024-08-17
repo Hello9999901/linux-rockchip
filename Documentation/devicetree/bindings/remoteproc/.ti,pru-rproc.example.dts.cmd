@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/ti,pru-rproc.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/ti,pru-rproc.yaml > Documentation/devicetree/bindings/remoteproc/ti,pru-rproc.example.dts

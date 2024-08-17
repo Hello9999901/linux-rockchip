@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/avs/qcom,cpr.example.dts := dt-extract-example Documentation/devicetree/bindings/power/avs/qcom,cpr.yaml > Documentation/devicetree/bindings/power/avs/qcom,cpr.example.dts

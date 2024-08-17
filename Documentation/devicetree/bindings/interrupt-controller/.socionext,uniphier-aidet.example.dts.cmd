@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/socionext,uniphier-aidet.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/socionext,uniphier-aidet.yaml > Documentation/devicetree/bindings/interrupt-controller/socionext,uniphier-aidet.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/sifive,clint.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/sifive,clint.yaml > Documentation/devicetree/bindings/timer/sifive,clint.example.dts

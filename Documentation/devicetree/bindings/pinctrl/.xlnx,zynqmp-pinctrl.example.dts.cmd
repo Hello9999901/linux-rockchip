@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/xlnx,zynqmp-pinctrl.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/xlnx,zynqmp-pinctrl.yaml > Documentation/devicetree/bindings/pinctrl/xlnx,zynqmp-pinctrl.example.dts

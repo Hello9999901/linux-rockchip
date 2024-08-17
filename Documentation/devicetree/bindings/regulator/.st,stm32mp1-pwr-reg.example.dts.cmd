@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/st,stm32mp1-pwr-reg.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/st,stm32mp1-pwr-reg.yaml > Documentation/devicetree/bindings/regulator/st,stm32mp1-pwr-reg.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/brcm,mdio-mux-iproc.example.dts := dt-extract-example Documentation/devicetree/bindings/net/brcm,mdio-mux-iproc.yaml > Documentation/devicetree/bindings/net/brcm,mdio-mux-iproc.example.dts

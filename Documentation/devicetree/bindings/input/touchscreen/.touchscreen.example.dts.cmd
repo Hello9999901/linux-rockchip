@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/touchscreen.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/touchscreen.yaml > Documentation/devicetree/bindings/input/touchscreen/touchscreen.example.dts

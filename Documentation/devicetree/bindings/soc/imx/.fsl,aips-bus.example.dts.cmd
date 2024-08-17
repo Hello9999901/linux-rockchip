@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/imx/fsl,aips-bus.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/imx/fsl,aips-bus.yaml > Documentation/devicetree/bindings/soc/imx/fsl,aips-bus.example.dts

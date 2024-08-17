@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/nuvoton,wpcm450-aic.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/nuvoton,wpcm450-aic.yaml > Documentation/devicetree/bindings/interrupt-controller/nuvoton,wpcm450-aic.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/microchip,lan966x.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/microchip,lan966x.yaml > Documentation/devicetree/bindings/hwmon/microchip,lan966x.example.dts

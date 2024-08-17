@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/microchip/atmel,at91rm9200-tcb.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/microchip/atmel,at91rm9200-tcb.yaml > Documentation/devicetree/bindings/soc/microchip/atmel,at91rm9200-tcb.example.dts

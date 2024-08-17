@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/nvidia,tegra186-bpmp-thermal.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/nvidia,tegra186-bpmp-thermal.yaml > Documentation/devicetree/bindings/thermal/nvidia,tegra186-bpmp-thermal.example.dts

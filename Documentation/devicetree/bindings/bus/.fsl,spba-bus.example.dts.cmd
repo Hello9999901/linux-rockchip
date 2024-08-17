@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/bus/fsl,spba-bus.example.dts := dt-extract-example Documentation/devicetree/bindings/bus/fsl,spba-bus.yaml > Documentation/devicetree/bindings/bus/fsl,spba-bus.example.dts

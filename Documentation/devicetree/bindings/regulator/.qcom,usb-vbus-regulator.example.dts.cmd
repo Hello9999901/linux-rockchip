@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/qcom,usb-vbus-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/qcom,usb-vbus-regulator.yaml > Documentation/devicetree/bindings/regulator/qcom,usb-vbus-regulator.example.dts

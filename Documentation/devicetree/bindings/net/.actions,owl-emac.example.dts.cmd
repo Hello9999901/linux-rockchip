@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/actions,owl-emac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/actions,owl-emac.yaml > Documentation/devicetree/bindings/net/actions,owl-emac.example.dts

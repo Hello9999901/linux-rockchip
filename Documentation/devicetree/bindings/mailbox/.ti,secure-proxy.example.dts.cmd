@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/mailbox/ti,secure-proxy.example.dts := dt-extract-example Documentation/devicetree/bindings/mailbox/ti,secure-proxy.yaml > Documentation/devicetree/bindings/mailbox/ti,secure-proxy.example.dts

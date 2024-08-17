@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/brcm,bcm6368-mdio-mux.example.dts := dt-extract-example Documentation/devicetree/bindings/net/brcm,bcm6368-mdio-mux.yaml > Documentation/devicetree/bindings/net/brcm,bcm6368-mdio-mux.example.dts

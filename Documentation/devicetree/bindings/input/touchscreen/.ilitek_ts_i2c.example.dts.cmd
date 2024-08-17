@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/ilitek_ts_i2c.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/ilitek_ts_i2c.yaml > Documentation/devicetree/bindings/input/touchscreen/ilitek_ts_i2c.example.dts

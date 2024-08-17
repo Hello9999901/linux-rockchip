@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/amlogic,axg-mipi-dphy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/amlogic,axg-mipi-dphy.yaml > Documentation/devicetree/bindings/phy/amlogic,axg-mipi-dphy.example.dts

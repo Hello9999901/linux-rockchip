@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/qcom,spmi-temp-alarm.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/qcom,spmi-temp-alarm.yaml > Documentation/devicetree/bindings/thermal/qcom,spmi-temp-alarm.example.dts

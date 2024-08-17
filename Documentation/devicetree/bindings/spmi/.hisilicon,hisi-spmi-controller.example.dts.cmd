@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/spmi/hisilicon,hisi-spmi-controller.example.dts := dt-extract-example Documentation/devicetree/bindings/spmi/hisilicon,hisi-spmi-controller.yaml > Documentation/devicetree/bindings/spmi/hisilicon,hisi-spmi-controller.example.dts

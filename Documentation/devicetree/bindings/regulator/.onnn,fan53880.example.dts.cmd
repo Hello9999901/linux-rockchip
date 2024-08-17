@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/onnn,fan53880.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/onnn,fan53880.yaml > Documentation/devicetree/bindings/regulator/onnn,fan53880.example.dts

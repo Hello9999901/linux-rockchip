@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/virtio/pci-iommu.example.dts := dt-extract-example Documentation/devicetree/bindings/virtio/pci-iommu.yaml > Documentation/devicetree/bindings/virtio/pci-iommu.example.dts

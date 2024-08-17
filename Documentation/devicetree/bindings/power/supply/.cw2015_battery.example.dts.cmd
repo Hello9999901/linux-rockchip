@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/supply/cw2015_battery.example.dts := dt-extract-example Documentation/devicetree/bindings/power/supply/cw2015_battery.yaml > Documentation/devicetree/bindings/power/supply/cw2015_battery.example.dts

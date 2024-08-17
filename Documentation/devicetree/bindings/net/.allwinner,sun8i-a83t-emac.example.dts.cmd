@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/allwinner,sun8i-a83t-emac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/allwinner,sun8i-a83t-emac.yaml > Documentation/devicetree/bindings/net/allwinner,sun8i-a83t-emac.example.dts

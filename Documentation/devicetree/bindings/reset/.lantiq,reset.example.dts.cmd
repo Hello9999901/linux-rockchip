@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/lantiq,reset.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/lantiq,reset.yaml > Documentation/devicetree/bindings/reset/lantiq,reset.example.dts

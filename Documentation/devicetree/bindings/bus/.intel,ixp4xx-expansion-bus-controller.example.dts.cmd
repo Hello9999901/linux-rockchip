@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/bus/intel,ixp4xx-expansion-bus-controller.example.dts := dt-extract-example Documentation/devicetree/bindings/bus/intel,ixp4xx-expansion-bus-controller.yaml > Documentation/devicetree/bindings/bus/intel,ixp4xx-expansion-bus-controller.example.dts

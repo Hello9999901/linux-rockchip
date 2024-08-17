@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/intel,ixp4xx-timer.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/intel,ixp4xx-timer.yaml > Documentation/devicetree/bindings/timer/intel,ixp4xx-timer.example.dts

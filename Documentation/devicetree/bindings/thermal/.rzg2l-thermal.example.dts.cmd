@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/thermal/rzg2l-thermal.example.dts := dt-extract-example Documentation/devicetree/bindings/thermal/rzg2l-thermal.yaml > Documentation/devicetree/bindings/thermal/rzg2l-thermal.example.dts

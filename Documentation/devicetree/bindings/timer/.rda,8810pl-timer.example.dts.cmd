@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/timer/rda,8810pl-timer.example.dts := dt-extract-example Documentation/devicetree/bindings/timer/rda,8810pl-timer.yaml > Documentation/devicetree/bindings/timer/rda,8810pl-timer.example.dts

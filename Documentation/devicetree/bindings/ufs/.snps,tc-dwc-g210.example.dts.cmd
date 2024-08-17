@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/ufs/snps,tc-dwc-g210.example.dts := dt-extract-example Documentation/devicetree/bindings/ufs/snps,tc-dwc-g210.yaml > Documentation/devicetree/bindings/ufs/snps,tc-dwc-g210.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interconnect/qcom,rpmh.example.dts := dt-extract-example Documentation/devicetree/bindings/interconnect/qcom,rpmh.yaml > Documentation/devicetree/bindings/interconnect/qcom,rpmh.example.dts

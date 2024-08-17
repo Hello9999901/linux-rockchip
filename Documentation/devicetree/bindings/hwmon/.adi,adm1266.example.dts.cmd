@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwmon/adi,adm1266.example.dts := dt-extract-example Documentation/devicetree/bindings/hwmon/adi,adm1266.yaml > Documentation/devicetree/bindings/hwmon/adi,adm1266.example.dts

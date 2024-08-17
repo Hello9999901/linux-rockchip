@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/socionext,uniphier-pinctrl.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/socionext,uniphier-pinctrl.yaml > Documentation/devicetree/bindings/pinctrl/socionext,uniphier-pinctrl.example.dts

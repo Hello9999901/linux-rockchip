@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/rockchip/grf.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/rockchip/grf.yaml > Documentation/devicetree/bindings/soc/rockchip/grf.example.dts

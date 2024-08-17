@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/qcom,mpm.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/qcom,mpm.yaml > Documentation/devicetree/bindings/interrupt-controller/qcom,mpm.example.dts

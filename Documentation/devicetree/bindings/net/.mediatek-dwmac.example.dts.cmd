@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/mediatek-dwmac.example.dts := dt-extract-example Documentation/devicetree/bindings/net/mediatek-dwmac.yaml > Documentation/devicetree/bindings/net/mediatek-dwmac.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/socionext,uniphier-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/socionext,uniphier-regulator.yaml > Documentation/devicetree/bindings/regulator/socionext,uniphier-regulator.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/gpu/arm,mali-bifrost.example.dts := dt-extract-example Documentation/devicetree/bindings/gpu/arm,mali-bifrost.yaml > Documentation/devicetree/bindings/gpu/arm,mali-bifrost.example.dts

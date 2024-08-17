@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/soc/ti/k3-ringacc.example.dts := dt-extract-example Documentation/devicetree/bindings/soc/ti/k3-ringacc.yaml > Documentation/devicetree/bindings/soc/ti/k3-ringacc.example.dts

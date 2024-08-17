@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/pse-pd/pse-controller.example.dts := dt-extract-example Documentation/devicetree/bindings/net/pse-pd/pse-controller.yaml > Documentation/devicetree/bindings/net/pse-pd/pse-controller.example.dts

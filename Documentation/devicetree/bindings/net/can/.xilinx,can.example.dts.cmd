@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/can/xilinx,can.example.dts := dt-extract-example Documentation/devicetree/bindings/net/can/xilinx,can.yaml > Documentation/devicetree/bindings/net/can/xilinx,can.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/kontron,sl28cpld-intc.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/kontron,sl28cpld-intc.yaml > Documentation/devicetree/bindings/interrupt-controller/kontron,sl28cpld-intc.example.dts

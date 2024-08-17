@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/wlf,arizona.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/wlf,arizona.yaml > Documentation/devicetree/bindings/regulator/wlf,arizona.example.dts

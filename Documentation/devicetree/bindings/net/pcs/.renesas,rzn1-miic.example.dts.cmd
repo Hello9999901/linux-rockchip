@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/pcs/renesas,rzn1-miic.example.dts := dt-extract-example Documentation/devicetree/bindings/net/pcs/renesas,rzn1-miic.yaml > Documentation/devicetree/bindings/net/pcs/renesas,rzn1-miic.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/silead,gsl1680.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/silead,gsl1680.yaml > Documentation/devicetree/bindings/input/touchscreen/silead,gsl1680.example.dts

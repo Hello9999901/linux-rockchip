@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interrupt-controller/rda,8810pl-intc.example.dts := dt-extract-example Documentation/devicetree/bindings/interrupt-controller/rda,8810pl-intc.yaml > Documentation/devicetree/bindings/interrupt-controller/rda,8810pl-intc.example.dts

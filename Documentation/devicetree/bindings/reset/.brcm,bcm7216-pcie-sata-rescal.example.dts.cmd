@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/reset/brcm,bcm7216-pcie-sata-rescal.example.dts := dt-extract-example Documentation/devicetree/bindings/reset/brcm,bcm7216-pcie-sata-rescal.yaml > Documentation/devicetree/bindings/reset/brcm,bcm7216-pcie-sata-rescal.example.dts

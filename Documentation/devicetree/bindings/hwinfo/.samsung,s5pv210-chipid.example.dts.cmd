@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/hwinfo/samsung,s5pv210-chipid.example.dts := dt-extract-example Documentation/devicetree/bindings/hwinfo/samsung,s5pv210-chipid.yaml > Documentation/devicetree/bindings/hwinfo/samsung,s5pv210-chipid.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/interconnect/qcom,osm-l3.example.dts := dt-extract-example Documentation/devicetree/bindings/interconnect/qcom,osm-l3.yaml > Documentation/devicetree/bindings/interconnect/qcom,osm-l3.example.dts

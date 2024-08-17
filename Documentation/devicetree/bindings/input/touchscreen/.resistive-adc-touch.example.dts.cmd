@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/resistive-adc-touch.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/resistive-adc-touch.yaml > Documentation/devicetree/bindings/input/touchscreen/resistive-adc-touch.example.dts

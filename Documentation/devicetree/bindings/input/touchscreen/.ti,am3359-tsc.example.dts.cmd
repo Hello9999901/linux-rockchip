@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/touchscreen/ti,am3359-tsc.example.dts := dt-extract-example Documentation/devicetree/bindings/input/touchscreen/ti,am3359-tsc.yaml > Documentation/devicetree/bindings/input/touchscreen/ti,am3359-tsc.example.dts

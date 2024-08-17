@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/firmware/nvidia,tegra186-bpmp.example.dts := dt-extract-example Documentation/devicetree/bindings/firmware/nvidia,tegra186-bpmp.yaml > Documentation/devicetree/bindings/firmware/nvidia,tegra186-bpmp.example.dts

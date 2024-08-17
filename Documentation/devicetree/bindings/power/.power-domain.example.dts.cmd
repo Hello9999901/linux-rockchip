@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/power/power-domain.example.dts := dt-extract-example Documentation/devicetree/bindings/power/power-domain.yaml > Documentation/devicetree/bindings/power/power-domain.example.dts

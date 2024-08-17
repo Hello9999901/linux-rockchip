@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/mediatek,mt6779-keypad.example.dts := dt-extract-example Documentation/devicetree/bindings/input/mediatek,mt6779-keypad.yaml > Documentation/devicetree/bindings/input/mediatek,mt6779-keypad.example.dts

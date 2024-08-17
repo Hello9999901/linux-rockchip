@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/intel,dwmac-plat.example.dts := dt-extract-example Documentation/devicetree/bindings/net/intel,dwmac-plat.yaml > Documentation/devicetree/bindings/net/intel,dwmac-plat.example.dts

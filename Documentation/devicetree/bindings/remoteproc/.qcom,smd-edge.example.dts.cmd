@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/qcom,smd-edge.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/qcom,smd-edge.yaml > Documentation/devicetree/bindings/remoteproc/qcom,smd-edge.example.dts

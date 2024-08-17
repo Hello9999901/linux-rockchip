@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/regulator/richtek,rtmv20-regulator.example.dts := dt-extract-example Documentation/devicetree/bindings/regulator/richtek,rtmv20-regulator.yaml > Documentation/devicetree/bindings/regulator/richtek,rtmv20-regulator.example.dts

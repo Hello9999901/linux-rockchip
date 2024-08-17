@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/can/microchip,mpfs-can.example.dts := dt-extract-example Documentation/devicetree/bindings/net/can/microchip,mpfs-can.yaml > Documentation/devicetree/bindings/net/can/microchip,mpfs-can.example.dts

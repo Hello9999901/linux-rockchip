@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/input/google,cros-ec-keyb.example.dts := dt-extract-example Documentation/devicetree/bindings/input/google,cros-ec-keyb.yaml > Documentation/devicetree/bindings/input/google,cros-ec-keyb.example.dts

@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/phy/qcom,qmp-pcie-phy.example.dts := dt-extract-example Documentation/devicetree/bindings/phy/qcom,qmp-pcie-phy.yaml > Documentation/devicetree/bindings/phy/qcom,qmp-pcie-phy.example.dts

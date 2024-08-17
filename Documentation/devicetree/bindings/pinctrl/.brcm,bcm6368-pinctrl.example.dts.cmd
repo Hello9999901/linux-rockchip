@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/pinctrl/brcm,bcm6368-pinctrl.example.dts := dt-extract-example Documentation/devicetree/bindings/pinctrl/brcm,bcm6368-pinctrl.yaml > Documentation/devicetree/bindings/pinctrl/brcm,bcm6368-pinctrl.example.dts

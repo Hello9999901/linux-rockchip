@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/net/mediatek,net.example.dts := dt-extract-example Documentation/devicetree/bindings/net/mediatek,net.yaml > Documentation/devicetree/bindings/net/mediatek,net.example.dts

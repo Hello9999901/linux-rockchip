@@ -1,0 +1,1 @@
+cmd_Documentation/devicetree/bindings/remoteproc/st,stm32-rproc.example.dts := dt-extract-example Documentation/devicetree/bindings/remoteproc/st,stm32-rproc.yaml > Documentation/devicetree/bindings/remoteproc/st,stm32-rproc.example.dts
