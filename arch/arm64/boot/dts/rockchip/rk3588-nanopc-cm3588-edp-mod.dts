@@ -18,6 +18,8 @@
 #include "rk3588s-nanopi-r6-common.dtsi"
 
 #include <dt-bindings/display/media-bus-format.h>
+#include <dt-bindings/clock/rk3588-cru.h>
+#include <dt-bindings/display/rockchip_vop.h>
 
 / {
 	model = "anyon_e CM3588";
@@ -183,18 +185,19 @@
 	panel-edp1 {
         compatible = "simple-panel";
         power-supply = <&vcc3v3_lcd>;
-        hpd-reliable-delay-ms = <15>;
-        init-delay-ms = <20>;
-        prepare-delay-ms = <300>; // t1 to t6
-        enable-delay-ms = <50>; // valid video delay
-        unprepare-delay-ms = <120>;
-        disable-delay-ms = <120>;
+        status = "okay";
+        prepare-delay-ms = <20>;
+        enable-delay-ms = <20>;
+        // prepare-delay-ms = <120>; // t1 to t6
+        // enable-delay-ms = <50>; // valid video delay
+        // unprepare-delay-ms = <120>;
+        // disable-delay-ms = <120>;
         width-mm = <294>;
         height-mm = <165>;
         // bus-format = <MEDIA_BUS_FMT_RGB888_1X24>;
         // bpc = <8>;
         panel-timing {
-            clock-frequency = <533250000>;
+            clock-frequency = <547130000>;
             hactive = <3840>;
             vactive = <2160>;
             hfront-porch = <48>;
@@ -271,7 +274,7 @@
 
 &hdmi0 {
 	enable-gpios = <&gpio4 RK_PB1 GPIO_ACTIVE_HIGH>;
-	status = "okay";
+	status = "disabled";
 };
 
 &hdmi0_in_vp0 {
@@ -279,7 +282,7 @@
 };
 
 &hdmi0_in_vp1 {
-	status = "okay";
+	status = "disabled";
 };
 
 &hdmi0_in_vp2 {
@@ -287,7 +290,11 @@
 };
 
 &hdmi0_sound {
-	status = "okay";
+	status = "disabled";
+};
+
+&route_hdmi0 {
+	status = "disabled";
 };
 
 // END
@@ -321,22 +328,30 @@
 
 &edp1 {
     // analogix,video-bist-enable;
-    panel-self-test;
+    // panel-self-test;
     pinctrl-names = "default";
     pinctrl-0 = <&edp1_hpd>;
     hpd-gpios = <&gpio3 RK_PB7 GPIO_ACTIVE_HIGH>;
-    //force-hpd;
+    // force-hpd;
     status = "okay";
 
     ports {
     	port@1 {
           	reg = <1>;
+            #address-cells = <1>;
+            #size-cells = <0>;
 
-            edp1_out_panel: endpoint {
+            edp1_out_panel: endpoint@0 {
+                reg = <0>;
               	remote-endpoint = <&panel_in_edp1>;
             };
         };
     };
+};
+
+&route_edp1 {
+	status = "okay";
+	connect = <&vp0_out_edp1>;
 };
 
 &edp1_in_vp0 {
@@ -349,6 +364,22 @@
 
 &edp1_in_vp2 {
 	status = "disabled";
+};
+
+&display_subsystem {
+	status = "okay";
+	/delete-property/ clocks;
+	/delete-property/ clock-names;
+};
+
+&vp0 {
+	assigned-clocks = <&cru DCLK_VOP0_SRC>;
+	assigned-clock-parents = <&cru PLL_V0PLL>;
+};
+
+&vp2 {
+	assigned-clocks = <&cru DCLK_VOP2_SRC>;
+	assigned-clock-parents = <&cru PLL_GPLL>;
 };
 
 // END

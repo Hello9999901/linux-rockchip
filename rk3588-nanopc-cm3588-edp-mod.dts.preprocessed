@@ -24521,6 +24521,8 @@
 # 3 "include/dt-bindings/display/media-bus-format.h" 2
 # 21 "./arch/arm64/boot/dts/rockchip/rk3588-nanopc-cm3588-edp-mod.dts" 2
 
+
+
 / {
  model = "anyon_e CM3588";
  compatible = "friendlyelec,cm3588", "byran,anyon_e", "rockchip,rk3588";
@@ -24685,16 +24687,17 @@
  panel-edp1 {
         compatible = "simple-panel";
         power-supply = <&vcc3v3_lcd>;
-        hpd-reliable-delay-ms = <15>;
-        init-delay-ms = <20>;
-        prepare-delay-ms = <200>;
-        enable-delay-ms = <50>;
-        unprepare-delay-ms = <120>;
-        disable-delay-ms = <120>;
+        status = "okay";
+        prepare-delay-ms = <20>;
+        enable-delay-ms = <20>;
+
+
+
+
         width-mm = <294>;
         height-mm = <165>;
-        bus-format = <0x100a>;
-        bpc = <8>;
+
+
         panel-timing {
             clock-frequency = <547130000>;
             hactive = <3840>;
@@ -24773,11 +24776,11 @@
 
 &hdmi0 {
  enable-gpios = <&gpio4 9 0>;
- status = "okay";
+ status = "disabled";
 };
 
 &hdmi0_in_vp0 {
- status = "okay";
+ status = "disabled";
 };
 
 &hdmi0_in_vp1 {
@@ -24789,12 +24792,16 @@
 };
 
 &hdmi0_sound {
- status = "okay";
+ status = "disabled";
 };
-# 322 "./arch/arm64/boot/dts/rockchip/rk3588-nanopc-cm3588-edp-mod.dts"
+
+&route_hdmi0 {
+ status = "disabled";
+};
+# 329 "./arch/arm64/boot/dts/rockchip/rk3588-nanopc-cm3588-edp-mod.dts"
 &edp1 {
 
-    panel-self-test;
+
     pinctrl-names = "default";
     pinctrl-0 = <&edp1_hpd>;
     hpd-gpios = <&gpio3 15 0>;
@@ -24804,24 +24811,48 @@
     ports {
      port@1 {
            reg = <1>;
+            #address-cells = <1>;
+            #size-cells = <0>;
 
-            edp1_out_panel: endpoint {
+            edp1_out_panel: endpoint@0 {
+                reg = <0>;
                remote-endpoint = <&panel_in_edp1>;
             };
         };
     };
 };
 
+&route_edp1 {
+ status = "okay";
+ connect = <&vp0_out_edp1>;
+};
+
 &edp1_in_vp0 {
- status = "disabled";
+ status = "okay";
 };
 
 &edp1_in_vp1 {
- status = "okay";
+ status = "disabled";
 };
 
 &edp1_in_vp2 {
  status = "disabled";
+};
+
+&display_subsystem {
+ status = "okay";
+ /delete-property/ clocks;
+ /delete-property/ clock-names;
+};
+
+&vp0 {
+ assigned-clocks = <&cru 625>;
+ assigned-clock-parents = <&cru 4>;
+};
+
+&vp2 {
+ assigned-clocks = <&cru 627>;
+ assigned-clock-parents = <&cru 7>;
 };
 
 
