@@ -26,11 +26,6 @@
 	compatible = "friendlyelec,cm3588", "byran,anyon_e", "rockchip,rk3588";
 
 	aliases {
-		ethernet0 = &r8125_u10;
-		nvme0 = &nvme0;
-		nvme1 = &nvme1;
-		nvme2 = &nvme2;
-		nvme3 = &nvme3;
 	};
 
 	dp0_sound: dp0-sound {
@@ -40,6 +35,33 @@
 		rockchip,mclk-fs = <512>;
 		rockchip,cpu = <&spdif_tx2>;
 		rockchip,codec = <&dp0 1>;
+	};
+
+	// bt_wake: bt-wake-gpio-regulator { // gpio not connected
+	// 	compatible = "regulator-fixed";
+	// 	regulator-name = "bt_wake";
+	// 	enable-active-high;
+	// 	gpio = <&gpio3 RK_PD5 GPIO_ACTIVE_HIGH>;
+	// 	regulator-boot-on;
+	// 	regulator-always-on;
+	// };
+
+	sdio_pwrseq: sdio-pwrseq {
+		compatible = "mmc-pwrseq-simple";
+		// clocks = <&hym8563>; // clock doesn't exist on anyon_e
+		// clock-names = "ext_clock";
+		pinctrl-names = "default";
+		pinctrl-0 = <&wifi_enable_h>;
+		reset-gpios = <&gpio0 RK_PC4 GPIO_ACTIVE_LOW>;
+	};
+
+	wireless_wlan: wireless-wlan {
+		compatible = "wlan-platdata";
+		wifi_chip_type = "ap6256";
+		pinctrl-names = "default";
+		pinctrl-0 = <&wifi_host_wake_irq>;
+		WIFI,host_wake_irq = <&gpio0 RK_PB2 GPIO_ACTIVE_HIGH>;
+		status = "okay";
 	};
 
 	rt5616_sound: rt5616-sound {
@@ -548,104 +570,44 @@
 
 // 4x PCIE3.0x1
 
-&pcie2x1l0 {
-	/* 2. CON14: pcie30phy port0 lane1 */
-	max-link-speed = <3>;
-	num-lanes = <1>;
-	phys = <&pcie30phy>;
-	reset-gpios = <&gpio4 RK_PB4 GPIO_ACTIVE_HIGH>;
-	vpcie3v3-supply = <&vcc3v3_pcie30>;
-	status = "okay";
-
-	pcie@20 {
-		reg = <0x00200000 0 0 0 0>;
-		#address-cells = <3>;
-		#size-cells = <2>;
-
-		nvme1: pcie@20,0 {
-			reg = <0x000000 0 0 0 0>;
-		};
-	};
-};
-
-&pcie2x1l1 {
-	/* 4. CON16: pcie30phy port1 lane1 */
-	max-link-speed = <3>;
-	num-lanes = <1>;
-	phys = <&pcie30phy>;
-	reset-gpios = <&gpio4 RK_PA2 GPIO_ACTIVE_HIGH>;
-	vpcie3v3-supply = <&vcc3v3_pcie30>;
-	status = "okay";
-
-	pcie@30 {
-		reg = <0x00300000 0 0 0 0>;
-		#address-cells = <3>;
-		#size-cells = <2>;
-
-		nvme3: pcie@30,0 {
-			reg = <0x000000 0 0 0 0>;
-		};
-	};
-};
-
 &pcie2x1l2 {
-	reset-gpios = <&gpio4 RK_PA4 GPIO_ACTIVE_HIGH>;
-	vpcie3v3-supply = <&vcc_3v3_pcie20>;
+	reset-gpios = <&gpio3 RK_PB0 GPIO_ACTIVE_HIGH>;
+	vpcie3v3-supply = <&vcc3v3_pcie30>;
 	status = "okay";
+};
 
-	pcie@40 {
-		reg = <0x00400000 0 0 0 0>;
-		#address-cells = <3>;
-		#size-cells = <2>;
-
-		r8125_u10: pcie@40,0 {
-			reg = <0x000000 0 0 0 0>;
-			local-mac-address = [ 00 00 00 00 00 00 ];
-		};
-	};
+&pcie2x1l0 {
+	reset-gpios = <&gpio4 RK_PA5 GPIO_ACTIVE_HIGH>;
+	vpcie3v3-supply = <&vcc3v3_pcie30>;
+	status = "okay";
 };
 
 &pcie30phy {
-	rockchip,pcie30-phymode = <PHY_MODE_PCIE_NABIBI>;
+	// rockchip,pcie30-phymode = <PHY_MODE_PCIE_NABIBI>;
 	status = "okay";
 };
 
 &pcie3x4 {
-	/* 1. CON13: pcie30phy port0 lane0 */
-	max-link-speed = <3>;
-	num-lanes = <1>;
 	reset-gpios = <&gpio4 RK_PB6 GPIO_ACTIVE_HIGH>;
 	vpcie3v3-supply = <&vcc3v3_pcie30>;
 	status = "okay";
-
-	pcie@00 {
-		reg = <0x00000000 0 0 0 0>;
-		#address-cells = <3>;
-		#size-cells = <2>;
-
-		nvme0: pcie@00,0 {
-			reg = <0x000000 0 0 0 0>;
-		};
-	};
 };
 
-&pcie3x2 {
-	/* 3. CON15: pcie30phy port1 lane0 */
-	max-link-speed = <3>;
-	num-lanes = <1>;
-	reset-gpios = <&gpio4 RK_PB3 GPIO_ACTIVE_HIGH>;
-	vpcie3v3-supply = <&vcc3v3_pcie30>;
+&sdio {
+	max-frequency = <150000000>;
+	supports-sdio;
+	bus-width = <4>;
+	disable-wp;
+	cap-sd-highspeed;
+	cap-sdio-irq;
+	keep-power-in-suspend;
+	mmc-pwrseq = <&sdio_pwrseq>;
+	non-removable;
+	num-slots = <1>;
+	pinctrl-names = "default";
+	pinctrl-0 = <&sdiom0_pins>;
+	sd-uhs-sdr104;
 	status = "okay";
-
-	pcie@10 {
-		reg = <0x00100000 0 0 0 0>;
-		#address-cells = <3>;
-		#size-cells = <2>;
-
-		nvme2: pcie@10,0 {
-			reg = <0x000000 0 0 0 0>;
-		};
-	};
 };
 
 &pinctrl {
@@ -681,32 +643,6 @@
 	hdmi {
 	};
 
-	lcd {
-		/omit-if-no-ref/
-		lcd_rst0_gpio: lcd-rst0-gpio {
-			rockchip,pins = <3 RK_PA6 RK_FUNC_GPIO &pcfg_pull_none>;
-		};
-
-		/omit-if-no-ref/
-		lcd_rst1_gpio: lcd-rst1-gpio {
-			rockchip,pins = <4 RK_PA3 RK_FUNC_GPIO &pcfg_pull_none>;
-		};
-
-		/omit-if-no-ref/
-		touch_dsi0_gpio: touch-dsi0-gpio {
-			rockchip,pins =
-				<3 RK_PC0 RK_FUNC_GPIO &pcfg_pull_up>,
-				<3 RK_PC1 RK_FUNC_GPIO &pcfg_pull_none>;
-		};
-
-		/omit-if-no-ref/
-		touch_dsi1_gpio: touch-dsi1-gpio {
-			rockchip,pins =
-				<4 RK_PA0 RK_FUNC_GPIO &pcfg_pull_up>,
-				<4 RK_PA1 RK_FUNC_GPIO &pcfg_pull_none>;
-		};
-	};
-
 	sdmmc {
 		sd_s0_pwr: sd-s0-pwr {
 			rockchip,pins = <4 RK_PA5 RK_FUNC_GPIO &pcfg_pull_down>;
@@ -722,6 +658,32 @@
 		};
 		vcc3v3_host32_en: vcc3v3-host32-en {
 			rockchip,pins = <3 RK_PA5 RK_FUNC_GPIO &pcfg_pull_none>;
+		};
+	};
+
+	sdio-pwrseq {
+		wifi_enable_h: wifi-enable-h {
+			rockchip,pins = <0 RK_PC4 RK_FUNC_GPIO &pcfg_pull_none>;
+		};
+	};
+
+	wireless-wlan {
+		wifi_host_wake_irq: wifi-host-wake-irq {
+			rockchip,pins = <0 RK_PB2 RK_FUNC_GPIO &pcfg_pull_down>;
+		};
+	};
+
+	bt {
+		bt_enable_h: bt-enable-h {
+			rockchip,pins = <3 RK_PA6 RK_FUNC_GPIO &pcfg_pull_none>;
+		};
+
+		bt_host_wake_l: bt-host-wake-l {
+			rockchip,pins = <0 RK_PC5 RK_FUNC_GPIO &pcfg_pull_none>;
+		};
+
+		bt_wake_l: bt-wake-l {
+			rockchip,pins = <3 RK_PD5 RK_FUNC_GPIO &pcfg_pull_none>;
 		};
 	};
 };
@@ -923,8 +885,21 @@
 };
 
 &uart6 {
-	pinctrl-0 = <&uart6m1_xfer>;
+	pinctrl-names = "default";
+	pinctrl-0 = <&uart6m1_xfer &uart6m1_ctsn &uart6m1_rtsn>;
 	status = "okay";
+
+	bluetooth {
+		compatible = "brcm,bcm4345c5";
+		// clocks = <&hym8563>;
+		// clock-names = "ext_clock";
+		host-wakeup-gpios = <&gpio0 RK_PC5 GPIO_ACTIVE_HIGH>;
+		shutdown-gpios = <&gpio3 RK_PA6 GPIO_ACTIVE_HIGH>;
+		max-speed = <1500000>;
+		pinctrl-names = "default";
+		pinctrl-0 = <&bt_host_wake_l &bt_wake_l &bt_enable_h>;
+		vbat-supply = <&vcc3v3_pcie30>;
+	};
 };
 
 &uart7 {

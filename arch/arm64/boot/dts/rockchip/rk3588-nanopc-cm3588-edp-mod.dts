@@ -137,7 +137,7 @@
 	vcc5v0_host_30: vcc5v0-host-30 {
 		compatible = "regulator-fixed";
 		enable-active-high;
-		gpio = <&gpio4 RK_PB0 GPIO_ACTIVE_HIGH>;
+		gpio = <&gpio3 RK_PB4 GPIO_ACTIVE_HIGH>;
 		pinctrl-names = "default";
 		pinctrl-0 = <&vcc5v0_host30_en>;
 		regulator-name = "vcc5v0_host_30";
