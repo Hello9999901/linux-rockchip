@@ -218,7 +218,7 @@
         };
     };
 
-	vcc3v3_lcd: vcc3v3-lcd {
+	vcc3v3_lcd: vcc3v3_lcd {
 		compatible = "regulator-fixed";
 		regulator-name = "vcc3v3_lcd";
 		vin-supply = <&vcc3v3_pcie30>;
@@ -248,11 +248,11 @@
 };
 
 &dp0_in_vp1 {
-	status = "disabled";
+	status = "okay";
 };
 
 &dp0_in_vp2 {
-	status = "okay";
+	status = "disabled";
 };
 
 &dp0_sound {
@@ -299,40 +299,13 @@
 
 // END
 
-// HDMI/eDP 1 PHY (disabled HDMI1)
-
-// &hdmi1 {
-// 	enable-gpios = <&gpio4 RK_PB2 GPIO_ACTIVE_HIGH>;
-// 	status = "okay";
-// };
-
-// &hdmi1_in_vp0 {
-// 	status = "disabled";
-// };
-
-// &hdmi1_in_vp1 {
-// 	status = "okay";
-// };
-
-// &hdmi1_in_vp2 {
-// 	status = "disabled";
-// };
-
-// &hdmi1_sound {
-// 	status = "okay";
-// };
-
-// &hdmiin_sound {
-// 	status = "okay";
-// };
-
 &edp1 {
     // analogix,video-bist-enable;
-    // panel-self-test;
-    pinctrl-names = "default";
-    pinctrl-0 = <&edp1_hpd>;
-    hpd-gpios = <&gpio3 RK_PB7 GPIO_ACTIVE_HIGH>;
-    // force-hpd;
+    panel-self-test;
+    // pinctrl-names = "default";
+    // pinctrl-0 = <&edp1_hpd>;
+    // hpd-gpios = <&gpio3 RK_PB7 GPIO_ACTIVE_HIGH>;
+    force-hpd;
     status = "okay";
 
     ports {
@@ -386,8 +359,12 @@
 
 // Enable the physical Samsung IP cores (hdptx)
 
+&hdptxphy0 {
+	status = "disabled";
+};
+
 &hdptxphy_hdmi0 {
-	status = "okay";
+	status = "disabled";
 };
 
 // &hdptxphy_hdmi1 {
@@ -653,6 +630,9 @@
     edp {
 		edp1_hpd: edp1-hpd {
 			rockchip,pins = <3 RK_PB7 RK_FUNC_GPIO &pcfg_pull_none>;
+		};
+		edp1_pwr: edp1-pwr {
+			rockchip,pins = <3 RK_PA7 RK_FUNC_GPIO &pcfg_pull_none>;
 		};
 	};
 

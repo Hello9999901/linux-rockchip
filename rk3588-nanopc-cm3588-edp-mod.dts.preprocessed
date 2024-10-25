@@ -24720,9 +24720,17 @@
         };
     };
 
- vcc3v3_lcd: vcc3v3-lcd {
+ vcc3v3_lcd: vcc3v3_lcd {
   compatible = "regulator-fixed";
-  regulator-name = "vcc3v3_lcd";
+  enable-active-high;
+  regulator-always-on;
+  regulator-boot-on;
+  gpio = <&gpio3 7 0>;
+  pinctrl-names = "default";
+  pinctrl-0 = <&edp1_pwr>;
+  regulator-name = "edp1_pwr";
+  regulator-min-microvolt = <3300000>;
+  regulator-max-microvolt = <3300000>;
   vin-supply = <&vcc3v3_pcie30>;
  };
 };
@@ -24750,11 +24758,11 @@
 };
 
 &dp0_in_vp1 {
- status = "disabled";
+ status = "okay";
 };
 
 &dp0_in_vp2 {
- status = "okay";
+ status = "disabled";
 };
 
 &dp0_sound {
@@ -24798,14 +24806,16 @@
 &route_hdmi0 {
  status = "disabled";
 };
-# 329 "./arch/arm64/boot/dts/rockchip/rk3588-nanopc-cm3588-edp-mod.dts"
+
+
+
 &edp1 {
 
+    panel-self-test;
 
-    pinctrl-names = "default";
-    pinctrl-0 = <&edp1_hpd>;
-    hpd-gpios = <&gpio3 15 0>;
 
+
+    force-hpd;
     status = "okay";
 
     ports {
@@ -24859,8 +24869,12 @@
 
 
 
+&hdptxphy0 {
+ status = "disabled";
+};
+
 &hdptxphy_hdmi0 {
- status = "okay";
+ status = "disabled";
 };
 
 
@@ -25126,6 +25140,9 @@
     edp {
   edp1_hpd: edp1-hpd {
    rockchip,pins = <3 15 0 &pcfg_pull_none>;
+  };
+  edp1_pwr: edp1-pwr {
+   rockchip,pins = <3 7 0 &pcfg_pull_none>;
   };
  };
 
