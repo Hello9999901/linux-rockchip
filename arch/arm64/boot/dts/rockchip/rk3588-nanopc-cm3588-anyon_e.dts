@@ -48,13 +48,13 @@
 		simple-audio-card,hp-pin-name = "Headphone Jack";
 
 		simple-audio-card,widgets =
-			"Headphone", "Headphone Jack",
-			"Microphone", "Microphone Jack";
+			"Headphone", "Headphones",
+			"Microphone", "MicrophoneJack";
 		simple-audio-card,routing =
-			"Headphone Jack", "HPOL",
-			"Headphone Jack", "HPOR",
-			"MIC1", "Microphone Jack",
-			"Microphone Jack", "micbias1";
+			"Headphones", "HPOL",
+			"Headphones", "HPOR",
+			"MIC1", "MicrophoneJack",
+			"MicrophoneJack", "micbias1";
 
 		simple-audio-card,cpu {
 			sound-dai = <&i2s0_8ch>;
@@ -492,7 +492,6 @@
 		pinctrl-names = "default";
 		pinctrl-0 = <&i2s0_mclk>;
 	};
-
 	/* connected with MIPI-CSI1 */
 };
 
@@ -793,23 +792,35 @@
 	status = "okay";
 };
 
-&spi0 {
-	num-cs = <1>;
-	pinctrl-0 = <&spi0m2_cs0 &spi0m2_pins>;
-	status = "disabled";
+&sfc {
+	status = "okay";
+	max-freq = <50000000>;
+	#address-cells = <1>;
+	#size-cells = <0>;
+	pinctrl-names = "default";
+	pinctrl-0 = <&fspim2_pins>;
 
-	spidev0: spidev@0 {
-		compatible = "rockchip,spidev";
-		reg = <0>;
-		spi-max-frequency = <5000000>;
-		status = "disabled";
+	spi_flash: spi-flash@0 {
+		#address-cells = <1>;
+		#size-cells = <0>;
+		compatible = "jedec,spi-nor";
+		reg = <0x0>;
+		spi-max-frequency = <50000000>;
+		spi-tx-bus-width = <1>;
+		spi-rx-bus-width = <4>;
+		status = "okay";
+
+		partitions {
+			compatible = "fixed-partitions";
+			#address-cells = <1>;
+			#size-cells = <1>;
+
+			loader@0 {
+				label = "loader";
+				reg = <0x0 0x1000000>;
+			};
+		};
 	};
-};
-
-&spi4 {
-	num-cs = <1>;
-	pinctrl-0 = <&spi4m1_cs0 &spi4m1_pins>;
-	status = "disabled";
 };
 
 &uart0 {
