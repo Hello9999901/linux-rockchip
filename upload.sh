@@ -10,12 +10,3 @@ send "exit\r"
 spawn scp ./edp-mod.dtb t9@10.1.20.214:/usr/lib/firmware/6.1.0-1021-rockchip/device-tree/rockchip
 expect "password:"
 send "t\r"
-
-# SSH, update boot, and shut down
-spawn ssh t9@10.1.20.214
-expect "password:"
-send "t\r"
-send "sudo u-boot-update\r"
-expect "password:"
-send "t\r"
-send "sudo shutdown -h now\r"

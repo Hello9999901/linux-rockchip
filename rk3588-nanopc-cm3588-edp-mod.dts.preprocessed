@@ -24682,13 +24682,10 @@
   vin-supply = <&vcc5v0_sys>;
  };
 
-
-
  panel-edp1 {
         compatible = "simple-panel";
         power-supply = <&vcc3v3_lcd>;
         status = "okay";
-
 
         prepare-delay-ms = <120>;
         enable-delay-ms = <50>;
@@ -24698,6 +24695,7 @@
         height-mm = <165>;
         bus-format = <0x100a>;
         bpc = <8>;
+
         panel-timing {
             clock-frequency = <547130000>;
             hactive = <3840>;
@@ -24720,22 +24718,26 @@
         };
     };
 
- vcc3v3_lcd: vcc3v3_lcd {
+ vcc3v3_lcd: vcc3v3-lcd {
   compatible = "regulator-fixed";
+  regulator-name = "vcc3v3_lcd";
+  vin-supply = <&vcc3v3_pcie30>;
   enable-active-high;
   regulator-always-on;
   regulator-boot-on;
   gpio = <&gpio3 7 0>;
   pinctrl-names = "default";
   pinctrl-0 = <&edp1_pwr>;
-  regulator-name = "edp1_pwr";
   regulator-min-microvolt = <3300000>;
   regulator-max-microvolt = <3300000>;
-  vin-supply = <&vcc3v3_pcie30>;
  };
 };
 
 
+
+&combphy0_ps {
+ status = "okay";
+};
 
 &combphy1_ps {
  status = "okay";
@@ -24758,11 +24760,11 @@
 };
 
 &dp0_in_vp1 {
- status = "okay";
+ status = "disabled";
 };
 
 &dp0_in_vp2 {
- status = "disabled";
+ status = "okay";
 };
 
 &dp0_sound {
@@ -24783,7 +24785,6 @@
 
 
 &hdmi0 {
- enable-gpios = <&gpio4 9 0>;
  status = "disabled";
 };
 
@@ -24809,13 +24810,14 @@
 
 
 
+
 &edp1 {
 
-    panel-self-test;
 
+    pinctrl-names = "default";
+    pinctrl-0 = <&edp1_hpd>;
+    hpd-gpios = <&gpio3 15 0>;
 
-
-    force-hpd;
     status = "okay";
 
     ports {
@@ -24869,12 +24871,8 @@
 
 
 
-&hdptxphy0 {
- status = "disabled";
-};
-
 &hdptxphy_hdmi0 {
- status = "disabled";
+ status = "okay";
 };
 
 

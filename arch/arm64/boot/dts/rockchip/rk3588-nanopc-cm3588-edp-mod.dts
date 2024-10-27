@@ -180,14 +180,11 @@
 		vin-supply = <&vcc5v0_sys>;
 	};
 
-	// ADD EDP PANEL
-
 	panel-edp1 {
         compatible = "simple-panel";
         power-supply = <&vcc3v3_lcd>;
         status = "okay";
-        // prepare-delay-ms = <20>;
-        // enable-delay-ms = <20>;
+
         prepare-delay-ms = <120>; // t1 to t6
         enable-delay-ms = <50>; // valid video delay
         unprepare-delay-ms = <120>;
@@ -196,6 +193,7 @@
         height-mm = <165>;
         bus-format = <MEDIA_BUS_FMT_RGB888_1X24>;
         bpc = <8>;
+
         panel-timing {
             clock-frequency = <547130000>;
             hactive = <3840>;
@@ -218,14 +216,26 @@
         };
     };
 
-	vcc3v3_lcd: vcc3v3_lcd {
+	vcc3v3_lcd: vcc3v3-lcd {
 		compatible = "regulator-fixed";
 		regulator-name = "vcc3v3_lcd";
 		vin-supply = <&vcc3v3_pcie30>;
+		enable-active-high;
+		regulator-always-on;
+		regulator-boot-on;
+		gpio = <&gpio3 RK_PA7 GPIO_ACTIVE_HIGH>;
+		pinctrl-names = "default";
+		pinctrl-0 = <&edp1_pwr>;
+		regulator-min-microvolt = <3300000>;
+		regulator-max-microvolt = <3300000>;
 	};
 };
 
 // Combo PHY for PCIE, SATA, and USB3.0
+
+&combphy0_ps {
+	status = "okay";
+};
 
 &combphy1_ps { // PCIE and SATA
 	status = "okay";
@@ -248,11 +258,11 @@
 };
 
 &dp0_in_vp1 {
-	status = "okay";
+	status = "disabled";
 };
 
 &dp0_in_vp2 {
-	status = "disabled";
+	status = "okay";
 };
 
 &dp0_sound {
@@ -273,7 +283,6 @@
 // HDMI/eDP0 PHY
 
 &hdmi0 {
-	enable-gpios = <&gpio4 RK_PB1 GPIO_ACTIVE_HIGH>;
 	status = "disabled";
 };
 
@@ -299,13 +308,14 @@
 
 // END
 
+// HDMI/eDP 1 PHY (disabled HDMI1)
 &edp1 {
     // analogix,video-bist-enable;
-    panel-self-test;
-    // pinctrl-names = "default";
-    // pinctrl-0 = <&edp1_hpd>;
-    // hpd-gpios = <&gpio3 RK_PB7 GPIO_ACTIVE_HIGH>;
-    force-hpd;
+    // panel-self-test;
+    pinctrl-names = "default";
+    pinctrl-0 = <&edp1_hpd>;
+    hpd-gpios = <&gpio3 RK_PB7 GPIO_ACTIVE_HIGH>;
+    // force-hpd;
     status = "okay";
 
     ports {
@@ -359,12 +369,8 @@
 
 // Enable the physical Samsung IP cores (hdptx)
 
-&hdptxphy0 {
-	status = "disabled";
-};
-
 &hdptxphy_hdmi0 {
-	status = "disabled";
+	status = "okay";
 };
 
 // &hdptxphy_hdmi1 {

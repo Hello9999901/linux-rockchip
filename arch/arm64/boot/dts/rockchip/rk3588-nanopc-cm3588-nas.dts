@@ -1,8 +1,16 @@
 // SPDX-License-Identifier: (GPL-2.0+ OR MIT)
 /*
- * Copyright (c) 2023 FriendlyElec Computer Tech. Co., Ltd.
- * (http://www.friendlyelec.com)
+ * Copyright (c) 2024 Byran Huang, anyon_e Project.
+ * (http://byran.ee)
  */
+
+/*
+ * changelog:
+ * model from FriendlyElec CM3588 to anyon_e CM3588
+ * added "byran, anyon_e" compatible label
+ * remove HDMI RX
+ * labeled some (confusing) nodes
+*/
 
 /dts-v1/;
 
