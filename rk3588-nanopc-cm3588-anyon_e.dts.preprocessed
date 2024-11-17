@@ -24567,17 +24567,17 @@
  };
 
  fan: pwm-fan {
-  status = "disabled";
+  status = "okay";
   compatible = "pwm-fan";
   #cooling-cells = <2>;
   pwms = <&pwm1 0 50000 0>;
   cooling-levels = <0 50 100 150 200 255>;
   rockchip,temp-trips = <
-   50000 1
-   55000 2
-   60000 3
-   65000 4
-   70000 5
+   55000 1
+   60000 2
+   65000 3
+   70000 4
+   75000 5
   >;
  };
 
@@ -24672,6 +24672,21 @@
   regulator-min-microvolt = <3300000>;
   regulator-max-microvolt = <3300000>;
   vin-supply = <&vcc5v0_sys>;
+ };
+
+ gpio-key-lid {
+  compatible = "gpio-keys";
+  pinctrl-names = "default";
+  pinctrl-0 = <&lid_sw>;
+
+  switch-lid {
+   debounce-interval = <20>;
+   gpios = <&gpio4 18 1>;
+   label = "Lid";
+   linux,code = <0x00>;
+   linux,input-type = <0x05>;
+   wakeup-source;
+  };
  };
 
  panel-edp1 {
@@ -25057,6 +25072,9 @@
  gpio-key {
   key1_pin: key1-pin {
    rockchip,pins = <0 29 0 &pcfg_pull_up>;
+  };
+  lid_sw: lid-sw {
+   rockchip,pins = <4 18 0 &pcfg_pull_up>;
   };
  };
 
